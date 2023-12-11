@@ -1,0 +1,1559 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://cdn.zhuangzhi.love/js/电视直播.json
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV1e6fb9f10dffb5155.png",CCTV-1 综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV1e6fb9f10dffb5155.png",CCTV-1 综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV1e6fb9f10dffb5155.png",CCTV-1 综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV1e6fb9f10dffb5155.png",CCTV-1 综合
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226231/index.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV2c87b233bc708c227.png",CCTV-2 财经
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV2c87b233bc708c227.png",CCTV-2 财经
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV2c87b233bc708c227.png",CCTV-2 财经
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226195/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV2c87b233bc708c227.png",CCTV-2 财经
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226224/index.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV347701d816f0bf39a.png",CCTV-3 综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV347701d816f0bf39a.png",CCTV-3 综艺
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226397/index.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV4a5e945134121f495.png",CCTV-4 中文国际
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV4a5e945134121f495.png",CCTV-4 中文国际
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226223/index.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV564307d99af051a0f.png",CCTV-5 体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV564307d99af051a0f.png",CCTV-5 体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226395/index.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-6" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV626b7467431d9ed44.png",CCTV-6 电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-6" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV626b7467431d9ed44.png",CCTV-6 电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226011/index.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-7" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV747c68cbe478527b5.png",CCTV-7 国防军事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-7" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV747c68cbe478527b5.png",CCTV-7 国防军事
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226192/index.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-8" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV80331783cd819a002.png",CCTV-8 电视剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-8" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV80331783cd819a002.png",CCTV-8 电视剧
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226391/index.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV-9" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV91abbb9cb83b06f60.png",CCTV-9 记录
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV-9" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV91abbb9cb83b06f60.png",CCTV-9 记录
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226197/index.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV-10" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV10434f28e8c1d570e2.png",CCTV-10 科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV-11" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV11265a2e123206a2cc.png",CCTV-11 戏曲
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV-11" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV11265a2e123206a2cc.png",CCTV-11 戏曲
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226240/index.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV-12" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV12fd5c642afb38170c.png",CCTV-12 社会与法
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV-12" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV12fd5c642afb38170c.png",CCTV-12 社会与法
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV134a77cb86c12d7bb9.png",CCTV-13 新闻
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV134a77cb86c12d7bb9.png",CCTV-13 新闻
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV134a77cb86c12d7bb9.png",CCTV-13 新闻
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV134a77cb86c12d7bb9.png",CCTV-13 新闻
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV134a77cb86c12d7bb9.png",CCTV-13 新闻
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226233/index.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV14bbf25f93f5b8c54e.png",CCTV-14 少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV14bbf25f93f5b8c54e.png",CCTV-14 少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV14bbf25f93f5b8c54e.png",CCTV-14 少儿
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226193/index.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV154806436df544b733.png",CCTV-15 音乐
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV16aa7741908fb4f606.png",CCTV-16 奥林匹克
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV16aa7741908fb4f606.png",CCTV-16 奥林匹克
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226921/index.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV-17" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV178ef390912c93431b.png",CCTV-17 农业农村
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV-17" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV178ef390912c93431b.png",CCTV-17 农业农村
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226198/index.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV-17" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV178ef390912c93431b.png",CCTV-17 农业农村
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226208/index.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV5029d8dc23ff8911f.png",CCTV-5+ 体育赛事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV5029d8dc23ff8911f.png",CCTV-5+ 体育赛事
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226221/index.m3u8
+
+#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/电视指南.png",电视指南
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png",第一剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png",怀旧剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png",风云剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png",风云音乐
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/风云足球.png",风云足球
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png",女性时尚
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png",女性时尚
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226237/index.m3u8
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/CCTVBQKJ.png",兵器科技
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/央视台球.png",央视台球
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png",高尔夫网球
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视精品" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/央视文化精品.png",央视文化精品
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png",CHC家庭影院
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png",CHC家庭影院
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png",CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png",CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png",CHC动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png",CHC动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226465/index.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" group-title="电视频道",tvg-logo="https://epg.112114.xyz/logo/BRTV_BRTV.png",北京卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" group-title="电视频道",tvg-logo="https://epg.112114.xyz/logo/BRTV_BRTV.png",北京卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226222/index.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png",东方卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png",东方卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226217/index.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226199/index.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png",湖南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png",湖南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png",湖南卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226211/index.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226200/index.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png",广东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png",广东卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226216/index.m3u8
+
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png",大湾区卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226218/index.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png",深圳卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png",深圳卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png",深圳卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226205/index.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png",东南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png",东南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
+
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png",厦门卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226219/index.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png",河北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png",天津卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png",天津卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226204/index.m3u8
+
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png",河南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png",山东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png",山东卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226209/index.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png",安徽卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png",安徽卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226196/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png",安徽卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226203/index.m3u8
+
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png",湖北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png",湖北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png",湖北卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226194/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png",湖北卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226206/index.m3u8
+
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png",四川卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png",重庆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png",重庆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png",重庆卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226202/index.m3u8
+
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png",江西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png",广西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
+
+#EXTINF:-1 tvg-id="72" tvg-name="海南卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png",海南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png",贵州卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png",云南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png",黑龙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png",黑龙江卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226010/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png",黑龙江卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226215/index.m3u8
+
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png",吉林卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png",辽宁卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png",辽宁卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png",辽宁卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226201/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png",辽宁卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226210/index.m3u8
+
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/06/sxwsafc843cbde2ecb2f.png",山西卫视
+http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/06/sxwsafc843cbde2ecb2f.png",山西卫视
+http://live.cooltv.top/tv/tide.php?id=sxiws2
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/06/sxwsafc843cbde2ecb2f.png",山西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/06/sxwsafc843cbde2ecb2f.png",山西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
+
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/06/shxws543b668a174e0639.png",陕西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/06/shxws543b668a174e0639.png",陕西卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226326/index.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png",甘肃卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png",宁夏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png",宁夏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png",内蒙古卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png",内蒙古卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
+
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png",青海卫视
+http://stream.qhbtv.com/qhws/sd/live.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png",青海卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png",青海卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
+
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png",西藏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png",西藏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png",西藏卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226212/index.m3u8
+
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png",新疆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png",新疆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
+
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰中文" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png",凤凰中文
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226547/index.m3u8
+
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png",凤凰资讯
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226546/index.m3u8
+
+#EXTINF:-1 tvg-id="57" tvg-name="农林卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/农林卫视.png",农林卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226229/index.m3u8
+
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png",兵团卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226214/index.m3u8
+
+#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/延边卫视.png",延边卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226220/index.m3u8
+
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" group-title="上海频道" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png",上海纪实人文
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" group-title="上海频道" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png",上海纪实人文
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226230/index.m3u8
+
+#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/BRTV_DOCUMENTARY.png" group-title="电视频道" 北京纪实科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/BRTV_DOCUMENTARY.png" group-title="电视频道" 北京纪实科教
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226232/index.m3u8
+
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="电视频道",湖南金鹰纪实
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226351/index.m3u8
+
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="电视频道" 山东教育卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226238/index.m3u8
+
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="电视频道" 乐游
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226580/index.m3u8
+
+#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="电视频道",都市剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226581/index.m3u8
+
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="电视频道",欢笑剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
+
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="https://epg.112114.xyz/logo/BRTV_CARTOON.png" group-title="电视频道",北京卡酷少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="电视频道" 湖南金鹰卡通
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" group-title="电视频道" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png",嘉佳卡通
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226227/index.m3u8
+
+
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",直播中国
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",黟县月沼
+https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",布达拉宫
+https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",西递牌坊
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",沙洲瑶族
+https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",长江大桥
+https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",黄山云亭
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",临平运河
+https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",新洲邾城
+https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",云红石硖
+https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",四平战役
+https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",泰玉皇顶
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",雷锋纪念馆
+https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",水长城镜
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",水长城镜
+https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",大研景观
+https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",三涧溪村
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",徐闻博赊港
+https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",泰山天街
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",大峡谷景区
+https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",玉林真武阁
+https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",海南三亚湾
+https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",清镇市四季
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",广州塔和海心
+https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",无锡大剧院
+http://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",广州塔和海心桥
+https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",深圳红树林观鸟
+https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",峨眉云海日出
+https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",贡嘎雪山
+https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",泰山天街
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",峡谷玻璃桥
+https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",凤凰岭大桥
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",太湖漫山岛
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",那拉提景区
+https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",牡丹江镜泊湖
+https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",广州塔海心桥
+https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",南江大峡谷
+https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",惠山二茅峰
+https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",将军列队
+https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",峨眉日出
+https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",贡嘎雪山
+https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",眺万佛顶
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",悬寺全景
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",大峡谷区
+https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",宁波象山
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",舟山东极岛
+http://gctxyc.liveplay.myqcloud.com/gc/djd01_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",坪镇观景台
+http://gctxyc.liveplay.myqcloud.com/gc/gllj01_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",岜公塘公园
+http://gctxyc.liveplay.myqcloud.com/gc/xysrf_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",三江交汇口
+http://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",司马台长城
+http://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",茅坪神山村
+http://gctxyc.liveplay.myqcloud.com/gc/djyqyl1_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",天门山天空
+http://gctxyc.liveplay.myqcloud.com/gc/djyewm_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",丹江口碧水
+http://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",嘉峡关关城
+http://gctxyc.liveplay.myqcloud.com/gc/dxssyt_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",云栖小镇
+http://gctxyc.liveplay.myqcloud.com/gc/hnttpgsz_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",乐山大佛
+http://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",武夷山玉女峰
+http://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",避暑山庄龙泉公园
+http://gctxyc.liveplay.myqcloud.com/gc/lpsgmjng01_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",太平古城
+http://gcalic.v.myalicdn.com/gc/pshdxg02_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",桂林荔江湾
+http://gctxyc.liveplay.myqcloud.com/gc/tyhjrys_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",梧州长寿桥
+http://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",蒲城县椿林
+http://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",长江大桥
+http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",黄山飞来石
+http://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",成都春熙路
+http://gctxyc.liveplay.myqcloud.com/gc/hsmbsh_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",云海日出
+http://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",远眺贡嘎雪山
+http://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",远眺万佛顶
+http://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",凤凰古城
+http://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",芦村远眺
+http://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",沙洲瑶族村
+http://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",许家冲村
+http://gctxyc.liveplay.myqcloud.com/gc/ytsxzg_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",焦作红石峡
+http://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",朱鹮04
+http://gctxyc.liveplay.myqcloud.com/gc/zh04_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",富川风雨桥
+http://gctxyc.liveplay.myqcloud.com/gc/zh03_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",港珠澳大桥
+http://gctxyc.liveplay.myqcloud.com/gc/qdls04_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",青龙山景区
+http://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",洈水风景区
+http://gcalic.v.myalicdn.com/gc/dlst02_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",飘香风景区
+http://gctxyc.liveplay.myqcloud.com/gc/nywbwg01_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",西线玻璃道
+http://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",大坪渡口
+http://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",婺源江岭花海
+http://gctxyc.liveplay.myqcloud.com/gc/ylh03_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",国家水立方
+http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",九洞天六洞
+http://gctxyc.liveplay.myqcloud.com/gc/tjhh02_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",雄安新区
+http://gcalic.v.myalicdn.com/gc/gccntv240-lzb01_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",南马镇花园
+http://gctxyc.liveplay.myqcloud.com/gc/gly01_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",杭州千岛湖
+http://gctxyc.liveplay.myqcloud.com/gc/caqdh_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",王店乡乡村
+http://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",泰山望人松
+http://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",泰山拱北石
+http://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",隆安火龙果
+http://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",黟县西递牌坊
+http://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",乌镇·西市河
+http://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",蓝印花布
+http://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",龙形田
+http://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",乌镇全景
+http://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",河池第一城
+http://gcalic.v.myalicdn.com/gc/dhyyqyyq_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",鸣沙山月牙泉
+http://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",张家界将军列队
+http://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",杭州云栖小镇
+http://gcalic.v.myalicdn.com/gc/hnttpgsz_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",杨家沟革命
+http://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",黄花城水长城01
+http://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",牡丹江镜泊湖
+http://gcalic.v.myalicdn.com/gc/jyg04_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",龙镇丁湾村
+http://gctxyc.liveplay.myqcloud.com/gc/sgns02_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",雨卜民族风情
+http://gctxyc.liveplay.myqcloud.com/gc/jhs05_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",四川乐山大佛
+http://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",天山定海神针
+http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",河池澄江河
+http://gctxyc.liveplay.myqcloud.com/gc/xjtchxpt_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",天山-马牙山
+http://gctxyc.liveplay.myqcloud.com/gc/xjtcmys_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",阳新县莲花湖
+http://gctxyc.liveplay.myqcloud.com/gc/xjtcdgs_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",湖南天门洞
+http://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",河池世外桃源
+http://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",云梦仙顶
+http://gctxyc.liveplay.myqcloud.com/gc/tms04_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",高坪花硒谷
+http://gctxyc.liveplay.myqcloud.com/gc/drs01_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",泰顺县廊桥
+http://gctxyc.liveplay.myqcloud.com/gc/nss01_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",昆山教育基地
+http://gctxyc.liveplay.myqcloud.com/gc/zdxq01_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",湖南岳阳楼
+http://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",白云区泉湖
+http://gctxyc.liveplay.myqcloud.com/gc/zyqcdx01_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",凉山邛海景区
+http://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",黄河漂流
+http://gctxyc.liveplay.myqcloud.com/gc/nxspthhpl_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",贺州姑婆山
+http://gctxyc.liveplay.myqcloud.com/gc/nxsptdmgy_1_md.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",桂林阳桥
+http://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="直播频道" tvg-logo="https://img.picgo.net/2023/12/06/zbzg0afbe61bf71f882d.png",固原将台堡
+http://gcalic.v.myalicdn.com/gc/hlxsd_1/index.m3u8
+
+
+#EXTM3U
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="百事通",CCTV1
+https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="百事通",CCTV2
+https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="百事通",CCTV3
+https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="百事通",CCTV4
+https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="百事通",CCTV5
+https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="百事通",CCTV6
+https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="百事通",CCTV7
+https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="百事通",CCTV8
+https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="百事通",CCTV9
+https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="百事通",CCTV10
+https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="百事通",CCTV11
+https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="百事通",CCTV12
+https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="百事通",CCTV13
+https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="百事通",CCTV14
+https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="百事通",CCTV15
+https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="百事通",CCTV16
+https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="百事通",CCTV17
+https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="百事通",CCTV5+
+https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="百事通",CCTV16-4K
+https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K%282%29.png" group-title="百事通",CCTV-4K
+https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="百事通",江苏卫视
+https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="百事通",广西卫视
+https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="百事通",四川卫视
+https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="百事通",湖南卫视
+https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="百事通",浙江卫视
+https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="百事通",东方卫视
+https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="百事通",北京卫视
+https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="百事通",天津卫视
+https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="百事通",辽宁卫视
+https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="百事通",安徽卫视
+https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="百事通",黑龙江卫视
+https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="百事通",广东卫视
+https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="百事通",深圳卫视
+https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="百事通",湖北卫视
+https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="百事通",吉林卫视
+https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="百事通",山东卫视
+https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="百事通",江西卫视
+https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="百事通",河南卫视
+https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="百事通",河北卫视
+https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="百事通",甘肃卫视
+https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="百事通",重庆卫视
+https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="百事通",东南卫视
+https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="百事通",云南卫视
+https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="百事通",贵州卫视
+https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="百事通",海南卫视
+https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
+#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="百事通",中国教育-1
+https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000
+#EXTINF:-1,tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://epg.112114.xyz/logo/中国教育3台.png" group-title="百事通",中国教育-3
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226226/index.m3u8
+#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="百事通",中国教育-4
+https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
+#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="百事通",中国教育-4
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226225/index.m3u8
+#EXTINF:-1,tvg-id="红色谍战剧场" tvg-name="红色谍战剧场" tvg-logo="https://epg.112114.xyz/logo/红色谍战剧场.png" group-title="百事通",谍战剧场
+https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
+#EXTINF:-1,tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://epg.112114.xyz/logo/全球大片.png" group-title="百事通",全球大片
+https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
+#EXTINF:-1,tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://epg.112114.xyz/logo/热门剧场.png" group-title="百事通",热门剧场
+https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
+#EXTINF:-1,tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://epg.112114.xyz/logo/华语影院.png" group-title="百事通",华语影院
+https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
+#EXTINF:-1,tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://epg.112114.xyz/logo/星光影院.png" group-title="百事通",星光影院
+https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
+#EXTINF:-1,tvg-id="热门综艺" tvg-name="热门综艺" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="百事通",热门综艺
+https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
+#EXTINF:-1,tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://epg.112114.xyz/logo/健康养生.png" group-title="百事通",健康养生
+https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
+#EXTINF:-1,tvg-id="百变课堂" tvg-name="百变课堂" tvg-logo="https://epg.112114.xyz/logo/百变课堂.png" group-title="百事通",百变课堂
+https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
+#EXTINF:-1,tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png" group-title="百事通",看天下精选
+https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
+#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="百事通",足球高清
+https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
+#EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="百事通",超级体育
+https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
+#EXTINF:-1,tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png" group-title="百事通",电竞天堂
+https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
+#EXTINF:-1,tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png" group-title="百事通",青春动漫
+https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
+#EXTINF:-1,tvg-id="宝宝动画" tvg-name="宝宝动画" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png" group-title="百事通",宝宝动画
+https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
+
+
+#EXTINF:-1,tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海频道",新闻综合
+https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
+#EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海频道",上海都市
+https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
+#EXTINF:-1,tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://epg.112114.xyz/logo/东方影视.png" group-title="上海频道",东方影视
+https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海频道",五星体育
+https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
+#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="上海频道",东方财经
+https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
+#EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://epg.112114.xyz/logo/第一财经.png" group-title="上海频道",第一财经
+https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
+#EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://epg.112114.xyz/logo/第一财经.png" group-title="上海频道",第一财经
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
+#EXTINF:-1,tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://epg.112114.xyz/logo/上海教育.png" group-title="上海频道",上海教育
+https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
+#EXTINF:-1,tvg-id="上视外语" tvg-name="上海外语" tvg-logo="https://epg.112114.xyz/logo/上海外语.png" group-title="上海频道",上视外语
+https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
+#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海频道",上海纪实
+https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" group-title="上海频道" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png",上海纪实人文
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="上海频道",全纪实
+https://live.goodiptv.club/api/bestv.php?id=qjshd8m/8000000
+#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="上海频道",新视觉
+https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="上海频道",欢笑剧场 4k
+https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="上海频道",欢笑剧场
+https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
+#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="上海频道",都市剧场
+https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="上海频道",动漫秀场
+https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
+#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="上海频道",生活时尚
+https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
+#EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="上海频道",法治天地
+https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
+#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png" group-title="上海频道",金色学堂
+https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
+#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png" group-title="上海频道",金色学堂
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226994/index.m3u8
+#EXTINF:-1,tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/七彩戏剧.png" group-title="上海频道",七彩戏剧
+https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="上海频道",魅力足球
+https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
+#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/劲爆体育.png" group-title="上海频道",劲爆体育
+https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
+#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/劲爆体育.png" group-title="上海频道",劲爆体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226239/index.m3u8
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="上海频道",游戏风云
+https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
+#EXTINF:-1,tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="上海频道",炫动卡通
+https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
+#EXTINF:-1,tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="上海频道",炫动卡通
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226213/index.m3u8
+
+#EXTINF:-1,tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://epg.112114.xyz/logo/zjjjsh.png" group-title="浙江频道",浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?zzhed
+#EXTINF:-1,tvg-id="浙江教科影院" tvg-name="浙江教科影院" tvg-logo="https://epg.112114.xyz/logo/zjkjjy.png" group-title="浙江频道",浙江教科影院
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
+#EXTINF:-1,tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://epg.112114.xyz/logo/zjms.png" group-title="浙江频道",浙江民生休闲
+http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
+#EXTINF:-1,tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://epg.112114.xyz/logo/zjxw.png" group-title="浙江频道",浙江新闻
+http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
+#EXTINF:-1,tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://epg.112114.xyz/logo/zjgj.png" group-title="浙江频道",浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
+#EXTINF:-1,tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://epg.112114.xyz/logo/zjqj.png" group-title="浙江频道",浙江钱江都市
+http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
+
+#EXTINF:-1,tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://epg.112114.xyz/logo/茶频道.png" group-title="湖南频道",湖南茶频道
+https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
+#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="湖南频道",湖南快乐垂钓
+https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
+#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="湖南频道",湖南快乐垂钓
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226805/index.m3u8
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="湖南频道",湖南金鹰纪实
+https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="湖南频道" 湖南金鹰卡通
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+
+
+#EXTINF:-1,tvg-id="纪实科教" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/BRTV_DOCUMENTARY.png" group-title="北京频道",北京纪实科教
+https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
+#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/BRTV_DOCUMENTARY.png" group-title="北京频道" 北京纪实科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1,tvg-id="67" tvg-name="卡酷动画" tvg-logo="https://epg.112114.xyz/logo/BRTV_CARTOON.png" group-title="北京频道",北京卡酷少儿
+https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="https://epg.112114.xyz/logo/BRTV_CARTOON.png" group-title="北京频道",北京卡酷少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+
+
+#EXTINF:-1 tvg-id="甘肃文化影视" tvg-name="甘肃文化影视" tvg-logo="https://epg.112114.xyz/logo/gsys1.png" group-title="甘肃频道",甘肃文化影视
+https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
+#EXTINF:-1 tvg-id="甘肃公共应急" tvg-name="甘肃公共应急" tvg-logo="https://epg.112114.xyz/logo/gsyj.png" group-title="甘肃频道",甘肃公共应急
+http://live.todaydunhuang.com:1935/live/live157/500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="甘肃公共应急" tvg-name="甘肃公共应急" tvg-logo="https://epg.112114.xyz/logo/gsyj.png" group-title="甘肃频道",甘肃公共应急
+https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
+#EXTINF:-1 tvg-id="甘肃都市" tvg-name="甘肃都市" tvg-logo="https://epg.112114.xyz/logo/gsds.png" group-title="甘肃频道",甘肃都市
+https://hls.gstv.com.cn/49048r/l54391.m3u8
+#EXTINF:-1 tvg-id="甘肃经济" tvg-name="甘肃经济" tvg-logo="https://epg.112114.xyz/logo/gsjj.png" group-title="甘肃频道",甘肃经济
+https://hls.gstv.com.cn/49048r/10iv1j.m3u8
+#EXTINF:-1 tvg-id="甘肃少儿" tvg-name="甘肃少儿" tvg-logo="https://epg.112114.xyz/logo/gsse.png" group-title="甘肃频道",甘肃少儿
+https://hls.gstv.com.cn/49048r/922k96.m3u8
+#EXTINF:-1 group-title="甘肃频道",白银综合频道
+http://live.bygd.cn/byzh/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃频道",白银文化频道
+http://live.bygd.cn/bygg/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃频道",酒泉综合频道
+http://live.todaydunhuang.com:1935/live/live159/500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="甘肃频道",酒泉公共频道
+http://stream.gsjqtv.com/pd2/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃频道",敦煌综合频道
+http://live.todaydunhuang.com:1935/live/live100/500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="甘肃频道",临夏市电视台
+http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
+#EXTINF:-1 group-title="甘肃频道",崆峒综合频道
+http://125.74.200.110:10080/hls/001/001_live.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG-Bella性麻豆傳媒影片
+https://video2.51daao.com/btt1/2020/07/20200705/ZBECSx9p/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG按摩師口交絕活
+https://video2.51daao.com/btt1/2020/08/20200805/X41j7v13/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG爆乳女神報復小三
+https://video2.51daao.com/btt1/2020/05/20200521/AXXAqVty/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG貝拉-水果攤女老闆的特殊服務
+https://video2.51daao.com/btt1/2020/07/20200705/kpmkY7sX/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG變態醫生的新生入學檢查
+https://video2.51daao.com/btt1/2020/12/20201213/NVU8crK3/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG表姐在旁邊還敢偷吃姐夫
+https://video2.51daao.com/btt1/2020/10/20201027/44byFoL2/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG不管朋友在旁直撲他女友
+https://video2.51daao.com/btt1/2020/11/20201126/g5gbvD9y/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG不講理女友
+https://video2.51daao.com/btt1/2021/01/20210102/LjwUcgQI/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG超淫亂6P泳池派對
+https://video2.51daao.com/btt1/2020/12/20201214/LPRWYxvv/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG超主動閨蜜搾汁器
+https://video2.51daao.com/btt1/2020/11/20201126/edvmUOCs/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG趁哥哥不再跟大嫂搞起來
+https://video2.51daao.com/btt1/2020/12/20201226/zZXQCvZR/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG大恥度脫衣實戰大冒險
+https://video2.51daao.com/btt1/2021/01/20210103/rurLq1Tf/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG到府按摩特別服務
+https://video2.51daao.com/btt1/2020/11/20201128/xIXAkloD/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG到府裸體清潔婦
+https://video2.51daao.com/btt1/2020/10/20201006/iY0BTHXT/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG電影院裡被輪插的女大生
+https://video2.51daao.com/btt1/2020/10/20201021/9XSgUJgc/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG粉絲福利雙飛姐妹女主播
+https://video2.51daao.com/btt1/2020/10/20201022/wE1lXmMk/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG粉絲遠道而來只求打一炮
+https://video2.51daao.com/btt1/2020/10/20201023/alyk3PgV/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG粉絲賺到與我打炮
+https://video2.51daao.com/btt1/2020/12/20201205/ibS9TYY7/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG哥哥你好壞呀
+https://video2.51daao.com/btt1/2020/12/20201217/dW6lZ0EH/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG和路人公廁激戰
+https://video2.51daao.com/btt1/2020/08/20200807/DSrQBBDm/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG和小姨子浴室裡的激情
+https://video2.51daao.com/btt1/2020/12/20201212/qKlYrNZt/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG黑絲女神火爆劇情-用火辣身體滿足上司肉棒
+https://video2.51daao.com/btt1/2020/07/20200728/PSQKekGf/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG黑絲OL跟我下戰帖
+https://video2.51daao.com/btt1/2020/12/20201213/jSk1uzKA/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG家有美臀女僕做麻豆傳媒沒煩惱
+https://video2.51daao.com/btt1/2020/10/20201018/3jq8HY1B/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG健身後被拖去公廁操
+https://video2.51daao.com/btt1/2020/11/20201123/WHtRY7CZ/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG姐妹半夜起來互慰到早晨
+https://video2.51daao.com/btt1/2020/12/20201215/J9CLaUEo/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG酒店打工特別服務
+https://video2.51daao.com/btt1/2020/11/20201129/cI8VExal/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG就用肉棒安慰失戀學妹
+https://video2.51daao.com/btt1/2020/12/20201215/H5phzR6M/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG看診結束就是吸醫棒
+https://video2.51daao.com/btt1/2020/12/20201218/e8t0Vi7k/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG靠著肉體環島不用錢
+https://video2.51daao.com/btt1/2020/12/20201204/uirx3x7j/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG老婆找她閨密幫忙伺候老公
+https://video2.51daao.com/btt1/2020/10/20201029/ltxYFEhv/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG老師用巨乳教學
+https://video2.51daao.com/btt1/2020/08/20200811/GNEu0aax/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG老同學私下有多騷
+https://video2.51daao.com/btt1/2020/12/20201227/gJI6FVT2/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG兩美乳OL出遊遭啪
+https://video2.51daao.com/btt1/2020/10/20201022/6KrbOd3h/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG綠帽控幫人妻好友服務他老公
+https://video2.51daao.com/btt1/2020/10/20201028/PXwFVe6N/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG落地窗前激烈運動
+https://video2.51daao.com/btt1/2020/12/20201227/SSdiSWM6/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG落跑新娘在同事床上受孕
+https://video2.51daao.com/btt1/2020/12/20201229/LX7SMMZH/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG妹妹該起床做事咯
+https://video2.51daao.com/btt1/2020/12/20201229/KHjDg7Cr/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG妹妹自慰哥哥來幫忙
+https://video2.51daao.com/btt1/2020/12/20201216/eCSzaVRy/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG彌荳子與哥哥的麻豆傳媒戀
+https://video2.51daao.com/btt1/2020/10/20201030/JKrH2nbG/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG秘書下班後的潛規則
+https://video2.51daao.com/btt1/2021/01/20210103/FElWHEKr/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG男友不是老闆
+https://video2.51daao.com/btt1/2020/11/20201113/DJtJOu9u/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG妮兒寶貝為酒店VIP提供驚喜性服務
+https://video2.51daao.com/btt1/2020/05/20200510/Mi8gGjh5/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG女房東都這樣誘惑租客上床
+https://video2.51daao.com/btt1/2020/12/20201219/3fBwYg5d/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG女僕偷懶被處猛插私刑
+https://video2.51daao.com/btt1/2020/11/20201130/qf3Nccyr/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG女室友的真理褲誘惑
+https://video2.51daao.com/btt1/2020/12/20201220/7fs9lKNy/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG女優是鄰居
+https://video2.51daao.com/btt1/2021/01/20210102/YNuD4Hef/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG女戰將多年慾火
+https://video2.51daao.com/btt1/2021/01/20210104/ztCSo1vc/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG漂亮爆乳女朋友打擾我玩遊戲怎麼辦
+https://video2.51daao.com/btt1/2020/07/20200711/X58Feirb/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG起飛前空姐
+https://video2.51daao.com/btt1/2020/10/20201019/AHFVcUS4/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG氣質學姐用身體安慰學弟
+https://video2.51daao.com/btt1/2020/10/20201024/C54s9NC4/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG清純學妹的教室誘惑
+https://video2.51daao.com/btt1/2020/12/20201217/KqCGlqKR/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG去粉絲家當女傭
+https://video2.51daao.com/btt1/2020/12/20201230/ciAPXuPx/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG全球榜1名
+https://video2.51daao.com/btt1/2020/07/20200727/CSj85kky/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG全球榜1名灰色情趣內衣
+https://video2.51daao.com/btt1/2020/07/20200726/mrUka3DP/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG三騷女寵我當欲帝
+https://video2.51daao.com/btt1/2020/11/20201130/zlfhcSol/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG騷女警在男友家中被內射中出
+https://video2.51daao.com/btt1/2020/07/20200714/NKx1Oro3/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG騷女友被你落在這了
+https://video2.51daao.com/btt1/2020/12/20201205/yPW2TR2Z/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG舍監欺凌巨乳女大生
+https://video2.51daao.com/btt1/2020/12/20201202/vCIo0ZvC/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG攝影師的4P射淫會
+https://video2.51daao.com/btt1/2020/12/20201212/ypwxKK0e/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG聖誕露臉露點露鮑口交顏射
+https://video2.51daao.com/btt1/2020/10/20201030/OaVRnP0A/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG獸慾居家女勾引油漆工
+https://video2.51daao.com/btt1/2020/12/20201216/OK6S9z9Q/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG睡不著所以找哥哥尋歡
+https://video2.51daao.com/btt1/2021/01/20210105/hX9R4VWw/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG隨機素人搭訕
+https://video2.51daao.com/btt1/2021/01/20210107/USNzOlD2/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG體驗情色猛男金手指
+https://video2.51daao.com/btt1/2021/01/20210105/z5jwxlAC/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG網襪兔女郎求中出
+https://video2.51daao.com/btt1/2020/11/20201114/Z3dnntZ6/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG我拿到了中出入場卷
+https://video2.51daao.com/btt1/2020/12/20201224/P7oVan5w/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG午後下午茶的休閒活動
+https://video2.51daao.com/btt1/2020/12/20201222/8F5N06vx/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG下了春藥之後全被炮友錄下來
+https://video2.51daao.com/btt1/2020/11/20201115/Mb19FT6k/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG現在的年輕人真敢玩贏了就要插到爽
+https://video2.51daao.com/btt1/2020/11/20201104/imsTbfUZ/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG想不交房租看你的表現摟
+https://video2.51daao.com/btt1/2021/01/20210104/jhioJcTW/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG小孟的私人治療室讓你舒舒服服釋放壓力
+https://video2.51daao.com/btt1/2020/05/20200513/ensog12T/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG小兔子沉溺最舒服的性麻豆視頻
+https://video2.51daao.com/btt1/2020/12/20201212/pl7HbaKG/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG心理醫生的射精療法
+https://video2.51daao.com/btt1/2020/10/20201022/148nQ9sT/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG新春賀歲抽插大戲
+https://video2.51daao.com/btt1/2020/12/20201223/cgElHgFs/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG新婚之夜誘惑老公爆射
+https://video2.51daao.com/btt1/2020/10/20201024/1UdQFT9f/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG新科技性麻豆傳媒機器女友
+https://video2.51daao.com/btt1/2020/10/20201025/ETMO7Koo/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG性感護士治癒性無能病患
+https://video2.51daao.com/btt1/2020/12/20201218/19MPzHO7/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG兄弟婦仇計中
+https://video2.51daao.com/btt1/2021/01/20210106/I5zpi597/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG學弟強插美顏學姐
+https://video2.51daao.com/btt1/2020/08/20200806/F7A69ee0/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG學生用身體換分數
+https://video2.51daao.com/btt1/2020/08/20200807/tOk8ANmb/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG要我還是遊戲
+https://video2.51daao.com/btt1/2020/11/20201101/tBDfWfGX/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG爺爺的茶有淫穢味道
+https://video2.51daao.com/btt1/2020/12/20201203/XwYEehjE/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG淫蕩老婆居然讓鄰居內射
+https://video2.51daao.com/btt1/2020/12/20201216/2L7PRlNG/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG淫蕩女僕挑逗白人
+https://video2.51daao.com/btt1/2020/12/20201217/c6kYDK4p/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG淫亂交制服派對
+https://video2.51daao.com/btt1/2020/12/20201201/AFO1A2v8/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG用淫水氾濫的穴迎接你
+https://video2.51daao.com/btt1/2020/10/20201026/n3yTtZsh/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG瑜伽大師的性麻豆視頻秘技
+https://video2.51daao.com/btt1/2021/01/20210107/PlhjGKkt/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG與閨蜜男友的懲罰遊戲
+https://video2.51daao.com/btt1/2021/01/20210101/cKx9wbBB/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG在KTV邊唱歌邊啪
+https://video2.51daao.com/btt1/2020/10/20201025/oN0ZCfZy/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG搾乾的肉棒與濕透的
+https://video2.51daao.com/btt1/2020/12/20201223/l76O9cWV/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG稚嫩小白虎鄰居小哥哥把我帶到附近汽旅
+https://video2.51daao.com/btt1/2020/06/20200611/iyXm5POg/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG主播路邊搭訕求溫暖
+https://video2.51daao.com/btt1/2020/12/20201214/PQvdWnUo/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG主人特製精液色拉醬
+https://video2.51daao.com/btt1/2021/01/20210106/k94FH0kA/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG桌游淫亂10p國王遊戲
+https://video2.51daao.com/btt1/2020/12/20201218/EErtKwDG/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SWAG自慰弄到受不了就找粉絲解悶
+https://video2.51daao.com/btt1/2020/10/20201029/3Si2f7Ug/index.m3u8
+#EXTINF:-1 group-title="成人影院" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",换妻探花与网上的网友互换老婆
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/02/7d38bd2a/index.m3u8
+
+
+
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",cjod-337北野未来
+https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/62ba7305/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",DASD-819白城
+https://siwazywcdn2.com:5278/zhongwenzimu/9EXSkId8/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",dasd-955浜崎真绪 有村
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/21/72323988/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",dasd-964佐伯由美香
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/ec768d0d/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",dasd-978美谷朱里
+https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/06a24283/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",dldss-011友田彩也香
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/29/aaf701b8/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",dldss-017友田彩也香
+https://t10.cdn2020.com:12335/video/m3u8/2021/07/25/71ed6ab2/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",dldss-022友田彩也香
+https://t11.cdn2020.com:12336/video/m3u8/2021/08/28/08e6fd70/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",dldss-027友田彩也香
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/1979e014/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",dldss-032友田彩也香
+https://t12.cdn2020.com:12337/video/m3u8/2021/10/19/0ce62846/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",dldss-042友田彩也香
+https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/28ae6486/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",dopp-013北条麻妃加藤
+https://t5s.cdn2020.com/video/m3u8/2020/11/14/93c46206/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",EBOD-829北野未奈
+https://siwazywcdn2.com:5278/zhongwenzimu/6MnoNVIC/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",EBOD-841北野未奈
+https://t10.cdn2020.com:12335/video/m3u8/2021/07/27/f68ee174/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ebod-888美容部员
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/f0a24d35/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-039美乃
+https://ckcdnz3.cdn2020.com/video/m3u8/2020/06/03/7dca721b/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",FSDSS-039美乃
+https://siwazywcdn2.com:5278/zhongwenzimu/30HRcubp/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-040友田彩也香
+https://ckcdnz3.cdn2020.com/video/m3u8/2020/06/16/ed451843/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-044月乃
+https://ckcdnz6.cdn2020.com/video/m3u8/2020/07/01/d37883d2/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-057椎名
+https://v1s.cdn2020.com/video/m3u8/2020/07/19/b4962236/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-059天使
+https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/24/af6b4caa/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-062友田彩也香
+https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/24/d5f24e42/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-065美乃
+https://t4s.cdn2020.com/video/m3u8/2020/07/27/1620a218/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-067杏羽
+https://t4s.cdn2020.com/video/m3u8/2020/08/18/2b50b935/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-070吉高宁々
+https://t4s.cdn2020.com/video/m3u8/2020/08/07/6a6fbd86/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-070吉高宁々
+https://t12.cdn2020.com:12337/video/m3u8/2021/10/22/3073de3b/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-071椎名
+https://t4s.cdn2020.com/video/m3u8/2020/08/18/ddcb72c8/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-084七海
+https://t4s.cdn2020.com/video/m3u8/2020/09/23/96da38fd/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-096椎名
+https://t4s.cdn2020.com/video/m3u8/2020/09/28/9451ecb4/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-099吉高宁々
+https://t5s.cdn2020.com/video/m3u8/2020/10/19/797351b7/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-112美乃
+https://t5s.cdn2020.com/video/m3u8/2020/11/05/85f5e190/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-113友田彩也香
+https://t5s.cdn2020.com/video/m3u8/2020/11/05/c1537eec/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-114 吉高宁々
+https://t5s.cdn2020.com/video/m3u8/2020/11/05/bc1262bb/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-121吉高宁々
+https://t5s.cdn2020.com/video/m3u8/2020/12/04/54c2b5a2/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-124友田彩也香
+https://t5s.cdn2020.com/video/m3u8/2020/12/04/ce5b0ba0/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-129七海
+https://t5s.cdn2020.com/video/m3u8/2020/12/08/9b8d568c/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-136椎名
+https://t6s.cdn2020.com/video/m3u8/2020/12/29/1e145d76/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-137友田彩也香
+https://t6s.cdn2020.com/video/m3u8/2020/12/29/7b183d40/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-139吉高宁々
+https://t6s.cdn2020.com/video/m3u8/2020/12/29/2e51af91/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-141美乃
+https://t6s.cdn2020.com/video/m3u8/2020/12/29/32ab30ad/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",FSDSS-179三浦乃爱
+https://siwazywcdn2.com:5278/zhongwenzimu/uS0fPCmg/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-206沙月恵奈
+https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/2146f0fb/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-206沙月恵奈
+https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/2146f0fb/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-252天使
+https://t10.cdn2020.com:12335/video/m3u8/2021/08/11/da60061d/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-257小野夕子
+https://t10.cdn2020.com:12335/video/m3u8/2021/08/15/00f2cdc3/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-260吉高宁々
+https://t10.cdn2020.com:12335/video/m3u8/2021/07/27/13458cbd/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-262沙月恵奈川北
+https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/f1cc4f54/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-262沙月恵奈川北
+https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/f1cc4f54/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-268天使
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/05/01ec6b81/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-271永瀬
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/05/d4495567/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-283天使
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/05/7742e457/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-286永瀬
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/56fdf740/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-288夏木
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/54754c96/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-290吉高宁々
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/d4d2f5b6/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-291二阶堂梦
+https://t12.cdn2020.com:12337/video/m3u8/2021/10/09/d9a7085a/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-292沙月恵奈
+https://t12.cdn2020.com:12337/video/m3u8/2021/10/09/82cd402b/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-292沙月恵奈
+https://t12.cdn2020.com:12337/video/m3u8/2021/10/09/82cd402b/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-298天使
+https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/953819d7/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-305吉高宁々
+https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/f5e9393f/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-306二阶堂梦
+https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/7a348dd0/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-322二阶堂梦
+https://t13.cdn2020.com:12338/video/m3u8/2021/12/15/b2511c7b/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-335桥本
+https://t13.cdn2020.com:12338/video/m3u8/2021/12/14/4d2d85a1/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-336吉高宁々
+https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/43e3536d/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-341桃尻
+https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/d271228d/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-346天使
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/90295486/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-348永瀬
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/a3268549/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-352吉高宁比恩
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/11/ab7f3c35/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-355桃尻
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/11/2203bfd2/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-373天使
+https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/8c9db0f8/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",fsdss-376桥本
+https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/c3777d68/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",gvg-157逢沢
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/284266a6/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",gvg-676波多野结衣
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/5920248d/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",gvg-809绀野
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/96effcf0/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",gvh-286辻
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/e11ddbbb/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",gvh-344北野未奈
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/08/d008f492/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",havd-554川上水沢
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/4a6ce325/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",havd-778栗林里莉
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/31/9fa6df91/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",havd-781早乙女
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/31/404aa8f0/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",havd-802管野
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/241e4558/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",havd-816和希
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/1883b6a0/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",hbad-148西野
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/535a2f48/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",hmn-105吉冈
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/04/3c6e0035/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",hmn-112北野未奈
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/14/4e2edbe2/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",hmn-115月乃
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/04/fa8d1e79/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",hmn-141-アンナ
+https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/052b9624/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",hnd-277板野
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/01596a03/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",HND-774市川花音
+https://siwazywcdn2.com:5278/zhongwenzimu/uYyvOsg1/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",HND-893深田
+https://siwazywcdn2.com:5278/zhongwenzimu/WkPiX4Gg/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",hodv-21637北野未奈
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/12/34bf639f/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",HUSR-217韩国少女
+https://siwazywcdn2.com:5278/zhongwenzimu/gXmNBVzx/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ienf-183沙月恵奈
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/20/cedc6150/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",IPX-511矢乃花音
+https://siwazywcdn2.com:5278/ribenyouma/NkRh5zW8/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",IPX-773二叶
+https://siwazywcdn2.com:5278/zhongwenzimu/wQOcihlo/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",IPX-783希岛
+https://siwazywcdn2.com:5278/zhongwenzimu/OQk3LPAH/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ipx-789神菜美
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/12/49a152c6/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ipx-804乃雪
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/17/40c513c8/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ipx-807藤井
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/17/db49a284/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ipx-808二叶
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/baf2354b/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ipx-810加美杏奈
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/14/56e4e810/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ipx-811枫カ
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/17/5c7b1d71/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ipx-812桜空
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/17/72b9f9ca/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ipx-814天海
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/14/71abeed7/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ipx-818希岛
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/17/1c2e5f58/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ipx-819相沢
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/17/6c266521/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ipx-820斎藤
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/14/472a8cad/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ipx-832桜空
+https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/f96d5171/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",jj-023友田彩也香
+https://t10.cdn2020.com:12335/video/m3u8/2021/08/23/67fed9f3/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",juc-952向井恋
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/04/9331955b/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",jufe-318北野未奈
+https://t10.cdn2020.com:12335/video/m3u8/2021/08/20/ddf54845/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",jufe-361蜜美杏
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/1c033889/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",jul-740沙月恵奈
+https://t12.cdn2020.com:12337/video/m3u8/2021/10/20/65aae748/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",jul-784北野未奈
+https://t13.cdn2020.com:12338/video/m3u8/2021/11/28/8690213c/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",jul-840及川
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/04/b6d7a9c4/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",jul-843老公老板
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/cfd71ff7/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",jul-847北野未奈
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/6d19d250/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",jul-850武藤
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/04/b8e04bdd/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",jul-858青田悠华
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/c21f9e6e/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",jul-901奥美遥
+https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/5c4dcd87/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",mdbk-207北野未奈
+https://t13.cdn2020.com:12338/video/m3u8/2021/11/22/e9c4236b/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",mds-898白川
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/07/9ad88dbe/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",mdte-020横宫七海
+https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/0d78d5b9/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",mdtm-562渚
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/08/118fed33/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",mdtm-753相部屋
+https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/4a21555c/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",MEYD-647川上奈奈美
+https://siwazywcdn2.com:5278/zhongwenzimu/3YPtObjx/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",meyd-695北野未奈
+https://t10.cdn2020.com:12335/video/m3u8/2021/08/18/fe2a1dd7/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",meyd-724北野未奈
+https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/1378ee5d/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",meyd-734北野未奈
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/e9a3b310/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",MIAA-235濑名
+https://siwazywcdn2.com:5278/zhongwenzimu/YV7xtRCQ/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",MIAA-247
+https://siwazywcdn2.com:5278//zhongwenzimu/TZb8hicm/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",MIAA-290
+https://siwazywcdn2.com:5278//zhongwenzimu/qupHU49O/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",MIAA-290
+https://siwazywcdn2.com:5278/zhongwenzimu/qupHU49O/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",MIAA-293
+https://siwazywcdn2.com:5278/zhongwenzimu/J9Nj7VIB/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",MIAA-320
+https://siwazywcdn2.com:5278//zhongwenzimu/4idREMlz/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",MIAA-329
+https://siwazywcdn2.com:5278//zhongwenzimu/L946ZPST/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",MIAA-417
+https://siwazywcdn2.com:5278/zhongwenzimu/f9MgVFG0/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",MIAA-482
+https://siwazywcdn2.com:5278/zhongwenzimu/p8R5guw7/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",MIAA-489
+https://siwazywcdn2.com:5278/zhongwenzimu/cRtCJ3WS/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",MIAA-494
+https://siwazywcdn2.com:5278/zhongwenzimu/ZIgMzhXp/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",MIAA-501
+https://siwazywcdn2.com:5278/zhongwenzimu/yfO8rAFc/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",miaa-504北野未奈
+https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/b70beb31/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",miaa-525白桃花狩
+https://t13.cdn2020.com:12338/video/m3u8/2021/11/29/dcc5f685/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",MIAA-526
+https://siwazywcdn2.com:5278/zhongwenzimu/zVRyg8mh/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",miaa-527北野未奈
+https://t13.cdn2020.com:12338/video/m3u8/2021/11/29/eb2cf450/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",miaa-561水川
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/83e57fcd/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",miaa-562月野朝仓
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/6012e749/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",miaa-564るるちゃ
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/b97d611d/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",miaa-567月乃
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/3980ed8c/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",miaa-569沙月恵奈
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/b9f4d487/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",miad-847大岛美绪
+https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/a523ea63/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",midv-031小野六花
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/b314c4f7/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",midv-034石原希望
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/7c717c2f/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",midv-036水卜
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/889f0529/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",MIFD-117方言少女
+https://siwazywcdn2.com:5278/zhongwenzimu/2imBA5or/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",mkmp-011桜井友田彩也香
+https://t10.cdn2020.com:12335/video/m3u8/2021/08/24/b5de94e4/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",mkmp-433乱不
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/18/3ff1dede/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",mkon-014渚
+https://t13.cdn2020.com:12338/video/m3u8/2021/12/08/5d2c3c38/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",mmus-034渚
+https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/d12cbf8f/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",mmus-057沙月恵奈
+https://t13.cdn2020.com:12338/video/m3u8/2021/12/04/8e4a3eb8/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",mond-225加藤
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/ae05303e/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",MSFH-040吉永
+https://siwazywcdn2.com:5278/zhongwenzimu/q5mp9dNO/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",MUDR-133代理妻子
+https://siwazywcdn2.com:5278/zhongwenzimu/kjah84rx/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",mvsd-496白桃
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/3057aab9/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",NACR-389 玄葵葵木
+https://siwazywcdn2.com:5278/zhongwenzimu/H5o3ZdkB/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",nacr-469沙月恵奈
+https://t13.cdn2020.com:12338/video/m3u8/2021/12/04/eb1de453/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",nacr-492单身单身
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/4fe25f9c/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",nnpj-490港城
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/9e57bb08/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",nsfs-044琴井
+https://t13.cdn2020.com:12338/video/m3u8/2021/12/04/2b5e46e2/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",nsfs-055琴井
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/18/c3fc5539/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",pppd-995楪カ
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/ddf2c951/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",pppd-998北野未奈
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/07/93b121ae/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",pppe-001水原
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/79064aed/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",pppe-008水川
+https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/d80590bf/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",PRED-244香椎花乃
+https://siwazywcdn2.com:5278/zhongwenzimu/NkXpBtx1/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",PRED-314山岸逢花
+https://siwazywcdn2.com:5278/zhongwenzimu/P4Xu7bep/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",px-717小野琴弓
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/a6dc2f16/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",rbd-223管野
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/9b65972c/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",rbd-936渚
+https://t13.cdn2020.com:12338/video/m3u8/2021/12/14/1141df12/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",roe-032水野优香
+https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/335cd318/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SABA-632
+https://siwazywcdn2.com:5278/zhongwenzimu/RNuKCE2w/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",saba-745美丽女孩
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/21/226a5975/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SCOP-697
+https://siwazywcdn2.com:5278/zhongwenzimu/59LHYbi4/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",sdde-381姊弟浜崎真绪
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/cc697acb/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",shkd-904琴井
+https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/16/42186352/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",SHKD-915舞原圣
+https://siwazywcdn2.com:5278/zhongwenzimu/v0TUMNtC/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",shkd-982沙月恵奈
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/15/832dd619/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",snis-162吉沢明歩
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/07/35e42440/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",sprd-1501青山凉香
+https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/f4aea001/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssis-096乙白沙也
+https://siwazywcdn2.com:5278/zhongwenzimu/0GbVxCsv/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssis-108
+https://siwazywcdn2.com:5278/zhongwenzimu/bZXowNav/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssis-273架乃
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/7492e618/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssis-285山手梨爱
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/e94594fb/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssis-287三上悠亜
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/0d2ad410/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssis-293七ツ森
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/4d62c1da/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssis-299爱宝
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/2b09cb68/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssis-301梦乃
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/14bd36ae/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssis-303星宫一花
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/4bbe420f/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssis-308河北彩花
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/4ca0e556/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssis-309小宵
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/79bca4e0/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssis-313三上悠亜
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/18/c0a7dc67/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssis-324山手梨爱
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/21/06811ff8/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssni-576琴井
+https://t6s.cdn2020.com/video/m3u8/2021/02/25/82dff29e/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssni-627琴井
+https://v1s.cdn2020.com/video/m3u8/2019/12/28/f908122a/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssni-778儿玉玲奈
+https://siwazywcdn2.com:5278/zhongwenzimu/6Lwmk5xH/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssni-779乙白沙也
+https://siwazywcdn2.com:5278/zhongwenzimu/GrWsQLH1/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssni-783
+https://siwazywcdn2.com:5278/zhongwenzimu/RyFetHz5/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssni-802
+https://siwazywcdn2.com:5278/zhongwenzimu/oPM4z0bY/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssni-808鹰尾芽衣
+https://siwazywcdn2.com:5278/zhongwenzimu/L9kmreDA/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssni-824儿玉玲奈
+https://siwazywcdn2.com:5278/zhongwenzimu/XNlqgRve/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssni-828
+https://siwazywcdn2.com:5278/zhongwenzimu/FMriTsOa/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssni-832
+https://siwazywcdn2.com:5278/zhongwenzimu/WMkiBKyw/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssni-927山崎水爱
+https://siwazywcdn2.com:5278/zhongwenzimu/sGaJ3TAK/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssni-985七森莉莉
+https://siwazywcdn2.com:5278/zhongwenzimu/ob12qUCg/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ssni-989
+https://siwazywcdn2.com:5278/zhongwenzimu/qiSH8T3J/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",STARS-095本庄铃
+https://t2s.cdn2020.com/video/m3u8/2019/08/06/30340130/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",stars-255白川
+https://ckcdnz2.cdn2020.com/video/m3u8/2020/07/06/e6c45f9b/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",stars-265本庄铃
+https://t4s.cdn2020.com/video/m3u8/2020/10/14/c8e82dca/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",STARS-266永野
+https://siwazywcdn2.com:5278/zhongwenzimu/nT7jF5hV/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",stars-267白川
+https://t5s.cdn2020.com/video/m3u8/2020/10/30/2e46bd4e/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",stars-278白川
+https://t4s.cdn2020.com/video/m3u8/2020/10/14/677042c9/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",stars-318白川
+https://t6s.cdn2020.com/video/m3u8/2021/02/14/a2a8a655/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",stars-330本庄铃
+https://t7.cdn2020.com/video/m3u8/2021/04/08/0d25a975/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",stars-450本庄铃
+https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/dca5a25a/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",toen-046加藤
+https://t10.cdn2020.com:12335/video/m3u8/2021/08/12/c8e1f5a0/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",tppn-214妃
+https://t16.cdn2020.com:12340/video/m3u8/2022/02/12/6e29802a/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ure-076初川
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/31/15b8c0eb/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",VEC-514C北野未奈
+https://play92332.com/20220127/SAxdMU5i/1759kb/hls/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",venx-069相马茜
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/040e9f76/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",venx-099北野未奈
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/31/f3816a72/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",venx-099北野未奈
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/31/f3816a72/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",venx-102相马茜
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/f5166646/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",waaa-088北野未奈
+https://t10.cdn2020.com:12335/video/m3u8/2021/08/07/6c2aa4d8/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",waaa-121沙月恵奈
+https://t13.cdn2020.com:12338/video/m3u8/2021/12/14/d7b90e8c/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",XMOM-18遥绫音
+https://siwazywcdn2.com:5278/zhongwenzimu/U75r8Hdp/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",XVSR-586逢见莉香
+https://siwazywcdn2.com:5278/zhongwenzimu/BS2qJGta/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",xvsr-610波多野结衣
+https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/ee9c2367/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",xvsr-612渡辺
+https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/edecc33f/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",xvsr-632逢见
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/b90fc686/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ymdd-240白川
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/ba7e3a25/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ymdd-242白川奏音
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/31/a08937ab/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ysn-565渚
+https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/0bf471ba/index.m3u8
+#EXTINF:-1 group-title=#EXTINF:-1 group-title="日本" tvg-logo="https://img.picgo.net/2023/12/06/cryy65308d84d37d6d35.png",ysn-566高瀬
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/96dc5cd0/index.m3u8
