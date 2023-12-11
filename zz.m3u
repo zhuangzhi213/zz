@@ -368,6 +368,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226227/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/4pBohJyXnAf7yvzyMTD1953RIjY.jpg" group-title="琅琊榜",琅琊榜 第一集
+https://pan.webos.im/webos/link/378f7ac65e1e40eba3830849a876805f/%E7%90%85%E7%90%8A%E6%A6%9C.S01E01.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/4pBohJyXnAf7yvzyMTD1953RIjY.jpg" group-title="琅琊榜",琅琊榜 第二集
+https://pan.webos.im/webos/link/2438ce8884b2412a80953d9de8821cf5/%E7%90%85%E7%90%8A%E6%A6%9C.S01E02.mp4
 
 
 #EXTM3U
@@ -617,18 +621,6 @@ http://live.todaydunhuang.com:1935/live/live100/500k/tzwj_video.m3u8
 http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
 #EXTINF:-1 group-title="甘肃频道",崆峒综合频道
 http://125.74.200.110:10080/hls/001/001_live.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/4pBohJyXnAf7yvzyMTD1953RIjY.jpg" group-title="琅琊榜",琅琊榜 第一集
-https://pan.webos.im/webos/link/378f7ac65e1e40eba3830849a876805f/%E7%90%85%E7%90%8A%E6%A6%9C.S01E01.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/4pBohJyXnAf7yvzyMTD1953RIjY.jpg" group-title="琅琊榜",琅琊榜 第二集
-https://pan.webos.im/webos/link/2438ce8884b2412a80953d9de8821cf5/%E7%90%85%E7%90%8A%E6%A6%9C.S01E02.mp4
-
-
-
-
-
 
 
 

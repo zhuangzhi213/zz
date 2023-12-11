@@ -219,7 +219,10 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226465/in
 
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226227/index.m3u8
 
-直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
+
+琅琊榜,#genre#
+琅琊榜 第一集,https://pan.webos.im/webos/link/378f7ac65e1e40eba3830849a876805f/%E7%90%85%E7%90%8A%E6%A6%9C.S01E01.mp4
+琅琊榜 第二集,https://pan.webos.im/webos/link/2438ce8884b2412a80953d9de8821cf5/%E7%90%85%E7%90%8A%E6%A6%9C.S01E02.mp4
 
 
 BESTV,#genre#
