@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://cdn.zhuangzhi.love/js/电视直播.json
+#EXT-X-SUB-URL 
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" group-title="电视频道" tvg-logo="https://img.picgo.net/2023/12/04/CCTV1e6fb9f10dffb5155.png",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
