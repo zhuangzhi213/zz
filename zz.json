@@ -220,26 +220,27 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226465/in
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226227/index.m3u8
 
 
-CCTV-1 综合,http://60.205.114.16/live/cctv1.m3u8?user=APTV66&line=1
-CCTV-2 财经,http://60.205.114.16/live/cctv2.m3u8?user=APTV66&line=1
-CCTV-3 综艺,http://60.205.114.16/live/cctv3.m3u8?user=APTV66&line=1
-CCTV-4 中文国际,http://60.205.114.16/live/cctv4.m3u8?user=APTV66&line=1
-CCTV-5 体育,http://60.205.114.16/live/cctv5.m3u8?user=APTV66&line=1
-CCTV-5+ 体育赛事,http://60.205.114.16/live/cctv5p.m3u8?user=APTV66&line=1
-CCTV-6 电影,http://60.205.114.16/live/cctv6.m3u8?user=APTV66&line=1
-CCTV-7 国防军事,http://60.205.114.16/live/cctv7.m3u8?user=APTV66&line=1
-CCTV-8 电视剧,http://60.205.114.16/live/cctv8.m3u8?user=APTV66&line=1
-CCTV-9 纪录,http://60.205.114.16/live/cctv9.m3u8?user=APTV66&line=1
-CCTV-10 科教,http://60.205.114.16/live/cctv10.m3u8?user=APTV66&line=1
-CCTV-11 戏曲,http://60.205.114.16/live/cctv11.m3u8?user=APTV66&line=1
-CCTV-12 社会与法,http://60.205.114.16/live/cctv12.m3u8?user=APTV66&line=1
-CCTV-13 新闻,http://60.205.114.16/live/cctv13.m3u8?user=APTV66&line=1
-CCTV-14 少儿,http://60.205.114.16/live/cctv14.m3u8?user=APTV66&line=1
-CCTV-15 音乐,http://60.205.114.16/live/cctv15.m3u8?user=APTV66&line=1
-CCTV-16 奥林匹克,http://60.205.114.16/live/cctv16.m3u8?user=APTV66&line=1
-CCTV-17 农业农村,http://60.205.114.16/live/cctv17.m3u8?user=APTV66&line=1
-CCTV-4K 超高清,http://60.205.114.16/live/cctv4k.m3u8?user=APTV66&line=1
-CCTV-16 奥林匹克 4K,http://60.205.114.16/live/cctv164k.m3u8?user=APTV66&line=1
+IPTV,#genre#
+CCTV-1,http://60.205.114.16/live/cctv1.m3u8?user=APTV66&line=1
+CCTV-2,http://60.205.114.16/live/cctv2.m3u8?user=APTV66&line=1
+CCTV-3,http://60.205.114.16/live/cctv3.m3u8?user=APTV66&line=1
+CCTV-4,http://60.205.114.16/live/cctv4.m3u8?user=APTV66&line=1
+CCTV-5,http://60.205.114.16/live/cctv5.m3u8?user=APTV66&line=1
+CCTV-5+,http://60.205.114.16/live/cctv5p.m3u8?user=APTV66&line=1
+CCTV-6,http://60.205.114.16/live/cctv6.m3u8?user=APTV66&line=1
+CCTV-7,http://60.205.114.16/live/cctv7.m3u8?user=APTV66&line=1
+CCTV-8,http://60.205.114.16/live/cctv8.m3u8?user=APTV66&line=1
+CCTV-9,http://60.205.114.16/live/cctv9.m3u8?user=APTV66&line=1
+CCTV-10,http://60.205.114.16/live/cctv10.m3u8?user=APTV66&line=1
+CCTV-11,http://60.205.114.16/live/cctv11.m3u8?user=APTV66&line=1
+CCTV-12,http://60.205.114.16/live/cctv12.m3u8?user=APTV66&line=1
+CCTV-13,http://60.205.114.16/live/cctv13.m3u8?user=APTV66&line=1
+CCTV-14,http://60.205.114.16/live/cctv14.m3u8?user=APTV66&line=1
+CCTV-15,http://60.205.114.16/live/cctv15.m3u8?user=APTV66&line=1
+CCTV-16,http://60.205.114.16/live/cctv16.m3u8?user=APTV66&line=1
+CCTV-17,http://60.205.114.16/live/cctv17.m3u8?user=APTV66&line=1
+CCTV-4K,http://60.205.114.16/live/cctv4k.m3u8?user=APTV66&line=1
+CCTV-16,http://60.205.114.16/live/cctv164k.m3u8?user=APTV66&line=1
 CGTN,http://60.205.114.16/live/cgtn.m3u8?user=APTV66&line=1
 北京卫视,http://60.205.114.16/live/bjws.m3u8?user=APTV66&line=1
 东方卫视,http://60.205.114.16/live/dfws.m3u8?user=APTV66&line=1
@@ -348,7 +349,7 @@ CETV4,http://60.205.114.16/live/cetv4.m3u8?user=APTV66&line=1
 
 
 
-IPTV,#genre#
+IPTV2,#genre#
 CCTV-1 综合,http://60.205.114.16/gitv/G_CCTV-1-CQ.m3u8?user=APTV66
 CCTV-2 财经,http://60.205.114.16/gitv/G_CCTV-2-CQ.m3u8?user=APTV66
 CCTV-3 综艺,http://60.205.114.16/gitv/G_CCTV-3-CQ.m3u8?user=APTV66
