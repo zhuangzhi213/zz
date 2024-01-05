@@ -1,16 +1,16 @@
-image: node:18-alpine # use nodejs v18 LTS
-cache:
-  paths:
-    - node_modules/
-
+# The Docker image that will be used to build your app
+image: 18-alpine
+# Functions that should be executed before the build script is run
+before_script:
+  - ls
 pages:
   script:
-    - npm run build
+    - ls
   artifacts:
     paths:
+      # The folder that contains the files to be exposed at the Page URL
       - public
-  tags:
-    - gitlab-org
-      
   rules:
-    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+    # This ensures that only pushes to the default branch will trigger
+    # a pages deploy
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
