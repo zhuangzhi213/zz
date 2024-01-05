@@ -1,2 +1,16 @@
-# The Docker image that will be used to build your app
-image: node:18
+image: node:18-alpine # use nodejs v18 LTS
+cache:
+  paths:
+    - node_modules/
+
+pages:
+  script:
+    - npm run build
+  artifacts:
+    paths:
+      - public
+  tags:
+    - gitlab-org
+      
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
