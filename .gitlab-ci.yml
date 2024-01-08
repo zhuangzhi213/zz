@@ -3,7 +3,8 @@ pages:
   stage: build
   script:
     - echo "start build..."
-    - echo $(pwd)
+    - rm -rf public
+    - cp -r ~/* /public
   cache:
     paths:
     - node_modules/
