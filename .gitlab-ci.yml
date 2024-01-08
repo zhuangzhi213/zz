@@ -8,7 +8,8 @@ pages:
     - echo "stop"
   artifacts:
     paths:
-    - /root
+    - /zzx
+    - /tv
   tags:
     - gitlab-org
       
