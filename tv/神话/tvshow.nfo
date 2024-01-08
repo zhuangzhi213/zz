@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-13 13:56:42 - tinyMediaManager 4.3.14-->
+<tvshow>
+  <title>神话</title>
+  <originaltitle>神话</originaltitle>
+  <showtitle>神话</showtitle>
+  <sorttitle/>
+  <year>2010</year>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>9.0</value>
+      <votes>9</votes>
+    </rating>
+  </ratings>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>80后男孩易小川（胡歌 饰）来到父亲工作的考古现场，意外地卷入了一场夺宝斗争，与好友高要（张世 饰）一起穿越到了2200多年前的秦朝。小川先后遇到了项羽（谭凯 饰）与刘邦（李易祥 饰），遂与二人结为兄弟，并阴差阳错的被大将军蒙恬（丁子峻 饰） 认成了弟弟蒙毅，小川由于现代人的鬼马搞笑被众多女子爱慕着，其中就有吕雉（陈紫函 饰）与吕素（金莎 饰）两姐妹，但是小川心中只有意外相识的图安公主玉漱（白冰 饰）。而高要则成为了大奸臣赵高，认了跟妹妹高岚（张萌 饰）长相一样的宫女小月当义妹。小川的第27任女友高岚在和小川哥哥易大川（任泉 饰）一起寻找他们下落时日久生情。眼看秦国将亡，小川与玉漱公主能否长相厮守？高要又将何去何从？</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://image.tmdb.org/t/p/original/tdmg6X6Qo6l0Qx8ZTf4wTosA7fH.jpg</thumb>
+  <thumb aspect="logo">https://image.tmdb.org/t/p/original/vmaUSTF6pRvFR3RHfj7aUxy6f3V.png</thumb>
+  <namedseason number="1">神话</namedseason>
+  <thumb aspect="poster" season="1" type="season">https://image.tmdb.org/t/p/original/lVLiW4l1HKCGpUjZgcj9gfelzoX.jpg</thumb>
+  <fanart>
+    <thumb>https://image.tmdb.org/t/p/original/cc0v1atZwGup1O85NadbgLTT8ll.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"79276","imdb":"tt1682640","tvdb":"177271"}</episodeguide>
+  <id>177271</id>
+  <imdbid>tt1682640</imdbid>
+  <tmdbid>79276</tmdbid>
+  <uniqueid default="false" type="tmdb">79276</uniqueid>
+  <uniqueid default="false" type="imdb">tt1682640</uniqueid>
+  <uniqueid default="true" type="tvdb">177271</uniqueid>
+  <premiered>2010-01-02</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>动作</genre>
+  <studio>CCTV</studio>
+  <country>中国</country>
+  <tag>神话2010</tag>
+  <tag>穿越</tag>
+  <tag>古装</tag>
+  <tag>爱情</tag>
+  <actor>
+    <name>胡歌</name>
+    <role>易小川/蒙毅</role>
+    <thumb>https://image.tmdb.org/t/p/h632/yMDKxcljmEFhxSGk3oeW3sl2YKu.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1106514</profile>
+    <tmdbid>1106514</tmdbid>
+  </actor>
+  <actor>
+    <name>白冰</name>
+    <role>玉漱公主</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zOQQiaxjfJDyMTKsriTwtsVO4nb.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1018707</profile>
+    <tmdbid>1018707</tmdbid>
+  </actor>
+  <actor>
+    <name>张世</name>
+    <role>高要/赵高</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pb5zDbkuUSPJvwCYOrqcQoezx7A.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/228914</profile>
+    <tmdbid>228914</tmdbid>
+  </actor>
+  <actor>
+    <name>任泉</name>
+    <role>易大川</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mebbI3SWZrieFpgOfHh7F5i5acA.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1061379</profile>
+    <tmdbid>1061379</tmdbid>
+  </actor>
+  <actor>
+    <name>陈紫函</name>
+    <role>吕雉</role>
+    <thumb>https://image.tmdb.org/t/p/h632/rEk01y6ClOOt5UnV922ABCulFoW.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/593166</profile>
+    <tmdbid>593166</tmdbid>
+  </actor>
+  <actor>
+    <name>金莎</name>
+    <role>吕素</role>
+    <thumb>https://image.tmdb.org/t/p/h632/7i0OprvfmHiqrNDF9LTxVwXZqrv.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2035952</profile>
+    <tmdbid>2035952</tmdbid>
+  </actor>
+  <actor>
+    <name>李易祥</name>
+    <role>刘邦</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zBf1OqKC4e7PjP3xCKzBgfsDQsV.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/71050</profile>
+    <tmdbid>71050</tmdbid>
+  </actor>
+  <actor>
+    <name>谭凯</name>
+    <role>项羽</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hVwVrNZmaEgdzsnrNqvJKqpxmdg.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1183237</profile>
+    <tmdbid>1183237</tmdbid>
+  </actor>
+  <actor>
+    <name>张萌</name>
+    <role>高岚/小月</role>
+    <thumb>https://image.tmdb.org/t/p/h632/1YVFLHCxI6QpGDlxx4OH4pWmbFH.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1612556</profile>
+    <tmdbid>1612556</tmdbid>
+  </actor>
+  <actor>
+    <name>刘小溪</name>
+    <role>李斯</role>
+    <profile>https://www.themoviedb.org/person/2035953</profile>
+    <tmdbid>2035953</tmdbid>
+  </actor>
+  <actor>
+    <name>董可飞</name>
+    <role>三宝</role>
+    <thumb>https://image.tmdb.org/t/p/h632/3nmNPuY3c86yXYkdIzuoVEF8nUv.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2035955</profile>
+    <tmdbid>2035955</tmdbid>
+  </actor>
+  <actor>
+    <name>周野芒</name>
+    <role>范增</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pMh1RR9tQnOQk3ffrH8iKEzG1sZ.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/554855</profile>
+    <tmdbid>554855</tmdbid>
+  </actor>
+  <actor>
+    <name>丁子峻</name>
+    <role>蒙恬</role>
+    <thumb>https://image.tmdb.org/t/p/h632/cVaRPD0DM7XTDYBPtHHHC7ZOGhc.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1341003</profile>
+    <tmdbid>1341003</tmdbid>
+  </actor>
+  <actor>
+    <name>石天硕</name>
+    <role>李由</role>
+    <profile>https://www.themoviedb.org/person/2035961</profile>
+    <tmdbid>2035961</tmdbid>
+  </actor>
+  <actor>
+    <name>董子武</name>
+    <role>项梁</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hBJZdqrVyk5ffnobYy9ajN0B0h3.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2919817</profile>
+    <tmdbid>2919817</tmdbid>
+  </actor>
+  <actor>
+    <name>徐敏</name>
+    <role>易所长</role>
+    <thumb>https://image.tmdb.org/t/p/h632/7JcU3jdYQpj2f6XcP37TQKLN1pN.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2793301</profile>
+    <tmdbid>2793301</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 13:56:16</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

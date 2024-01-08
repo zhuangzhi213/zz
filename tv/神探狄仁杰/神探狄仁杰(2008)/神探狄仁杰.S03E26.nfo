@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:51:30 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>漕渠魅影（邗沟覆船案）</title>
+  <originaltitle>漕渠魅影（邗沟覆船案）</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>3</season>
+  <episode>26</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1482729</id>
+  <uniqueid default="false" type="tmdb">1482729</uniqueid>
+  <uniqueid default="true" type="tvdb">1482729</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>狄公到了扬州却托病不肯露面，扬州的官吏都非常恐慌。两天后，刺史崔亮带了补品礼物，来探虚实，工部侍郎封可言接待了他。按狄公临行前的嘱托，封可言假意收了崔亮的贿赂，将狄公微服私访之事透露给扬州刺史崔亮，并提起了回来后要纠办漕运衙门之事。这一计果然起了作用，对手们惊慌万分，马上行动起来。上沟村，狄公问询到邗沟覆船案件，老船工郭老鲁告诉他，只有运盐船一到邗沟才翻，其它的船只都能安全通过。这船翻了十多次，每次官府都是在事发几天之后才派船到河中打捞落水的官盐，结果连个麻袋片都没捞上来过。漕运衙门说是纤户合伙做贼，从水底下捞走官盐。于是又抄家又搜查，把两岸的纤户抓了好几千呢。更进一步的情况是，在盐船翻覆的当天夜里，港汊中曾出现百余快船组成的可疑船队，向事发地点鬼石头的方向疾驶而去；两天后，这些快船才从原路缓缓返回，水下似乎拖着什么东西。狄公等根据地图和村民提供的信息，排除了这些快船是商船、渔船以及它们停靠在途中，还有驶往山阳县的可能性，这就说明它们在水面之上逗留了将近两天的时间。说到这，曾泰恍然大悟：这些快船是冲着沉没在水底的官盐去的。这也就解释了船队为何会在水面逗留，以及返回的船尾挂着粗绳索，且行驶得很慢：那是因为他们打捞起了那几十万石官盐，用绳索拖在水下。若果真如此，那么邗沟覆船就绝非意外，而是有歹人作祟。如果这一推论成立，那么，这支多达上百只快船的庞大船队是从何处出发，又要回到哪里呢？如此庞大的一支船队在河面上招摇而行，难道不怕引起别人的注意吗？他们又是如何逃过巡河官检查的呢？狄公深深感到了邗沟两岸的不平静，他还要还要多走一走，多看一看。鲁吉英和宁氏终于到达山阳，他们赶回县衙，到了大门前。掌固季虎刚一进大门，又急三火四地带着县丞和县尉跑了出来，几人十分惊慌，报说长史吴文登现在二堂。——鲁吉英身为县令，私离汛地已有二十多天。县丞说，长史大人似乎就是冲着此事来的。宁氏闻言也紧张了起来。鲁吉英却不慌不忙，他叫县丞马上回去拖住吴文登，说自己马上就到；又叫县尉去找来一坛酒，连灌了几大口。吴文登正在二堂厉声呵斥县丞欺瞒上官，鲁吉英突然一头撞进门来扑通跪倒，连连磕头。面对吴文登的责问，鲁吉英满嘴喷着酒气，嬉皮笑脸地耍起了酒疯。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2008-03-15</premiered>
+  <aired>2008-03-15</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Xuan</name>
+    <role>云姑/葛亚清</role>
+    <thumb>https://image.tmdb.org/t/p/h632/xDa2OwVawvoO4Fphi6dkoAeISyg.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/565343</profile>
+    <tmdbid>565343</tmdbid>
+  </actor>
+  <actor>
+    <name>Qu Shanshan</name>
+    <role>宁氏</role>
+    <thumb>https://image.tmdb.org/t/p/h632/q9SYzyqWl35bSDsL2DJ02l9GfHz.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2795038</profile>
+    <tmdbid>2795038</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuan Ran</name>
+    <role>小桃</role>
+    <thumb>https://image.tmdb.org/t/p/h632/u6LlaVmrXP3xusFP10RiJYyox2k.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2275188</profile>
+    <tmdbid>2275188</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 15:00:59</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S03E26.mp4</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-13 14:03:20 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>第 27 集</title>
+  <originaltitle>第 27 集</originaltitle>
+  <showtitle>神话</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1482279</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>李斯在朝堂上弹劾蒙恬，几位大臣却向秦皇奏明孟姜女哭倒长城之传闻。朝堂上就此事是否可信吵得不可开交。关键时刻，庞副将带着当地官名联名写下的千人长卷，为孟姜女请命。秦皇终于相信，决定顺应天意立碑表彰孟姜女。下朝后，心中早已有几分洞明的秦皇质问赵高为何李斯与他如出一辙弹劾蒙恬，并罚其跪两个时辰反思。大殿上，出海归来的术士卢生上殿呈上“天书”，上书“亡秦者胡也”。蒙恬大喜，向秦皇进言说，“胡”所指胡亥，应该将他赶出宫去。李斯赶紧出列说胡指的当是胡人，因此要加强边防。秦皇命蒙恬出征，蒙恬只能遵命。赵高高兴这真是一场反败为胜！多亏韩青青指路，大川和高岚找到了易教授和易妈妈。韩青青告诉他们自己从小就在这里出生，因此对这里十分熟悉。易教授发现一块石碑，就是当年秦皇为表彰孟姜女所立之碑。原来她就是“土行者”后代。他们终于找到了第三枚戒指。蒙恬出征离开咸阳。赵高将儒生写于衣衫上的牢骚忤逆之言给秦皇看，并告知这些都是扶苏举贤堂门下的智囊。秦皇大怒，命赵高彻查。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2010-01-02</premiered>
+  <aired>2010-01-02</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV</studio>
+  <actor>
+    <name>Hu Ge</name>
+    <role>Yi Xiaochuan</role>
+    <thumb>https://image.tmdb.org/t/p/h632/yMDKxcljmEFhxSGk3oeW3sl2YKu.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1106514</profile>
+    <tmdbid>1106514</tmdbid>
+  </actor>
+  <actor>
+    <name>Bai Bing</name>
+    <role>Princess Yushu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zOQQiaxjfJDyMTKsriTwtsVO4nb.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1018707</profile>
+    <tmdbid>1018707</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Shi</name>
+    <role>Gao Yao</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pb5zDbkuUSPJvwCYOrqcQoezx7A.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/228914</profile>
+    <tmdbid>228914</tmdbid>
+  </actor>
+  <actor>
+    <name>Ren Quan</name>
+    <role>Yi Dachuan</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mebbI3SWZrieFpgOfHh7F5i5acA.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1061379</profile>
+    <tmdbid>1061379</tmdbid>
+  </actor>
+  <actor>
+    <name>Chen Zihan</name>
+    <role>Lv Zhi</role>
+    <thumb>https://image.tmdb.org/t/p/h632/rEk01y6ClOOt5UnV922ABCulFoW.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/593166</profile>
+    <tmdbid>593166</tmdbid>
+  </actor>
+  <actor>
+    <name>Jin Sha</name>
+    <role>Lv Su</role>
+    <thumb>https://image.tmdb.org/t/p/h632/7i0OprvfmHiqrNDF9LTxVwXZqrv.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2035952</profile>
+    <tmdbid>2035952</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Yixiang</name>
+    <role>Liu Bang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zBf1OqKC4e7PjP3xCKzBgfsDQsV.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/71050</profile>
+    <tmdbid>71050</tmdbid>
+  </actor>
+  <actor>
+    <name>Tan Kai</name>
+    <role>Xiang Yu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hVwVrNZmaEgdzsnrNqvJKqpxmdg.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1183237</profile>
+    <tmdbid>1183237</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Meng</name>
+    <role>Gao Lan</role>
+    <thumb>https://image.tmdb.org/t/p/h632/1YVFLHCxI6QpGDlxx4OH4pWmbFH.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1612556</profile>
+    <tmdbid>1612556</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Xiaoxi</name>
+    <role>Li Si</role>
+    <profile>https://www.themoviedb.org/person/2035953</profile>
+    <tmdbid>2035953</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Kefei</name>
+    <role>San Bao</role>
+    <thumb>https://image.tmdb.org/t/p/h632/3nmNPuY3c86yXYkdIzuoVEF8nUv.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2035955</profile>
+    <tmdbid>2035955</tmdbid>
+  </actor>
+  <actor>
+    <name>Gao Longke</name>
+    <role>Qingqing</role>
+    <profile>https://www.themoviedb.org/person/2035958</profile>
+    <tmdbid>2035958</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Chunzhong</name>
+    <role>Zhong Limei</role>
+    <thumb>https://image.tmdb.org/t/p/h632/cc3EgEn4v7z7dPYui2zSECTezsm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1611492</profile>
+    <tmdbid>1611492</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhou Yemang</name>
+    <role>Fan Zeng</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pMh1RR9tQnOQk3ffrH8iKEzG1sZ.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/554855</profile>
+    <tmdbid>554855</tmdbid>
+  </actor>
+  <actor>
+    <name>Allen Ting Chi-Chun</name>
+    <role>Meng Tian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/cVaRPD0DM7XTDYBPtHHHC7ZOGhc.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1341003</profile>
+    <tmdbid>1341003</tmdbid>
+  </actor>
+  <actor>
+    <name>Terry Shi</name>
+    <role>Li You</role>
+    <profile>https://www.themoviedb.org/person/2035961</profile>
+    <tmdbid>2035961</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Ziwu</name>
+    <role>项梁</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hBJZdqrVyk5ffnobYy9ajN0B0h3.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2919817</profile>
+    <tmdbid>2919817</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Min</name>
+    <role>易所长</role>
+    <thumb>https://image.tmdb.org/t/p/h632/7JcU3jdYQpj2f6XcP37TQKLN1pN.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2793301</profile>
+    <tmdbid>2793301</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 13:56:16</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神话.S01E27.mkv</original_filename>
+  <user_note/>
+</episodedetails>

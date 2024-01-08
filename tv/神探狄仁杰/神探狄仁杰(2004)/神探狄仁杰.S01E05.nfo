@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:49:59 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>使团惊魂05</title>
+  <originaltitle>使团惊魂05</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>892631</id>
+  <uniqueid default="false" type="tmdb">892631</uniqueid>
+  <uniqueid default="true" type="tvdb">892631</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>　　幽州社情的纷乱扰攘，令狄公和虎敬晖深有感触，他们决定继续在民间暗访，顺便了解社会现状和百姓疾苦。在山里他们碰到了猎户陆大有，从他家里无意中救下了身中剧毒的逃犯李二。　　  经过深入走访聆听附近百姓反映，狄公了解到除了抚慰款和强占民田的事，附近的山林也被官府无故封了，不许任何人等入内。封山给当地百姓的生计带来很多困难，可官府却对此熟视无睹。这是为什么呢？随着与陆大有的接触，他们得知了又一个奇怪的事情，那就是距此七里地的姚家铺，出现一个鬼镇，白天臭无人迹破败荒凉，晚上却热闹非凡家家灯火。不少好奇的年轻人前去搜幽探险，但所有前去之人，没有一个回来过，他们全部失踪了。以后，再没有人敢去问津。　　  金木兰因没有得到李二已死的确切消息，也没有见到李的尸首，放心不下，便派人四处侦查。陆大有下山买药，引起密探的注意，跟踪他摸上山来。　　  李二的毒症在狄公的救治下渐渐缓解。狄公前来探望，无意中发现了他左臂上的文身刺青，但他不能识别这符号的意义，心里有些别扭。就在他们研究刺青符号的时候，一队官兵冲进屋子，不由分说，将李二连同狄公等人一齐抓去了州衙。　　  衙堂之上，刺史方谦因抓住李二得意非常，对狄公等人滥施淫威。面对方谦的丑陋与嚣张，狄公凛然动容予以怒斥，随后宣读圣旨亮出身份，当即灭了方谦的威风，还顺手接管了李二的案子。这一手来得干脆，来得漂亮，致使方谦一伙措手不及，乱了阵脚。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2004-08-09</premiered>
+  <aired>2004-08-09</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhu Yanping</name>
+    <role>虎敬晖/蝮蛇/蝮敬辉/剑灵</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zNpZiZLESr4M805Alii2bMPX1e6.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1612190</profile>
+    <tmdbid>1612190</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xin</name>
+    <role>Yingyu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mw1jQzfF8QgGOJFyfMZCQJxmh4f.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1241445</profile>
+    <tmdbid>1241445</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Pang</name>
+    <role>Li Qingxia</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bQ42z63uG3Y9G5VPdipo7iL3sSC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1081095</profile>
+    <tmdbid>1081095</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 14:55:41</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S01E05.mp4</original_filename>
+  <user_note/>
+</episodedetails>

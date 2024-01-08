@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:51:36 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>漕渠魅影（邗沟覆船案）</title>
+  <originaltitle>漕渠魅影（邗沟覆船案）</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>3</season>
+  <episode>32</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1482735</id>
+  <uniqueid default="false" type="tmdb">1482735</uniqueid>
+  <uniqueid default="true" type="tvdb">1482735</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>狄公计划着突袭北沟大仓，抓捕林阳。他略一沉吟，命令张环李朗立即调集扬州水营的所有快船和钦差卫队前往码头。事不宜迟，就在今夜。张环李朗率卫士袭破大仓。据俘虏彭秋交代，卫队发起攻击之前，他看到林阳正在大仓之中。狄公和曾泰大喜，命令卫士们按彭秋描述的林阳的形貌特征——中等身材，大眼睛，面色黝黑，一部络腮胡须——仔细搜索，一定要找到此人。仓房中，狄公和曾泰四下观察着。突然卫士来报，在大仓中救出了宁氏和山阳县令鲁吉英。宁氏终于见到狄公，她双手掩面泣不成声。鲁吉英则颤颤巍巍地从怀中掏出那张揉皱的信纸，双手呈上。狄公接过，飞快地打开定睛看去，他惊声叫道：这，这是元芳的笔迹！两行热泪滚过鲁吉英的面颊，他哽咽着轻声道：阁老。元芳……元芳他已经……遇难了……曾泰、狄春一声惊叫：什么！狄公只觉脑中嗡的一声巨响，顿时头晕目眩，身体摇晃起来，但是他没有倒下。鲁吉英和宁氏把一路上的事情原原本本地细述给狄公，说到动情处不由得泪流满面。狄公深吸一口气，强压悲痛，平静了一下心情。他问到了李翰的那封密信。鲁吉英说，这封密信他和元芳都曾看过，上面记载了邗沟覆船前后，扬州官吏的受贿情况；令人痛心的是，这份名单竟牵涉了扬州刺史府半数以上的官员，狄公不由得一惊。他顿时明白了，这正是歹人们处心积虑谋害李翰大人的原因；同时他也感到了自己肩上担子的分量。军头沈韬派卫士严守各个汊口，张环则率人将大仓搜了个遍，终于找到了五六个面色黝黑，络腮胡须之人；然而经彭秋和大仓的守卫辨认，林阳却不在这中间。狄公和曾泰感到非常奇怪，林阳竟然无缘无故不见了踪迹，难道此人会水遁不成。狄公略一沉吟，笑着点了点头道：突袭大仓没有抓到林阳，却救出了鲁吉英和李夫人，这也算是意外的收获。他长叹一声道：得知鲁县令和李夫人得救，九泉之下的元芳也会感到欣慰了。说着，他的眼圈红了。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2008-03-15</premiered>
+  <aired>2008-03-15</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Xuan</name>
+    <role>云姑/葛亚清</role>
+    <thumb>https://image.tmdb.org/t/p/h632/xDa2OwVawvoO4Fphi6dkoAeISyg.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/565343</profile>
+    <tmdbid>565343</tmdbid>
+  </actor>
+  <actor>
+    <name>Qu Shanshan</name>
+    <role>宁氏</role>
+    <thumb>https://image.tmdb.org/t/p/h632/q9SYzyqWl35bSDsL2DJ02l9GfHz.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2795038</profile>
+    <tmdbid>2795038</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuan Ran</name>
+    <role>小桃</role>
+    <thumb>https://image.tmdb.org/t/p/h632/u6LlaVmrXP3xusFP10RiJYyox2k.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2275188</profile>
+    <tmdbid>2275188</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 15:00:59</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S03E32.mp4</original_filename>
+  <user_note/>
+</episodedetails>

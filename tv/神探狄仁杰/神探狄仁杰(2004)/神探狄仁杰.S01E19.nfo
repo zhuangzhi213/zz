@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:50:12 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>蓝衫记06</title>
+  <originaltitle>蓝衫记06</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1222310</id>
+  <uniqueid default="false" type="tmdb">1222310</uniqueid>
+  <uniqueid default="true" type="tvdb">1222310</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>　　  狄公一行来到现场，曾泰认为从勘查的结果看，只有一种解释：莹玉得知事情败露，杀人灭口后逃之夭夭。狄公认为他的结论下早了，种种迹象表明，庄内肯定还有另一股势力。而且从搜出的一本《蓝衫记》来看，事情远没有这样简单，当务之急是要找到失踪的李元芳。&#13;
+&#13;
+　　  狄公认定李元芳的失踪肯定与后园的小楼有关，问及刘大小楼的来历及用处，刘大却吱吱吾吾有所掩饰。结果，他们还是发现了李元芳留下的腰带铜饰。狄公断定李元芳一定是发现了什么，追踪来此，没想到中了埋伏……他突然意识到一个问题，于是带着大家来到花房。&#13;
+&#13;
+　　  狄公仔细勘察刘员外的尸体，发现尸体不是刘员外而是花匠蒋老四。经过仔细的推敲，狄公发现他忽略了一个重要的人物。&#13;
+&#13;
+　　  再说进入陷阱的李元芳，此时正在地下洞穴中与以刘员外为首的秘密势力进行着斗智斗勇的生死较量。李元芳剿灭了一股匪徒，但刘查礼却逃跑了。&#13;
+&#13;
+　　  这天夜里，狄公唤刘大前来问话，故意设局使刘大突遭无故袭击，试探出他的高深武功。刘大身份败露，经张春、王五指认，他就是威胁他们翻供的人。在狄公面前，刘大仍想抵赖过关，狄公冷笑一声道：你是刘查礼的帮凶，就是你，杀死了京城来的两个仆佣，嫁祸于张春和王五。也是你，昨天夜里袭击了李元芳；同样是你，杀死花匠蒋老四，用他的尸体冒充刘查礼，企图混淆视听，将本阁引上歧途。我问你，刘查礼现在处？刘大骄傲地称狄公永远也找不到刘查礼。至于李元芳，昨夜已被他杀死了。狄公嘲讽道：就凭你那两下子，你还杀不了他。说着，狄公撕开刘大的衣服道：你身上的这些伤口，恐怕就是他留下的吧？这时他突然看到了刘大胳膊上的梅花刺青，这才是刘大的真实身份，刘大放声大笑，要狄公识相点，趁早放了他，但狄公还是将他押进了死牢。&#13;
+&#13;
+　　  陷在洞穴中的李元芳终于爬出来，发现自己已身处万山丛中的一座农家院落里，院子很大，围着院子有四五间石头垒成的房子，房中隐隐透出灯火。这是什么地方？李元芳一时真有些搞不清了。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2004-08-23</premiered>
+  <aired>2004-08-23</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhu Yanping</name>
+    <role>虎敬晖/蝮蛇/蝮敬辉/剑灵</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zNpZiZLESr4M805Alii2bMPX1e6.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1612190</profile>
+    <tmdbid>1612190</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xin</name>
+    <role>Yingyu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mw1jQzfF8QgGOJFyfMZCQJxmh4f.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1241445</profile>
+    <tmdbid>1241445</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Pang</name>
+    <role>Li Qingxia</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bQ42z63uG3Y9G5VPdipo7iL3sSC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1081095</profile>
+    <tmdbid>1081095</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 14:55:41</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S01E19.mp4</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-13 14:21:07 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>海底城</title>
+  <originaltitle>海底城</originaltitle>
+  <showtitle>仙剑奇侠传三</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <uniqueid default="true" type="tmdb">779057</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>众人来到海底城，发现海底城看似一座消失的遗址，而且没有人烟的感觉。进入城中，迎面便是一条不见底的走廊。走廊两旁是一幅幅的壁画，长长的历史壁画，预示着每个人的过去与未来。进入大厅，就看到一座美丽的石像，这便是水碧。突然有阵奇怪的风而至，有些奇怪的现象发生了。
+
+　　原来是溪风来了，紫萱立刻得知溪风就是传说中的那个男人。溪风一看到石像，就知道这便是等了自己五百年的水碧。可是出卖了自己声音的溪风，摸着石像的脸，却无法证明自己回来了。众人都十分惋惜，紫萱的心绪一起，重楼就感应到了。他表示知道溪风想要的是什么──他自己的声音。
+
+　　溪风用自己的声音唤醒了水碧，两人相拥在了一起。得知水碧和溪风终成眷属，紫萱有所感悟，把自己的心还给了重楼。突然海底城震动得十分厉害，海底火山爆发，众人不得不迅速离开。而溪风和水碧则已经商量好，愿意一起携手镇住火山。众人离开海底城，紫萱打开了贝壳，吐出一粒珠子，这便是圣灵珠!
+
+　　长卿和紫萱直接回到蜀山，圣姑马上替青青儿施法。圣姑指出，众人在离开前往海底城后，蜀山甚至整个人间都发生了可怕的变化!原来邪剑仙来了!他已完全控制了人间。并声言六月六日，正是人类的末日了。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2009-07-08</premiered>
+  <aired>2009-07-08</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>上海唐人电影制作有限公司</studio>
+  <director tmdbid="1820113">Sing Kuenleung</director>
+  <director tmdbid="2749214">Kwok-Lap Lee</director>
+  <actor>
+    <name>Hu Ge</name>
+    <role>景天 / 飞蓬 / 龙阳 / 李逍遥</role>
+    <thumb>https://image.tmdb.org/t/p/h632/yMDKxcljmEFhxSGk3oeW3sl2YKu.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1106514</profile>
+    <tmdbid>1106514</tmdbid>
+  </actor>
+  <actor>
+    <name>Yang Mi</name>
+    <role>唐雪见 / 夕瑶</role>
+    <thumb>https://image.tmdb.org/t/p/h632/6RezRxlQBsYmlotybR3q7riSrvV.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/572043</profile>
+    <tmdbid>572043</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Shishi</name>
+    <role>龙葵</role>
+    <thumb>https://image.tmdb.org/t/p/h632/dvt1r6aeYmjIOyrAyPBWP5py80D.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1185786</profile>
+    <tmdbid>1185786</tmdbid>
+  </actor>
+  <actor>
+    <name>Wallace Huo</name>
+    <role>徐长卿 / 林业平 / 顾留芳</role>
+    <thumb>https://image.tmdb.org/t/p/h632/kiuLPAKlIT98fgjuwnYF9u6Wus7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1192904</profile>
+    <tmdbid>1192904</tmdbid>
+  </actor>
+  <actor>
+    <name>Tang Yan</name>
+    <role>紫萱</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zZIsIaQ6Hp5HgOHrWhK4ljWIeot.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/99691</profile>
+    <tmdbid>99691</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuan Hong</name>
+    <role>云霆</role>
+    <thumb>https://image.tmdb.org/t/p/h632/wpazHcgVmxzlvX1zBkSflJ40imp.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1254212</profile>
+    <tmdbid>1254212</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerry Huang</name>
+    <role>重楼</role>
+    <thumb>https://image.tmdb.org/t/p/h632/w2NcAtW4VhbFvucxTijp9vfoSac.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1309561</profile>
+    <tmdbid>1309561</tmdbid>
+  </actor>
+  <actor>
+    <name>Gordon Liu Chia-hui</name>
+    <role>邪剑仙</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hLLDmQbIi8EO0hsBbgLAswqaOrq.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/240171</profile>
+    <tmdbid>240171</tmdbid>
+  </actor>
+  <actor>
+    <name>Lam Tze-chung</name>
+    <role>许茂山</role>
+    <thumb>https://image.tmdb.org/t/p/h632/ipqqly0bvP7SIl0840m50VXsIKY.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/545277</profile>
+    <tmdbid>545277</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristy Guo</name>
+    <role>花楹</role>
+    <thumb>https://image.tmdb.org/t/p/h632/7WxuPxzNh3ePechSFAM8aauJYkS.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1513376</profile>
+    <tmdbid>1513376</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Ziwu</name>
+    <role>元神长老</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hBJZdqrVyk5ffnobYy9ajN0B0h3.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2919817</profile>
+    <tmdbid>2919817</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 14:19:54</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>仙剑奇侠传三.S01E33.mp4</original_filename>
+  <user_note/>
+</episodedetails>

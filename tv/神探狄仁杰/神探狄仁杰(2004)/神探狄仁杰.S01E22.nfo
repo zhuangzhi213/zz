@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:50:15 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>蓝衫记09</title>
+  <originaltitle>蓝衫记09</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1222316</id>
+  <uniqueid default="false" type="tmdb">1222316</uniqueid>
+  <uniqueid default="true" type="tvdb">1222316</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>　　  狄公没有为太子辩解，他聪明地利用武则天生性多疑的性格，反说是发现刘查礼与李规胁迫太子谋反，特来捉拿的。现在刘查礼和李规都死了，关于太子谋反一事是死无对证，好不可惜。武则天果然逆反，听不进去，一时间竟暂时保住了自己和太子，赢得了宝贵的时间。他坚信，这桩连太子都遭牵连的刘家庄奇案，马上就要水落石出了。&#13;
+&#13;
+　　  在馆驿，李元芳向狄公汇报着他在关键时刻看到紫袍人杀死黑衣守卫制造假现场的事，狄公听罢突然向李元芳深深一拜，惊得李元芳和所有的人都目瞪口呆。狄公道：事到如今，一切都明白了。紫袍人之所以要栽赃太子，是为了《蓝衫记》中的藏宝图。这张图中牵涉到一笔巨大的财富，那是越王留下复唐用的。图分别收藏在三本《蓝衫记》中，由吴孝杰、刘查礼和李规分别保管。我们的对手从吴笑杰手中得到了第一本，又从刘查礼手中得到第二本。而第三本在李规手里。李规是复唐的狂热分子，他不怕威胁不吃利诱，是个铜豌豆式的人物。只有一个人，能令他听话，那就是太子。于是，紫袍人才策划了这个阴谋，劫持太子，诱李规吐出实情。而后将太子、李规和刘查礼的尸体统统让皇上发现。这样他既对皇上交了差，又得到了书中的藏宝图，可谓一举两得。现在他的目的已经初步达到，我们等待的最后一场戏，就要上演了。不过天网恢恢，疏而不漏，他机关算尽，却恰恰忽略了一个最重要的人物。也许明天，他们就会同台献技的。　　  第二天，武则天搬师还朝，但听号角声声，金鼓动地。狄公、曾泰率钦差卫队、湖州县衙官吏及湖州百姓跪伏道旁，高呼万岁，万万岁。　　</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2004-08-26</premiered>
+  <aired>2004-08-26</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhu Yanping</name>
+    <role>虎敬晖/蝮蛇/蝮敬辉/剑灵</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zNpZiZLESr4M805Alii2bMPX1e6.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1612190</profile>
+    <tmdbid>1612190</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xin</name>
+    <role>Yingyu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mw1jQzfF8QgGOJFyfMZCQJxmh4f.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1241445</profile>
+    <tmdbid>1241445</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Pang</name>
+    <role>Li Qingxia</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bQ42z63uG3Y9G5VPdipo7iL3sSC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1081095</profile>
+    <tmdbid>1081095</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 14:55:41</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S01E22.mp4</original_filename>
+  <user_note/>
+</episodedetails>

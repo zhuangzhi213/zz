@@ -340,7 +340,6 @@ CETV4,http://60.205.114.16/live/cetv4.m3u8?user=APTV66&line=1
 宝宝动画,http://60.205.114.16/live/bbdh.m3u8?user=APTV66&line=1
 
 
-
 IPTV2,#genre#
 CCTV-1,http://60.205.114.16/gitv/G_CCTV-1-CQ.m3u8?user=APTV66
 CCTV-2,http://60.205.114.16/gitv/G_CCTV-2-CQ.m3u8?user=APTV66
@@ -497,7 +496,6 @@ CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 宝宝动画,https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
 
 
-
 上海频道,#genre#
 上海新闻综合,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
 上海都市,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
@@ -529,7 +527,6 @@ CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 哈哈炫动,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226213/index.m3u8
 
 
-
 浙江频道,#genre#
 浙江教科影院,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
 浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
@@ -537,7 +534,6 @@ CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
 浙江经视,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?zzhed
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
-
 
 
 湖南频道,#genre#
@@ -548,26 +544,8 @@ CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 
 
-
 北京频道,#genre#
 北京纪实,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
 北京纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 卡酷动画,https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
 卡酷动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-
-
-
-甘肃频道,#genre#
-甘肃文化影视,https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
-甘肃公共,http://live.todaydunhuang.com:1935/live/live157/500k/tzwj_video.m3u8
-甘肃公共,https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
-甘肃都市,https://hls.gstv.com.cn/49048r/l54391.m3u8
-甘肃经济,https://hls.gstv.com.cn/49048r/10iv1j.m3u8
-甘肃少儿,https://hls.gstv.com.cn/49048r/922k96.m3u8
-白银综合频道,http://live.bygd.cn/byzh/sd/live.m3u8
-白银文化频道,http://live.bygd.cn/bygg/sd/live.m3u8
-酒泉综合频道,http://live.todaydunhuang.com:1935/live/live159/500k/tzwj_video.m3u8
-酒泉公共频道,http://stream.gsjqtv.com/pd2/sd/live.m3u8
-敦煌综合频道,http://live.todaydunhuang.com:1935/live/live100/500k/tzwj_video.m3u8
-临夏市电视台,http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
-崆峒综合频道,http://125.74.200.110:10080/hls/001/001_live.m3u8

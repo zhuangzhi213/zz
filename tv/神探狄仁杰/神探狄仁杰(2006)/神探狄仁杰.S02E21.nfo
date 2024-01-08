@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:50:43 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>蛇灵案</title>
+  <originaltitle>蛇灵案</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>2</season>
+  <episode>21</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1482684</id>
+  <uniqueid default="false" type="tmdb">1482684</uniqueid>
+  <uniqueid default="true" type="tvdb">1482684</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>　　虺文忠逃到小庙，恰好撞在李元芳和如燕手中。二人救下虺文忠，同追杀而来的肖清芳、魔灵一伙展开激战，击退了众匪。为了救活身负重伤的虺文忠，他们误闯到猎户鲁成家里，竟找到了治伤的特效药独儿怪，使虺文忠转危为安。二人决定按照鲁成的指点，奔赴陀螺地继续为虺文忠求治。狄公派李元芳和如燕二探大杨山后，自己微服来到了蛇灵以前的另一联络点——柳州青阳客栈。他一到就遇上了客栈的一起命案，狄公私下访查，有所发现。他的行为被客栈老板告了官，刺史温开觉得狄公形迹可疑，吩咐捕快准备下手拿人。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2006-11-20</premiered>
+  <aired>2006-11-20</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Shu Yan</name>
+    <thumb>https://image.tmdb.org/t/p/h632/zcuFqu5sU03VNWfesBMrGbLIS2E.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3236208</profile>
+    <tmdbid>3236208</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xinyan</name>
+    <role>狄如燕(苏显儿)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/vDZFLsBEWJopjtYbaIf3VJRPold.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286866</profile>
+    <tmdbid>2286866</tmdbid>
+  </actor>
+  <actor>
+    <name>Er Cha Huo</name>
+    <role>权善才</role>
+    <profile>https://www.themoviedb.org/person/553498</profile>
+    <tmdbid>553498</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 15:00:59</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S02E21.mp4</original_filename>
+  <user_note/>
+</episodedetails>

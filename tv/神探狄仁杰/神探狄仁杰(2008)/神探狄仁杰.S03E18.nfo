@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:51:21 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>黑衣社（凉州案）</title>
+  <originaltitle>黑衣社（凉州案）</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>3</season>
+  <episode>18</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1482721</id>
+  <uniqueid default="false" type="tmdb">1482721</uniqueid>
+  <uniqueid default="true" type="tvdb">1482721</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>终于，狄公讲到了最后的决战，讲到了双方力量的部署和战役胜负的消长变化，可谓有声有色，动魄惊心。这时张环、李朗等率队将院子团团围定，匪首束手成擒。狄公说生命可贵，只有尊重别人的生命，自己才有生存权。匪首说这个世界没有公平和仁慈可言，是非功过只有胜利者才有资格评判。狄公说所以你永远不会成为胜利者。匪首们有幸自裁了，临死还抱着来世不渝的夺取甘凉的念头。狄公无奈地摇了摇头。曾泰问狄公翠红院的事，狄公一语惊人，道出了一段鲜为人知的黑衣社先祖的情感隐秘，那是一段饶有意味的故事。凉州城终于恢复往日的繁华。只有被贴了封条的翠红院，狼藉荒荒，空空荡荡。镜头缓缓升起到房梁之上，梁柱之间，一只红蝙蝠静静地卧着。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2008-03-15</premiered>
+  <aired>2008-03-15</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Xuan</name>
+    <role>云姑/葛亚清</role>
+    <thumb>https://image.tmdb.org/t/p/h632/xDa2OwVawvoO4Fphi6dkoAeISyg.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/565343</profile>
+    <tmdbid>565343</tmdbid>
+  </actor>
+  <actor>
+    <name>Qu Shanshan</name>
+    <role>宁氏</role>
+    <thumb>https://image.tmdb.org/t/p/h632/q9SYzyqWl35bSDsL2DJ02l9GfHz.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2795038</profile>
+    <tmdbid>2795038</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuan Ran</name>
+    <role>小桃</role>
+    <thumb>https://image.tmdb.org/t/p/h632/u6LlaVmrXP3xusFP10RiJYyox2k.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2275188</profile>
+    <tmdbid>2275188</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 15:00:59</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S03E18.mp4</original_filename>
+  <user_note/>
+</episodedetails>

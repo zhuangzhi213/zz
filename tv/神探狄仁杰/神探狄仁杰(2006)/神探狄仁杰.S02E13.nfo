@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:50:35 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>关河疑影（崇州案）</title>
+  <originaltitle>关河疑影（崇州案）</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>2</season>
+  <episode>13</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1482675</id>
+  <uniqueid default="false" type="tmdb">1482675</uniqueid>
+  <uniqueid default="true" type="tvdb">1482675</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>　　吴大憨失口否认狄公的指称。这时他的副将黄真出现了，赵文翙抱住黄真放声大哭。契丹大军兵临城下，肖清芳开门献城。曾泰、李楷固和丘静大惊失色来找狄公和大将军权善才。狄公却从容地指出，敌人是被放进来的。而那位勾结契丹卖主求荣的蛇灵内奸，就是在场的原崇州刺史丘静。狄公条分缕析地叙述了他推断整个案件的所有关节，将在场众人直惊得瞠目结舌无不感佩。丘静不断叹息，而当他听到外面大军进入帅府的声音之时，立刻狰狞微笑，说狄公你真是太聪明太英明太精确了，可惜你明白得太晚了。你听，契丹大军已攻入你的帅府，你唯一的出路就只有投降了。狄公哈哈大笑，很快丘静就发现进来的队伍，竟是由王孝杰所率领的，他立刻泄了气。狄公告诉他肖清芳放进的契丹部队是假冒的，是吉利可汗特许狄公借用的突厥队伍。已交由王孝杰大将军统领他们预伏城中，专等契丹前锋进城后关门打狗。而权善才调出的左威卫主力则埋伏城外，等着与城中部队内外夹击消灭契丹主力。丘静听罢颤抖不已彻底崩溃了。王孝杰感激涕零且愧悔不已，向狄公认错，并表示从此与李元芳交好。大军赶到蛇灵在崇州的总坛之时，已经人去坛空了。狄公正式收如燕为侄女，如燕感动不已。神都洛阳，武则天颤抖地打开狄公转送的崇州塘报：崇州大捷！ 如燕正式进入狄府，三人却在桌上发现了肖清芳的威胁信，狄公一看，事情果然还没有结束。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2006-11-20</premiered>
+  <aired>2006-11-20</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Shu Yan</name>
+    <thumb>https://image.tmdb.org/t/p/h632/zcuFqu5sU03VNWfesBMrGbLIS2E.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3236208</profile>
+    <tmdbid>3236208</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xinyan</name>
+    <role>狄如燕(苏显儿)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/vDZFLsBEWJopjtYbaIf3VJRPold.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286866</profile>
+    <tmdbid>2286866</tmdbid>
+  </actor>
+  <actor>
+    <name>Er Cha Huo</name>
+    <role>权善才</role>
+    <profile>https://www.themoviedb.org/person/553498</profile>
+    <tmdbid>553498</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 15:00:59</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S02E13.mp4</original_filename>
+  <user_note/>
+</episodedetails>

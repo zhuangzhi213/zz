@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:51:53 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>漕渠魅影（邗沟覆船案）</title>
+  <originaltitle>漕渠魅影（邗沟覆船案）</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>3</season>
+  <episode>48</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1482751</id>
+  <uniqueid default="false" type="tmdb">1482751</uniqueid>
+  <uniqueid default="true" type="tvdb">1482751</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>狄公与曾泰于蛟王祠会面的消息走漏，引来了铁手团所有人的出动，这日夜晚，所有铁手团的杀手都包围了狄公所在客栈，并在卧虎庄设伏。当策划这起震动江南的私盐大案的主谋者现身时，众人惊呆了。老奸巨滑的铁手团宗主不假思索地道出了此事的前因后果，以及他的真实身份——朝廷郡王颖王元齐。与此同时，一直困惑所有人的林阳这一神秘人物也揭下了蒙尘已久的面纱，他竟是一直潜在狄公身边的、曾与元芳宁氏朝夕相处、患难与共的至交——山阳县令鲁吉英。所有参与谋划此事的主犯共同站在了狄公的面前，一起给狄公讲起了两年前他们为这起大案合谋的故事。而当故事讲到高潮部分时，狄公却话锋一转，转到了此案的转折点，最后竟直指此案的核心，并告诉他们一件令他们万万没有想到的事。就在这时，外面响起了信号，顿时杀声冲天。众主凶大惊失措。狄公反被为主，亲率卧虎庄会战，同时，曾泰一行人也相继赶到，鲁吉英、吴文登等人被擒。最后的战斗动魄惊心。铁手团杀手除被杀者，全部投降。主凶元齐被元芳、云姑二人拔剑合诛。第二日早晨，卧虎庄庄主葛天霸与云姑并率众家丁前来举义投诚。当众人提到小清时，天霸不禁流下了悔恨的泪水，元芳默默目向远方，他的眼圈红了。邗沟大案，自案发至始，至今日俱结，已历两年又三月矣。至今，大案结陈，元凶授首，逆魁成擒。五名囚犯被送上断头台，狄公一声令下，“来呀，将崔亮、吴文登、杨九成、鲁吉英、文清押赴刑场，斩首示众！”狄公提起令箭，扔下竹签，双目威仪的光芒直射阶下五人。刽子手齐应道：“是！”多日死气沉沉的邗沟终于复苏通航了，沉寂了两年的大运河，又喧嚣起来了。淮北终于可以吃到朝庭的官盐了。狄公三人望着宽阔的河面，心情久久不能平静。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2008-03-15</premiered>
+  <aired>2008-03-15</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Xuan</name>
+    <role>云姑/葛亚清</role>
+    <thumb>https://image.tmdb.org/t/p/h632/xDa2OwVawvoO4Fphi6dkoAeISyg.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/565343</profile>
+    <tmdbid>565343</tmdbid>
+  </actor>
+  <actor>
+    <name>Qu Shanshan</name>
+    <role>宁氏</role>
+    <thumb>https://image.tmdb.org/t/p/h632/q9SYzyqWl35bSDsL2DJ02l9GfHz.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2795038</profile>
+    <tmdbid>2795038</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuan Ran</name>
+    <role>小桃</role>
+    <thumb>https://image.tmdb.org/t/p/h632/u6LlaVmrXP3xusFP10RiJYyox2k.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2275188</profile>
+    <tmdbid>2275188</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 15:00:59</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S03E48.mp4</original_filename>
+  <user_note/>
+</episodedetails>

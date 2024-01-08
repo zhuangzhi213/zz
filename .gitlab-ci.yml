@@ -1,17 +1,14 @@
 image: node:18-alpine # use nodejs v18 LTS
-cache:
-  paths:
-    - node_modules/
 
 before_script:
-  - ls
+  - echo "start"
 
 pages:
   script:
-    - ls
+    - echo "stop"
   artifacts:
     paths:
-      - public
+      - /
   tags:
     - gitlab-org
       

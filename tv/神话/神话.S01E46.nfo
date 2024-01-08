@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-13 14:03:35 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>第 46 集</title>
+  <originaltitle>第 46 集</originaltitle>
+  <showtitle>神话</showtitle>
+  <season>1</season>
+  <episode>46</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1482298</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>小川历经数天挖出甬道，终于来到地宫深处，找到了玉漱，他带着玉漱走出石洞重见了光明。两人终于盼来了二人世界的幸福生活。小川的现代版语言总是让玉漱摸不着头脑，但他们的游戏，他们的谈话，却让玉漱感到无比甜蜜。在易妈妈家中，一席人的聚餐上，高岚拿出从研究所偷回的宝盒以及重要文件的备份。让身边的人又惊又喜。随之，高岚又收到神秘人刻意发给她的短信，内容就是那两句重要的口诀。吕雉特意向小川辞行，只希望小川能理解自己对她的感情，能够认真对待自己一次。无奈却遭到小川极为冷漠地敷衍。吕雉因爱生恨，发誓如果得不到小川，也决不让别人得到他。于是在小川饮用的杯中下毒，故意设下陷阱迫害玉漱和小川。玉漱被逼陪葬，如果不从，吕雉同高要就在玉漱面前不断凌虐小川。玉漱无法忍受这种痛苦与折磨，只能乖乖陪葬，被逼入山洞中，无意中按动天宫机关。小川眼看自己心爱的人离他而去，却无能为力。吕雉和刘盈在楚地扣为人质，吕雉设法让刘盈逃走，却遇小川。小川因玉漱的离去伤心欲绝，早已变得甚是沧桑，面目全非。他憎恨吕雉当初的行为，发誓要为玉漱报仇，然而却遭到刘盈的誓死抵抗。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2010-01-02</premiered>
+  <aired>2010-01-02</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV</studio>
+  <actor>
+    <name>Hu Ge</name>
+    <role>Yi Xiaochuan</role>
+    <thumb>https://image.tmdb.org/t/p/h632/yMDKxcljmEFhxSGk3oeW3sl2YKu.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1106514</profile>
+    <tmdbid>1106514</tmdbid>
+  </actor>
+  <actor>
+    <name>Bai Bing</name>
+    <role>Princess Yushu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zOQQiaxjfJDyMTKsriTwtsVO4nb.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1018707</profile>
+    <tmdbid>1018707</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Shi</name>
+    <role>Gao Yao</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pb5zDbkuUSPJvwCYOrqcQoezx7A.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/228914</profile>
+    <tmdbid>228914</tmdbid>
+  </actor>
+  <actor>
+    <name>Ren Quan</name>
+    <role>Yi Dachuan</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mebbI3SWZrieFpgOfHh7F5i5acA.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1061379</profile>
+    <tmdbid>1061379</tmdbid>
+  </actor>
+  <actor>
+    <name>Chen Zihan</name>
+    <role>Lv Zhi</role>
+    <thumb>https://image.tmdb.org/t/p/h632/rEk01y6ClOOt5UnV922ABCulFoW.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/593166</profile>
+    <tmdbid>593166</tmdbid>
+  </actor>
+  <actor>
+    <name>Jin Sha</name>
+    <role>Lv Su</role>
+    <thumb>https://image.tmdb.org/t/p/h632/7i0OprvfmHiqrNDF9LTxVwXZqrv.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2035952</profile>
+    <tmdbid>2035952</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Yixiang</name>
+    <role>Liu Bang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zBf1OqKC4e7PjP3xCKzBgfsDQsV.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/71050</profile>
+    <tmdbid>71050</tmdbid>
+  </actor>
+  <actor>
+    <name>Tan Kai</name>
+    <role>Xiang Yu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hVwVrNZmaEgdzsnrNqvJKqpxmdg.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1183237</profile>
+    <tmdbid>1183237</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Meng</name>
+    <role>Gao Lan</role>
+    <thumb>https://image.tmdb.org/t/p/h632/1YVFLHCxI6QpGDlxx4OH4pWmbFH.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1612556</profile>
+    <tmdbid>1612556</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Xiaoxi</name>
+    <role>Li Si</role>
+    <profile>https://www.themoviedb.org/person/2035953</profile>
+    <tmdbid>2035953</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Kefei</name>
+    <role>San Bao</role>
+    <thumb>https://image.tmdb.org/t/p/h632/3nmNPuY3c86yXYkdIzuoVEF8nUv.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2035955</profile>
+    <tmdbid>2035955</tmdbid>
+  </actor>
+  <actor>
+    <name>Gao Longke</name>
+    <role>Qingqing</role>
+    <profile>https://www.themoviedb.org/person/2035958</profile>
+    <tmdbid>2035958</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Chunzhong</name>
+    <role>Zhong Limei</role>
+    <thumb>https://image.tmdb.org/t/p/h632/cc3EgEn4v7z7dPYui2zSECTezsm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1611492</profile>
+    <tmdbid>1611492</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhou Yemang</name>
+    <role>Fan Zeng</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pMh1RR9tQnOQk3ffrH8iKEzG1sZ.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/554855</profile>
+    <tmdbid>554855</tmdbid>
+  </actor>
+  <actor>
+    <name>Allen Ting Chi-Chun</name>
+    <role>Meng Tian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/cVaRPD0DM7XTDYBPtHHHC7ZOGhc.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1341003</profile>
+    <tmdbid>1341003</tmdbid>
+  </actor>
+  <actor>
+    <name>Terry Shi</name>
+    <role>Li You</role>
+    <profile>https://www.themoviedb.org/person/2035961</profile>
+    <tmdbid>2035961</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Ziwu</name>
+    <role>项梁</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hBJZdqrVyk5ffnobYy9ajN0B0h3.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2919817</profile>
+    <tmdbid>2919817</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Min</name>
+    <role>易所长</role>
+    <thumb>https://image.tmdb.org/t/p/h632/7JcU3jdYQpj2f6XcP37TQKLN1pN.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2793301</profile>
+    <tmdbid>2793301</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 13:56:16</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神话.S01E46.mkv</original_filename>
+  <user_note/>
+</episodedetails>

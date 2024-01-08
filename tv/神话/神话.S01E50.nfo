@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-13 14:03:38 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>第 50 集</title>
+  <originaltitle>第 50 集</originaltitle>
+  <showtitle>神话</showtitle>
+  <season>1</season>
+  <episode>50</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1482302</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>小川来到天宫内，终于找到了玉漱，小川向玉漱承诺两人永不分开。天宫内，所有人都感叹此刻的神奇，易教授，易妈妈，大川和高岚终于找到了小川。小川向他们介绍了玉漱，并告诉大家失踪的缘由及写信的时间。小川被宝盒带回秦代，化名千年老妖同大川成为网友，时刻向他们提供信息。正当高岚责怪小川不顾他们担心时，黑衣人出现了，原来黑衣人就是高要。高要向其证明了小川活了两千年，同时和高岚就别重逢，兄妹两人真情吐露。小川玉漱高要告诉他们自己吃了长生药，并告诉大家这个天宫是依靠地下的天星悬浮起来的。易教授和大川恍然，原来秦皇36年落下的天星确有其事。高要心中只有恨，一心要报仇，在高岚的苦苦哀求下，高要终于心软，放过了大川。天宫内，高要决定同小川和玉漱玉石俱焚，此时，他们身体发出蓝光，头发瞬间变白，变得疲惫。那些蓝光受到天星的召唤，离开了他们的身体，从此无法再长生不老。罗拉想要将高要救出天宫，却被高要拒绝。天星的浮力消失了，天宫塌陷，四人面临着生离死别。电影院里播放着《神话》的主题曲，观众纷纷站起离去。影院里，只剩下最后一对男女坐在其中久久不肯离去，正是大川和高岚。对于他们，这不仅仅是一部电影，一个神话，更是一段真实。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2010-01-02</premiered>
+  <aired>2010-01-02</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV</studio>
+  <actor>
+    <name>Hu Ge</name>
+    <role>Yi Xiaochuan</role>
+    <thumb>https://image.tmdb.org/t/p/h632/yMDKxcljmEFhxSGk3oeW3sl2YKu.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1106514</profile>
+    <tmdbid>1106514</tmdbid>
+  </actor>
+  <actor>
+    <name>Bai Bing</name>
+    <role>Princess Yushu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zOQQiaxjfJDyMTKsriTwtsVO4nb.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1018707</profile>
+    <tmdbid>1018707</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Shi</name>
+    <role>Gao Yao</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pb5zDbkuUSPJvwCYOrqcQoezx7A.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/228914</profile>
+    <tmdbid>228914</tmdbid>
+  </actor>
+  <actor>
+    <name>Ren Quan</name>
+    <role>Yi Dachuan</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mebbI3SWZrieFpgOfHh7F5i5acA.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1061379</profile>
+    <tmdbid>1061379</tmdbid>
+  </actor>
+  <actor>
+    <name>Chen Zihan</name>
+    <role>Lv Zhi</role>
+    <thumb>https://image.tmdb.org/t/p/h632/rEk01y6ClOOt5UnV922ABCulFoW.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/593166</profile>
+    <tmdbid>593166</tmdbid>
+  </actor>
+  <actor>
+    <name>Jin Sha</name>
+    <role>Lv Su</role>
+    <thumb>https://image.tmdb.org/t/p/h632/7i0OprvfmHiqrNDF9LTxVwXZqrv.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2035952</profile>
+    <tmdbid>2035952</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Yixiang</name>
+    <role>Liu Bang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zBf1OqKC4e7PjP3xCKzBgfsDQsV.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/71050</profile>
+    <tmdbid>71050</tmdbid>
+  </actor>
+  <actor>
+    <name>Tan Kai</name>
+    <role>Xiang Yu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hVwVrNZmaEgdzsnrNqvJKqpxmdg.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1183237</profile>
+    <tmdbid>1183237</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Meng</name>
+    <role>Gao Lan</role>
+    <thumb>https://image.tmdb.org/t/p/h632/1YVFLHCxI6QpGDlxx4OH4pWmbFH.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1612556</profile>
+    <tmdbid>1612556</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Xiaoxi</name>
+    <role>Li Si</role>
+    <profile>https://www.themoviedb.org/person/2035953</profile>
+    <tmdbid>2035953</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Kefei</name>
+    <role>San Bao</role>
+    <thumb>https://image.tmdb.org/t/p/h632/3nmNPuY3c86yXYkdIzuoVEF8nUv.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2035955</profile>
+    <tmdbid>2035955</tmdbid>
+  </actor>
+  <actor>
+    <name>Gao Longke</name>
+    <role>Qingqing</role>
+    <profile>https://www.themoviedb.org/person/2035958</profile>
+    <tmdbid>2035958</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Chunzhong</name>
+    <role>Zhong Limei</role>
+    <thumb>https://image.tmdb.org/t/p/h632/cc3EgEn4v7z7dPYui2zSECTezsm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1611492</profile>
+    <tmdbid>1611492</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhou Yemang</name>
+    <role>Fan Zeng</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pMh1RR9tQnOQk3ffrH8iKEzG1sZ.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/554855</profile>
+    <tmdbid>554855</tmdbid>
+  </actor>
+  <actor>
+    <name>Allen Ting Chi-Chun</name>
+    <role>Meng Tian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/cVaRPD0DM7XTDYBPtHHHC7ZOGhc.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1341003</profile>
+    <tmdbid>1341003</tmdbid>
+  </actor>
+  <actor>
+    <name>Terry Shi</name>
+    <role>Li You</role>
+    <profile>https://www.themoviedb.org/person/2035961</profile>
+    <tmdbid>2035961</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Ziwu</name>
+    <role>项梁</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hBJZdqrVyk5ffnobYy9ajN0B0h3.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2919817</profile>
+    <tmdbid>2919817</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Min</name>
+    <role>易所长</role>
+    <thumb>https://image.tmdb.org/t/p/h632/7JcU3jdYQpj2f6XcP37TQKLN1pN.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2793301</profile>
+    <tmdbid>2793301</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 13:56:16</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神话.S01E50.mkv</original_filename>
+  <user_note/>
+</episodedetails>

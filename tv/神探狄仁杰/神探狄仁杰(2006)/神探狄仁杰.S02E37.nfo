@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:51:00 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>血色江州</title>
+  <originaltitle>血色江州</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>2</season>
+  <episode>37</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1482700</id>
+  <uniqueid default="false" type="tmdb">1482700</uniqueid>
+  <uniqueid default="true" type="tvdb">1482700</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>　　锦娘的行动一直在两股力量的严密监视之下。现在，如燕清除掉了薛府的眼线，自己单独跟踪锦娘来到了州衙的停尸房。锦娘潜入房中，在父亲吴四的身上一通翻找，中途被巡更衙役打搅中断逃走。如燕若有所思，抽身而返。 　　狄公和李元芳分析连环命案，李元芳认为自己亲眼看见薛青麟杀害冯万春的事实，断定杀死黄、葛等人的凶手为薛青麟确凿无疑。他们都是十年前构陷黄国公的元凶巨恶，而薛青麟为了一个不可告人的目的，先下手除掉了黄文越，引诱另外四人来到五平，欲先后除掉。然后利用黄国公案，企图将狄公等引向歧途。然而狄公却对他说，有的时候眼睛也会欺骗人。要想真正了解案情，还是要靠心，靠深思熟虑所做的判断。他认为，几个血案的发生很可能是几股势力交汇于一点时发生了某种重合。也就是说，作案的对手很可能不止薛青麟一股，而是分别的几股势力。很快，薛府的惨案和浔阳江畔兰心亭的惨案都报到了钦差府，从而证实了狄公的判断。就连薛青麟本人也被另一股神秘的力量谋杀了。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2006-11-20</premiered>
+  <aired>2006-11-20</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Shu Yan</name>
+    <thumb>https://image.tmdb.org/t/p/h632/zcuFqu5sU03VNWfesBMrGbLIS2E.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3236208</profile>
+    <tmdbid>3236208</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xinyan</name>
+    <role>狄如燕(苏显儿)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/vDZFLsBEWJopjtYbaIf3VJRPold.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286866</profile>
+    <tmdbid>2286866</tmdbid>
+  </actor>
+  <actor>
+    <name>Er Cha Huo</name>
+    <role>权善才</role>
+    <profile>https://www.themoviedb.org/person/553498</profile>
+    <tmdbid>553498</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 15:00:59</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S02E37.mp4</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:51:41 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>漕渠魅影（邗沟覆船案）</title>
+  <originaltitle>漕渠魅影（邗沟覆船案）</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>3</season>
+  <episode>36</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1482739</id>
+  <uniqueid default="false" type="tmdb">1482739</uniqueid>
+  <uniqueid default="true" type="tvdb">1482739</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>李元芳和小清来到蛟王祠，发现祠堂已被烧成了一片废墟，数十具烧成焦炭的尸身，横七竖八地倒卧在废墟中。经仔细勘查，李元芳分析死者很可能是被劫大趸船上的人。果然，他们找到了北沟大仓的监库彭春，他还没有死。盱眙，盐商何五奇的夫人夤夜负伤跑回家中，嘱咐丫鬟不要声张此事。李元芳带着重伤的彭春四下寻找药铺，发现邓通向店小二打听劫船脏盐的去向。店小二说，曾经看到几十人押着大车，向北而去。领头的是个大胡子，听他的形容很象是庞四。他和小清遂决定前往盱眙。一来为彭春治伤，二来查找庞四的下落。就在狄公打算加快查清私盐源头的时候。他驻跸的通衢客栈却发生了一起命案，一对男女半裸身体被杀死在地字甲号客房中。狄公就近对现场进行了必要而仔细的勘察。得知死人的房间是被人包租的，可死者并不是包房的人，且奇怪的事情很多。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2008-03-15</premiered>
+  <aired>2008-03-15</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Xuan</name>
+    <role>云姑/葛亚清</role>
+    <thumb>https://image.tmdb.org/t/p/h632/xDa2OwVawvoO4Fphi6dkoAeISyg.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/565343</profile>
+    <tmdbid>565343</tmdbid>
+  </actor>
+  <actor>
+    <name>Qu Shanshan</name>
+    <role>宁氏</role>
+    <thumb>https://image.tmdb.org/t/p/h632/q9SYzyqWl35bSDsL2DJ02l9GfHz.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2795038</profile>
+    <tmdbid>2795038</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuan Ran</name>
+    <role>小桃</role>
+    <thumb>https://image.tmdb.org/t/p/h632/u6LlaVmrXP3xusFP10RiJYyox2k.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2275188</profile>
+    <tmdbid>2275188</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 15:00:59</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S03E36.mp4</original_filename>
+  <user_note/>
+</episodedetails>

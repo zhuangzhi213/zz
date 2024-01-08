@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-13 14:21:00 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>击退邪剑仙</title>
+  <originaltitle>击退邪剑仙</originaltitle>
+  <showtitle>仙剑奇侠传三</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <uniqueid default="true" type="tmdb">779053</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>邪剑仙终于到来，只见蜀山各处，张灯结彩，大家都状似轻松地玩乐。邪剑仙觉有些奇怪，居然没有人严阵以待，不禁起了疑心，小心奕奕，飞往锁妖塔方向。景天身穿飞蓬将军的整套衣装，拿着魔剑独自镇守于塔顶，姿态极酷。邪剑仙又是一愕，上前停在半空，口出狂言，而景天则一付胜卷在握之态。
+
+　　邪剑仙正在疑惑，忽闻一股气味，茂山轻松自若地在吃烧烤，一脸不屑，对邪剑仙全看不入眼内。邪剑仙一怔，疑虑升起，担心景天真的胜券在握，匆匆离开。众人得知成功暂退邪剑仙，向景天欢呼。紫萱凭感应找至长卿，只见他早已血肉模糊，紫萱心痛至极。她施法，替长卿疗伤，长卿渐渐醒来。
+
+　　长卿最终因犯案太重被叛死刑，以火烧死。紫萱一心陪长卿死，变作蛇身，众人震惊，当作是妖，一并抓走。紫萱在临死前向长卿坦白，她只为了得一张青春的容颜，才取重楼的心。她从来也不爱任何人，只爱长卿，长卿心痛不已。最危急关头，重楼现身，救走紫萱和长卿。并告知景天长卿的下落。
+
+　　清微获悉后，写信一封，叮嘱常胤马上驾仙船赶往领长卿回来。师兄重逢，常胤递上清微所交的信件，紫萱脸色熬白。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2009-07-07</premiered>
+  <aired>2009-07-07</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>上海唐人电影制作有限公司</studio>
+  <director tmdbid="1820113">Sing Kuenleung</director>
+  <director tmdbid="2749214">Kwok-Lap Lee</director>
+  <actor>
+    <name>Hu Ge</name>
+    <role>景天 / 飞蓬 / 龙阳 / 李逍遥</role>
+    <thumb>https://image.tmdb.org/t/p/h632/yMDKxcljmEFhxSGk3oeW3sl2YKu.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1106514</profile>
+    <tmdbid>1106514</tmdbid>
+  </actor>
+  <actor>
+    <name>Yang Mi</name>
+    <role>唐雪见 / 夕瑶</role>
+    <thumb>https://image.tmdb.org/t/p/h632/6RezRxlQBsYmlotybR3q7riSrvV.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/572043</profile>
+    <tmdbid>572043</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Shishi</name>
+    <role>龙葵</role>
+    <thumb>https://image.tmdb.org/t/p/h632/dvt1r6aeYmjIOyrAyPBWP5py80D.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1185786</profile>
+    <tmdbid>1185786</tmdbid>
+  </actor>
+  <actor>
+    <name>Wallace Huo</name>
+    <role>徐长卿 / 林业平 / 顾留芳</role>
+    <thumb>https://image.tmdb.org/t/p/h632/kiuLPAKlIT98fgjuwnYF9u6Wus7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1192904</profile>
+    <tmdbid>1192904</tmdbid>
+  </actor>
+  <actor>
+    <name>Tang Yan</name>
+    <role>紫萱</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zZIsIaQ6Hp5HgOHrWhK4ljWIeot.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/99691</profile>
+    <tmdbid>99691</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuan Hong</name>
+    <role>云霆</role>
+    <thumb>https://image.tmdb.org/t/p/h632/wpazHcgVmxzlvX1zBkSflJ40imp.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1254212</profile>
+    <tmdbid>1254212</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerry Huang</name>
+    <role>重楼</role>
+    <thumb>https://image.tmdb.org/t/p/h632/w2NcAtW4VhbFvucxTijp9vfoSac.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1309561</profile>
+    <tmdbid>1309561</tmdbid>
+  </actor>
+  <actor>
+    <name>Gordon Liu Chia-hui</name>
+    <role>邪剑仙</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hLLDmQbIi8EO0hsBbgLAswqaOrq.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/240171</profile>
+    <tmdbid>240171</tmdbid>
+  </actor>
+  <actor>
+    <name>Lam Tze-chung</name>
+    <role>许茂山</role>
+    <thumb>https://image.tmdb.org/t/p/h632/ipqqly0bvP7SIl0840m50VXsIKY.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/545277</profile>
+    <tmdbid>545277</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristy Guo</name>
+    <role>花楹</role>
+    <thumb>https://image.tmdb.org/t/p/h632/7WxuPxzNh3ePechSFAM8aauJYkS.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1513376</profile>
+    <tmdbid>1513376</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Ziwu</name>
+    <role>元神长老</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hBJZdqrVyk5ffnobYy9ajN0B0h3.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2919817</profile>
+    <tmdbid>2919817</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 14:19:54</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>仙剑奇侠传三.S01E29.mp4</original_filename>
+  <user_note/>
+</episodedetails>

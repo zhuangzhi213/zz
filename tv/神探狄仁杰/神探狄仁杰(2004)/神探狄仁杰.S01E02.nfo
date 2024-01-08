@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:49:56 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>使团惊魂02</title>
+  <originaltitle>使团惊魂02</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>892629</id>
+  <uniqueid default="false" type="tmdb">892629</uniqueid>
+  <uniqueid default="true" type="tvdb">892629</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>　　此时的狄公正在彭泽衙上审断一民间小案。没费几番周折，狄公便将杀人后伪造现场的罪犯绳之以法。接到朝廷紧急文书，狄公不敢怠慢旋即起程。深夜，赶路的狄公下榻在绛帐馆驿。虽然旅途劳顿，可狄公想着都城的大案，辗转徘徊难以入眠。他反复思忖文书提到的每一个情况，倍感案情的重大和形势的严峻。突然，屋里的灯莫名其妙地灭了。狄公警觉地推窗探视，可是屋里屋外一切如常，仿佛没有发生什么。然而，当他又将灯点亮时，令人吃惊的事情发生了—一个身穿皂袍的年轻人坐在桌前静静地望着他。　　  年轻人说话了。他调侃狄公说，早就闻听他断案如神，今天就是要来见识见识。狄公说名利对他来讲已然是身外之物，但对方深夜赶来，想必是有要事来谈，那他就不妨试一试。他从对方的衣着、风尘和此来的时间、背景做出推断，来者不是别人，恰是朝廷正在通缉的逃犯，使团护卫队长，甘南游击将军李元芳。此一席话说得对方瞠目结舌，因为他正是此人。　　  李元芳向狄公详细地讲述了使团被杀的经过。讲完故事，他交给狄公一方匪首用过的丝织手帕，手帕的一角绣着“蝮蛇”的标识。听了他的故事，狄公隐隐感到这几个案件之间的某种联系，但一时还不十分清晰。当问到他怎么知道朝廷调自己破案时，李元芳说是十天前，有人留刀寄柬露给他的。狄公立刻意识到，危险就在眼前了。　　  果然，门外传来一阵糟杂之声，接着便有千牛卫登门宣旨，着狄公火速起程刻不容缓。狄公简单收拾了一下，只得上轿赶路。不料轿子还没出城，便遭了埋伏。匪徒们围定轿子，乱剑齐下，志在必得。但是，狄公没有死，而是李元芳裂轿飞出，大开了杀戒。顷刻之间众匪毙命，无一活口。　　  根据眼下发生的情况狄公料定，对手已在城中各处设下埋伏，不但要杀死他，这回李元芳恐怕也是在劫难逃。而且他们一旦得手，一个耸人听闻的故事就会产生。那就是李元芳率歹徒矫诏杀死办案大臣狄仁杰，后因内哄或遇仇家袭击身亡。于是，突厥使团被杀案设案的第一号通缉犯与办案大臣同归于尽，再没有人证、物证可资调查，此案即成悬案，就是旁人想查，也无从下手了。两人正说着，隐隐听到有脚步嘈杂之声自远而近，想跑已经来不及。来的一群人是匪徒援兵，但他们看到的只是同伙的尸体，别的什么也没发现。狄公和李元芳靠混在尸体中诈死，躲过了这危险的一劫。出于安全的考虑和案情的凶险复杂，狄公决定就此遁迹官道，微服进京。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2004-08-06</premiered>
+  <aired>2004-08-06</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhu Yanping</name>
+    <role>虎敬晖/蝮蛇/蝮敬辉/剑灵</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zNpZiZLESr4M805Alii2bMPX1e6.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1612190</profile>
+    <tmdbid>1612190</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xin</name>
+    <role>Yingyu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mw1jQzfF8QgGOJFyfMZCQJxmh4f.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1241445</profile>
+    <tmdbid>1241445</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Pang</name>
+    <role>Li Qingxia</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bQ42z63uG3Y9G5VPdipo7iL3sSC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1081095</profile>
+    <tmdbid>1081095</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 14:55:41</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S01E02.mp4</original_filename>
+  <user_note/>
+</episodedetails>

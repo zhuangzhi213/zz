@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:51:13 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>黑衣社（凉州案）</title>
+  <originaltitle>黑衣社（凉州案）</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>3</season>
+  <episode>11</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1482714</id>
+  <uniqueid default="false" type="tmdb">1482714</uniqueid>
+  <uniqueid default="true" type="tvdb">1482714</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>狄公仍行敲山震虎计，令凉州所有军、卞、勋、爵来衙点卯，当众逼归义伯王锴摘下他始终带着的青铜面具。只是谁也没想到，面具后面竟然是一张西洋人的脸，所有人都惊呆了。狄公当众宣布饷银大案，接着他单刀直入询问王锴有关情况。一连串突袭问话，搅得王锴措手不及答非所问，欲盖弥彰慌了手脚。狄公料定他去后必有行动，即命李元芳布置牵牛卫，对伯府日夜监视准备追踪。小桃照顾病重昏迷的军官并出去为他抓药，临行托付薇儿姐帮着照顾病人。她没有想到就在她出门之后，院子里又有了蹊跷。这一节恰被狄春无意中看到了。归义伯府果然动作了。张环跟踪而至，却被翠红院的妓女们一通耍弄轰了出来。匪徒们抓住机会，面见了他们的首领，并领受了下一步的行动计划。狄公顺藤摸瓜，勘查天竺商人瘟死的同阳客栈。据店老板说，这批商人颇为奇怪。他们带来的货物天天喝血，被神秘地锁在后院。大灾戒严之后，他们拼命闹着要出城，现在又神秘地死亡。这其中到底有着怎样的玄机呢？进一步的调查说明，天竺商人带着喝血的神秘货物，是与匪徒们进行秘密交易。狄公终于发现了匪徒们的行动目标。好一个天衣无缝的计划啊。那么，到底是一种什么样的货物？能令匪徒花如此大的价钱，冒如此大的风险呢？他们又为了什么呢？</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2008-03-15</premiered>
+  <aired>2008-03-15</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Xuan</name>
+    <role>云姑/葛亚清</role>
+    <thumb>https://image.tmdb.org/t/p/h632/xDa2OwVawvoO4Fphi6dkoAeISyg.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/565343</profile>
+    <tmdbid>565343</tmdbid>
+  </actor>
+  <actor>
+    <name>Qu Shanshan</name>
+    <role>宁氏</role>
+    <thumb>https://image.tmdb.org/t/p/h632/q9SYzyqWl35bSDsL2DJ02l9GfHz.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2795038</profile>
+    <tmdbid>2795038</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuan Ran</name>
+    <role>小桃</role>
+    <thumb>https://image.tmdb.org/t/p/h632/u6LlaVmrXP3xusFP10RiJYyox2k.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2275188</profile>
+    <tmdbid>2275188</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 15:00:59</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S03E11.mp4</original_filename>
+  <user_note/>
+</episodedetails>

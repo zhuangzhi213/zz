@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:51:27 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>漕渠魅影（邗沟覆船案）</title>
+  <originaltitle>漕渠魅影（邗沟覆船案）</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>3</season>
+  <episode>23</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1482726</id>
+  <uniqueid default="false" type="tmdb">1482726</uniqueid>
+  <uniqueid default="true" type="tvdb">1482726</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>云姑把宁氏押回铁仙观，关进一间耳房中。李元芳偷听了云姑和她大师兄龙风的谈话，得知了他们竟然是铁手团的人，不由得心头一惊。李元芳潜入西耳房中，假意准备离开道观。一番巧诈之下，鲁吉英只得将自己山阳县令的身份和此行的来意据实交代。他说李翰曾告诉他，一旦自己遭逢不测，便让他务必到洛阳面见宁氏拿到那封信。可他真的不知道那封信的具体内容。二人议罢对策，以调虎离山之计救出宁氏，逃离了道观。三人会和在道观外的密林里，宁氏告诉李元芳，那封密信是丈夫李翰在月前托人捎回的，内中记录的似乎是扬州大吏们贪污所得的贿银数目。她为了保险，将密信藏在了迎宾驿的客房之中。三人决定立刻出发，赶往迎宾驿取出密信。狄公仔细审阅了李翰死后，扬州刺史崔亮给阁部的回文，发现其中很多地方的叙述含混不清。首先，李翰之死的准确时间回文中并没有写清楚。就所掌握的情况和各方的叙述来讲，邗沟覆船应该是造成李翰之死唯一合理的解释。但是如果假设李翰自缢是发生在邗沟覆船案之前，那么覆船之事就不是致李翰死命的唯一原因。所以李翰自缢的准确时间，在本案之中非常关键。可恰恰回文之中没有提及。还有，刺史崔亮在回文中说，第一个发现李翰自缢的是山阳县令鲁吉英。李翰是来巡视漕渠，查察邗沟覆船案的。那么可以断定这个鲁吉英深夜去打扰上官，说的一定是与漕渠和邗沟覆船有关的事情。那么，那天夜里漕渠和邗沟发生了什么重大的事件，以致鲁县令要深夜面见李翰呢？是邗沟覆船！可是，当鲁吉英到达山阳行馆之时，发现李翰已经自缢身亡了。他当时还不知邗沟覆船，又有什么理由选择死路呢？如果李翰是在邗沟覆船之前死去，那这案子可就蹊跷了。他为什么要自杀？又怎么会留下那封绝命书，他此时还根本不知道邗沟发生了覆船之事呀？是谁先于鲁吉英将邗沟覆船的事情告诉了李翰。狄公认为崔亮回文把三个最关键的环节竟然忽略了，这很奇怪。而第四个疑点就是，崔亮率人搜查山阳行馆，发现了李翰留下的那封绝命书和鸿通柜坊开据的两张二十万两白银的凭信。崔亮将两张凭信做为证物送达了阁部，却为什么不把李翰的绝命书送来呢？如此重要的证物不上达阁部，究竟是为什么？这四个疑点，都是本案最为关键之处，崔亮身为刺史不会不懂。那么，是什么原因竟令其将这一切全部忽略？这样做，是无心之失，还是有意为之？忽然，狄春来报，王周自杀了。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2008-03-15</premiered>
+  <aired>2008-03-15</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Xuan</name>
+    <role>云姑/葛亚清</role>
+    <thumb>https://image.tmdb.org/t/p/h632/xDa2OwVawvoO4Fphi6dkoAeISyg.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/565343</profile>
+    <tmdbid>565343</tmdbid>
+  </actor>
+  <actor>
+    <name>Qu Shanshan</name>
+    <role>宁氏</role>
+    <thumb>https://image.tmdb.org/t/p/h632/q9SYzyqWl35bSDsL2DJ02l9GfHz.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2795038</profile>
+    <tmdbid>2795038</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuan Ran</name>
+    <role>小桃</role>
+    <thumb>https://image.tmdb.org/t/p/h632/u6LlaVmrXP3xusFP10RiJYyox2k.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2275188</profile>
+    <tmdbid>2275188</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 15:00:59</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S03E23.mp4</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:50:16 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>滴血雄鹰01</title>
+  <originaltitle>滴血雄鹰01</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1222318</id>
+  <uniqueid default="false" type="tmdb">1222318</uniqueid>
+  <uniqueid default="true" type="tvdb">1222318</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>　　  狄公经过一番去伪存真的现场勘察，发现凭身份文牒而断，死者江小郎应是一个生于隋大业初年的一位百岁老人。可从尸体来看，死者分明连四十岁还不到。而凶手所骑之马的蹄印竟大如碗口，且步幅奇长，分明该是头怪兽。这都是令人不可思议的。这其中的玄机会是什么呢？ 大雨瓢泼，寝宫中的武则天正在梳妆，突然，梳妆镜上隐隐现出一行小字，读来却是章怀太子临死前的绝命诗。武则天强摄心神，命近侍丫头春香也来看，这时候令人惊悚的事情发生了。春香瞪着眼睛找了半天，说她什么也没看见。武则天吓得大叫一声昏獗过去，旧病复发。狄公找来殿中省主管闲厩的飞龙使何云，何云的结论更是令狄公目瞪口呆。凶手坐骑所戴蹄铁乃是隋朝所制，是隋炀帝近卫军的专用蹄铁，在本朝是禁绝使用的，民间更不可能仿制。而那匹神秘的马，按蹄印和步伐判断，应该是一种曾经听说过的西域马种，西域大宛的汗血宝马。但这种马早在后汉时就绝种了。这时，门突然开了，曾泰跌跌撞撞跑了进来。曾泰告之狄公，他手下的县尉奉命去查江小郎的户籍所在江家庄，奇怪的是他查遍了县籍和地图，并没有找到江家庄这么一个地方。又访遍了当地熟知地理的捕快，居然大家众口一词，也都说没有这么一个地方。这真奇了，于是他带着疑问走访了本县的一位九旬老人高如进。结果，高如进提供的情况引起了他的高度重视。高如进不但讲述了历史上确曾存在过的江家庄，而且还提及了一桩至今未破的历史旧案。那是太宗皇帝贞观十年，江家庄中的一户人家，大小三十多口被人杀死在家中，死的人都有一个共同的特点，就是都被砍去了头和左臂。他当时经办此案，便率人遍查附近的山峦、村庄，最后发现那些肢体都被供在了西林一处荒废的将军庙中。此案勘推达四个月之久，竟毫无进展。后来他将案情讲给一位走方的道士听，那道士竟然下了一个荒谬的结论，说这是厉鬼作祟、阴兵杀人。他当时根本就不信，没想到第二天江家庄大火，将一庄之人几乎全部烧死，同时，西林中的将军庙也起了火，当他率人赶到时，现场已变为一片废墟。他因此受到上封的重责，丢掉了官职。高如进说，他到现在都想不通，是什么人具有如此的能力行此大案而声色全无。他又为什么非要杀死江家庄的人呢？难道说，真是像道士所言，是来自幽冥吗？可那又是为什么呢？关于这桩旧案，高如进的掌握到此为止......</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2004-08-28</premiered>
+  <aired>2004-08-28</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhu Yanping</name>
+    <role>虎敬晖/蝮蛇/蝮敬辉/剑灵</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zNpZiZLESr4M805Alii2bMPX1e6.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1612190</profile>
+    <tmdbid>1612190</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xin</name>
+    <role>Yingyu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mw1jQzfF8QgGOJFyfMZCQJxmh4f.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1241445</profile>
+    <tmdbid>1241445</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Pang</name>
+    <role>Li Qingxia</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bQ42z63uG3Y9G5VPdipo7iL3sSC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1081095</profile>
+    <tmdbid>1081095</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 14:55:41</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S01E24.mp4</original_filename>
+  <user_note/>
+</episodedetails>

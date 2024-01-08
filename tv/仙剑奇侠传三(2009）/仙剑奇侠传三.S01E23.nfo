@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-13 14:20:51 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>雪见中计</title>
+  <originaltitle>雪见中计</originaltitle>
+  <showtitle>仙剑奇侠传三</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <uniqueid default="true" type="tmdb">779047</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>邪剑仙再次诱惑龙葵，挑拨她和雪见之间的感情。只要她让邪剑仙吸去其妒嫉之气，邪剑仙则可以替她永远去除她跟景天之间的障碍。龙葵果真依言照办!云霆和雪见的婚礼简单而隆重。云霆跟雪见交杯，雪见偷偷在酒里下迷药，见其昏迷，马上拿出蜀山之物无穷传，正要吸走云霆身上的雷灵珠，不料云霆突然张开眼睛。原来，云霆只是假装昏迷。于是雪见坦言自己一直喜欢的都是景天，因为需要，她必须要拿走云霆身上的雷灵珠。
+
+　　原来，正因为体内的雷灵珠，云霆才会变成一个到处使人雷击受伤，甚至死亡的人!云霆被雪见真诚所打动，愿由雪见拿出雷灵珠。雪见依言施法，云霆果真不再带电，云霆感激雪见，含笑公开表示要“休了”她，众人愕然。云霆已失去保护，群妖狂掩而至，表示要取云霆小命，再取雷州!景天和长卿合力抗敌。邪剑仙见景天远去，派去景天的幻像带走雪见。雪见中计，邪剑仙狂喜。景天和长卿使得群妖节节败退，不约而同杀至云霆府邸里，对付妖首领。长卿把蜀山一镇妖之物赠云霆，让雷州永远得到保佑。
+
+　　云霆感激，请众人喝酒庆祝。景天问及雪见，龙葵支支吾吾，说她在后花园见过雪见，她先行回客栈更衣。众人除了长卿外，皆喝过酩酊大醉，醒来时发现长卿的留书，表示要找回紫萱。此时，龙葵终于按耐不住了，说出了真相，要大家赶紧去救雪见。长卿以仙法驶船，沿河找寻紫萱。一路上，四周的景致盎然，在彩虹的尽头处，一抹紫色，紫萱正笑盈盈地等着长卿。长卿跟紫萱说了一个故事──关于他和紫萱三世的故事──第三世时，长卿会好好的爱惜紫萱，此生不会分离。紫萱感动，二人尽在不言中。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2009-07-05</premiered>
+  <aired>2009-07-05</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>上海唐人电影制作有限公司</studio>
+  <director tmdbid="1820113">Sing Kuenleung</director>
+  <director tmdbid="2749214">Kwok-Lap Lee</director>
+  <actor>
+    <name>Hu Ge</name>
+    <role>景天 / 飞蓬 / 龙阳 / 李逍遥</role>
+    <thumb>https://image.tmdb.org/t/p/h632/yMDKxcljmEFhxSGk3oeW3sl2YKu.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1106514</profile>
+    <tmdbid>1106514</tmdbid>
+  </actor>
+  <actor>
+    <name>Yang Mi</name>
+    <role>唐雪见 / 夕瑶</role>
+    <thumb>https://image.tmdb.org/t/p/h632/6RezRxlQBsYmlotybR3q7riSrvV.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/572043</profile>
+    <tmdbid>572043</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Shishi</name>
+    <role>龙葵</role>
+    <thumb>https://image.tmdb.org/t/p/h632/dvt1r6aeYmjIOyrAyPBWP5py80D.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1185786</profile>
+    <tmdbid>1185786</tmdbid>
+  </actor>
+  <actor>
+    <name>Wallace Huo</name>
+    <role>徐长卿 / 林业平 / 顾留芳</role>
+    <thumb>https://image.tmdb.org/t/p/h632/kiuLPAKlIT98fgjuwnYF9u6Wus7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1192904</profile>
+    <tmdbid>1192904</tmdbid>
+  </actor>
+  <actor>
+    <name>Tang Yan</name>
+    <role>紫萱</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zZIsIaQ6Hp5HgOHrWhK4ljWIeot.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/99691</profile>
+    <tmdbid>99691</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuan Hong</name>
+    <role>云霆</role>
+    <thumb>https://image.tmdb.org/t/p/h632/wpazHcgVmxzlvX1zBkSflJ40imp.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1254212</profile>
+    <tmdbid>1254212</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerry Huang</name>
+    <role>重楼</role>
+    <thumb>https://image.tmdb.org/t/p/h632/w2NcAtW4VhbFvucxTijp9vfoSac.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1309561</profile>
+    <tmdbid>1309561</tmdbid>
+  </actor>
+  <actor>
+    <name>Gordon Liu Chia-hui</name>
+    <role>邪剑仙</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hLLDmQbIi8EO0hsBbgLAswqaOrq.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/240171</profile>
+    <tmdbid>240171</tmdbid>
+  </actor>
+  <actor>
+    <name>Lam Tze-chung</name>
+    <role>许茂山</role>
+    <thumb>https://image.tmdb.org/t/p/h632/ipqqly0bvP7SIl0840m50VXsIKY.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/545277</profile>
+    <tmdbid>545277</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristy Guo</name>
+    <role>花楹</role>
+    <thumb>https://image.tmdb.org/t/p/h632/7WxuPxzNh3ePechSFAM8aauJYkS.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1513376</profile>
+    <tmdbid>1513376</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Ziwu</name>
+    <role>元神长老</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hBJZdqrVyk5ffnobYy9ajN0B0h3.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2919817</profile>
+    <tmdbid>2919817</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 14:19:54</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>仙剑奇侠传三.S01E23.mp4</original_filename>
+  <user_note/>
+</episodedetails>

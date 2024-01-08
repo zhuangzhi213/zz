@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:50:17 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>滴血雄鹰02</title>
+  <originaltitle>滴血雄鹰02</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1222319</id>
+  <uniqueid default="false" type="tmdb">1222319</uniqueid>
+  <uniqueid default="true" type="tvdb">1222319</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>　　  恩济庄又发血案，但问了所有的人，没有一个人提供情况。狄公几经周折，最后还是从三位老者口中挖出了有价值的口供，他们竟都是江家庄灾祸的幸存者，据他们称，自己的族长江小郎原是前隋骁果尉中郎将宇文成都的部将，后为起义军窦建德收买，暗杀了宇文成都。江小郎暗杀宇文成都后，连续数月为噩梦所缠，无法入睡，便请来一位道士做法禳邪。道士言宇文将军失了首级，魂魄无法进入冥界，更无法脱生，因此化做厉鬼，早晚会来寻仇。江小郎非常惊恐，急忙派人去找宇文成都的首级，但首级已被窦建德焚为灰烬。后来江小郎解甲归田，当了族长，还收留了许多庞姓的流民。因此江家庄又分为岗上和岗下，岗上是江姓岗下是庞姓，可江小郎却是在岗下庞姓人中安的家。就是当年岗下的江家大院。江小郎将住宅建在岗下据说是为了躲避宇文成都鬼魂，可他还是没有逃过厉鬼的追命。六十多年前的一天夜里，江家三十多口全都被杀，岗上的江姓聚居处也烧起大火。衙门几个月都破不了案，后来竟传出话来说是厉鬼作祟，是宇文将军的鬼魂向江家复仇来了。此言一经传出，江家大院就成了鬼宅，任何踏进大院之人都会被厉鬼认为是江家之人而惨遭杀害，那些刚刚死在那儿的人，就是避雨进去的，因此惨遭厄运。他们三人也是为怕厉鬼寻仇这才改姓庞的。 狄公接着又询问了已被他治好失心症的行人方根生，根据他提供的情况分析，那厉鬼从扮相看，应该是被暗杀的前隋大将军宇文成都。狄公真的有些惊呆了......</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2004-08-29</premiered>
+  <aired>2004-08-29</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhu Yanping</name>
+    <role>虎敬晖/蝮蛇/蝮敬辉/剑灵</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zNpZiZLESr4M805Alii2bMPX1e6.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1612190</profile>
+    <tmdbid>1612190</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xin</name>
+    <role>Yingyu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mw1jQzfF8QgGOJFyfMZCQJxmh4f.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1241445</profile>
+    <tmdbid>1241445</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Pang</name>
+    <role>Li Qingxia</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bQ42z63uG3Y9G5VPdipo7iL3sSC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1081095</profile>
+    <tmdbid>1081095</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 14:55:41</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S01E25.mp4</original_filename>
+  <user_note/>
+</episodedetails>

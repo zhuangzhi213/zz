@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-15 15:38:59 - tinyMediaManager 4.3.14-->
+<tvshow>
+  <title>琅琊榜</title>
+  <originaltitle>琅琊榜</originaltitle>
+  <showtitle>琅琊榜</showtitle>
+  <sorttitle/>
+  <year>2015</year>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>9.2</value>
+      <votes>40</votes>
+    </rating>
+  </ratings>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>十二年前七万赤焰军被奸人所害导致全军覆没，冤死梅岭，只剩少帅林殊侥幸生还。十二年后林殊改头换面化身“麒麟才子”梅长苏，建立江左盟，以“琅琊榜”第一才子的身份重返帝都。梅长苏背负血海深仇，暗中帮助昔日挚友靖王周旋于太子与誉王的斗争之中，同时又遇到了昔日未婚妻——云南王郡主穆霓凰却不能相见。梅长苏以病弱之躯为昭雪冤案、为振兴河山，踏上了一条黑暗又惊心动魄的夺嫡之路……</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <thumb aspect="poster">https://www.themoviedb.org/t/p/original/pzDC9rdyJhGdgVGoYuAj8LTHBtJ.jpg</thumb>
+  <thumb aspect="banner">https://www.themoviedb.org/t/p/original/4pBohJyXnAf7yvzyMTD1953RIjY.jpg</thumb>
+  <thumb aspect="clearart">https://www.themoviedb.org/t/p/original/ojlinxgKkZSIfkISEXzefKf3Hgj.jpg</thumb>
+  <thumb aspect="clearlogo">https://image.tmdb.org/t/p/original/hj1aaK9bIL4H1O6k8fcNUVvoZ1O.png</thumb>
+  <thumb aspect="landscape">https://www.themoviedb.org/t/p/original/4pBohJyXnAf7yvzyMTD1953RIjY.jpg</thumb>
+  <thumb aspect="keyart">https://www.themoviedb.org/t/p/original/pzDC9rdyJhGdgVGoYuAj8LTHBtJ.jpg</thumb>
+  <thumb aspect="logo">https://image.tmdb.org/t/p/original/hj1aaK9bIL4H1O6k8fcNUVvoZ1O.png</thumb>
+  <thumb aspect="characterart">https://www.themoviedb.org/t/p/original/jfE2J2Af2aQiGJYzx9iRwcux13U.jpg</thumb>
+  <namedseason number="1">琅琊榜</namedseason>
+  <namedseason number="2">风起长林</namedseason>
+  <thumb aspect="poster" season="1" type="season">https://image.tmdb.org/t/p/original/2ILzpYoHgHztVKZa2RkZdqUS9DA.jpg</thumb>
+  <thumb aspect="poster" season="2" type="season">https://image.tmdb.org/t/p/original/e99TXhqHa4MVC18VPrDpO7XFs8n.jpg</thumb>
+  <fanart>
+    <thumb>https://image.tmdb.org/t/p/original/sMbu3a5M0Biv9j6Z9HFGtlhXx3y.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"64197","imdb":"tt5141800","tvdb":"301369"}</episodeguide>
+  <id>301369</id>
+  <imdbid>tt5141800</imdbid>
+  <tmdbid>64197</tmdbid>
+  <uniqueid default="false" type="tmdb">64197</uniqueid>
+  <uniqueid default="false" type="imdb">tt5141800</uniqueid>
+  <uniqueid default="true" type="tvdb">301369</uniqueid>
+  <premiered>2015-09-19</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <studio>东方卫视</studio>
+  <studio>北京卫视</studio>
+  <studio>爱奇艺</studio>
+  <studio>山东影视集团</studio>
+  <studio>东阳正午阳光影视有限公司</studio>
+  <country>中国</country>
+  <tag>based on novel or book</tag>
+  <tag>dynasty</tag>
+  <tag>royalty</tag>
+  <tag>bromance</tag>
+  <tag>historical</tag>
+  <tag>4th century</tag>
+  <tag>chinese history</tag>
+  <tag>宫廷</tag>
+  <tag>court intrigue</tag>
+  <tag>six dynasties</tag>
+  <tag>政治</tag>
+  <tag>复仇</tag>
+  <tag>权谋</tag>
+  <actor>
+    <name>胡歌</name>
+    <role>林殊/梅长苏/苏哲</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yMDKxcljmEFhxSGk3oeW3sl2YKu.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1106514-hu-ge</profile>
+  </actor>
+  <actor>
+    <name>刘涛</name>
+    <role>穆霓凰</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8OlTZvZoXqT96Powhph4sML805V.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1236264-liu-tao</profile>
+  </actor>
+  <actor>
+    <name>王凯</name>
+    <role>萧景琰</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/zOdsIgzZWDLKKnysMJFsisyMgyc.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1559226-wang-kai</profile>
+  </actor>
+  <actor>
+    <name>刘敏涛</name>
+    <role>静妃</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/wWL0NqTUsCxa14Uuywsv55ZsykB.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1079119-liu-mintao</profile>
+  </actor>
+  <actor>
+    <name>黄维德</name>
+    <role>萧景桓</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/skKPcPk0v9lqdpwZqpcwxUfY2CD.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1252181-weide-huang</profile>
+  </actor>
+  <actor>
+    <name>陈龙</name>
+    <role>蒙挚</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/lnmazP9SwYK5EB5giV9BYuu4XLx.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2311832-chen-long</profile>
+  </actor>
+  <actor>
+    <name>丁勇岱</name>
+    <role>梁王</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/sNvG0MudatyhLiktcYPiDZykEde.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1194773-ding-yongdai</profile>
+  </actor>
+  <actor>
+    <name>王鸥</name>
+    <role>秦般若</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/y19WCddjMTZPh4SIkFULZpeMG9w.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1739264-wang-ou</profile>
+  </actor>
+  <actor>
+    <name>吴磊</name>
+    <role>飞流</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nCTRZdbRHr3MoSTuhPLw9tcBfI8.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1438264-leo-wu</profile>
+  </actor>
+  <actor>
+    <name>高鑫</name>
+    <role>萧景宣</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mhVZKsGESu7XHRzRNDGIKDzqLqk.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1177285-xin-gao</profile>
+  </actor>
+  <actor>
+    <name>靳东</name>
+    <role>蔺晨</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qqzMgkBbIEHpmqDgc8WyI9AKmN.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1727498-jin-dong</profile>
+  </actor>
+  <actor>
+    <name>郭晓然</name>
+    <role>言豫津</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/j6NmOojwyaoqMPL87mlpsmeUw1c.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2571558-xiaoran-guo</profile>
+  </actor>
+  <actor>
+    <name>程皓枫</name>
+    <role>萧景睿</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/tR5WctQuDIihitv6aV2AEM8nwdI.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3252809-cheng-haofeng</profile>
+  </actor>
+  <actor>
+    <name>刘奕君</name>
+    <role>谢玉</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jlNoIru7Dwyq7UAICY3yYw8U5z4.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1971602-liu-yijun</profile>
+  </actor>
+  <actor>
+    <name>王劲松</name>
+    <role>言阙</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mYJPE6Xqo3dyRzBL4jkQuCSOHdo.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1675909-wang-jin-song</profile>
+  </actor>
+  <actor>
+    <name>宁文彤</name>
+    <role>纪王爷</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/89XuigyGdBonXs0Tvbq3H1UeMX.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2728229-ning-wentong</profile>
+  </actor>
+  <actor>
+    <name>张龄心</name>
+    <role>夏冬</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/c7W6C2GLcvsAFqcjIEg1SPm51hm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2314448-lingxin-zhang</profile>
+  </actor>
+  <actor>
+    <name>张晓谦</name>
+    <role>穆青</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bMq73JXvGIQKLXGW1VxOHcAcJBa.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1940720-zhang-xiao-qian</profile>
+  </actor>
+  <trailer/>
+  <dateadded>2015-09-19 00:00:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

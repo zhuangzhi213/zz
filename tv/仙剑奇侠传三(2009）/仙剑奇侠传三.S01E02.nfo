@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-13 14:20:18 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>调查渝州毒人事件</title>
+  <originaltitle>调查渝州毒人事件</originaltitle>
+  <showtitle>仙剑奇侠传三</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <uniqueid default="true" type="tmdb">779026</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>因近日神秘毒人现身渝州，渝州城里不断出现失踪人口，城里城外人心惶惶。作为蜀山弟子，长卿被派往渝州城进行调查，正巧遇到被毒人所困的景天和雪见，与他们结下情缘。长卿带领景天、雪见前往一废村调查一失踪人口——董文轩。刚到轩家，不料长卿的特殊感应便不见了，于是又跟随感应来到赌场。
+
+此举惊动了毒人的幕后黑手。原来制造、控制毒人的竟然是雪见的二叔唐益和霹雳堂堂主罗如烈。一个为了争夺唐门的掌门之位，一个为了一统天下苍生成为一世霸主，不惜抓壮丁，变毒人，伤天害理。对于这一切，由于唐家堡堡主唐坤重病缠身，他毫不知情，依然被众人蒙在骨里。只是时时提醒雪见要懂得预视危机，一切言行要合乎堂主身份，要她成为一个让手下人都为之信服的未来堂主。而最最让他放心不下的就是雪见的终身大事。
+
+唐坤最大的心愿是希望在他临终前帮雪见找到一个可以托付终生，陪她走完人生的如意郎君，而此人正是蜀山大弟子长卿。雪见深知爷爷的心愿，为满足爷爷的愿望，一直暗暗追求长卿，不想一番表白却只是被景天无意中听到，一场好戏即将上演。唐家堡堡主唐坤的身体每况愈下，雪见悉心照料时，偶然发现景天当日仿制的壶盖背面竟刻有“猪婆”字样，气愤的冲去永安当想找景天算账。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2009-06-28</premiered>
+  <aired>2009-06-28</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>上海唐人电影制作有限公司</studio>
+  <director tmdbid="1820113">Sing Kuenleung</director>
+  <director tmdbid="2749214">Kwok-Lap Lee</director>
+  <actor>
+    <name>Hu Ge</name>
+    <role>景天 / 飞蓬 / 龙阳 / 李逍遥</role>
+    <thumb>https://image.tmdb.org/t/p/h632/yMDKxcljmEFhxSGk3oeW3sl2YKu.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1106514</profile>
+    <tmdbid>1106514</tmdbid>
+  </actor>
+  <actor>
+    <name>Yang Mi</name>
+    <role>唐雪见 / 夕瑶</role>
+    <thumb>https://image.tmdb.org/t/p/h632/6RezRxlQBsYmlotybR3q7riSrvV.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/572043</profile>
+    <tmdbid>572043</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Shishi</name>
+    <role>龙葵</role>
+    <thumb>https://image.tmdb.org/t/p/h632/dvt1r6aeYmjIOyrAyPBWP5py80D.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1185786</profile>
+    <tmdbid>1185786</tmdbid>
+  </actor>
+  <actor>
+    <name>Wallace Huo</name>
+    <role>徐长卿 / 林业平 / 顾留芳</role>
+    <thumb>https://image.tmdb.org/t/p/h632/kiuLPAKlIT98fgjuwnYF9u6Wus7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1192904</profile>
+    <tmdbid>1192904</tmdbid>
+  </actor>
+  <actor>
+    <name>Tang Yan</name>
+    <role>紫萱</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zZIsIaQ6Hp5HgOHrWhK4ljWIeot.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/99691</profile>
+    <tmdbid>99691</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuan Hong</name>
+    <role>云霆</role>
+    <thumb>https://image.tmdb.org/t/p/h632/wpazHcgVmxzlvX1zBkSflJ40imp.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1254212</profile>
+    <tmdbid>1254212</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerry Huang</name>
+    <role>重楼</role>
+    <thumb>https://image.tmdb.org/t/p/h632/w2NcAtW4VhbFvucxTijp9vfoSac.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1309561</profile>
+    <tmdbid>1309561</tmdbid>
+  </actor>
+  <actor>
+    <name>Gordon Liu Chia-hui</name>
+    <role>邪剑仙</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hLLDmQbIi8EO0hsBbgLAswqaOrq.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/240171</profile>
+    <tmdbid>240171</tmdbid>
+  </actor>
+  <actor>
+    <name>Lam Tze-chung</name>
+    <role>许茂山</role>
+    <thumb>https://image.tmdb.org/t/p/h632/ipqqly0bvP7SIl0840m50VXsIKY.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/545277</profile>
+    <tmdbid>545277</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristy Guo</name>
+    <role>花楹</role>
+    <thumb>https://image.tmdb.org/t/p/h632/7WxuPxzNh3ePechSFAM8aauJYkS.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1513376</profile>
+    <tmdbid>1513376</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Ziwu</name>
+    <role>元神长老</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hBJZdqrVyk5ffnobYy9ajN0B0h3.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2919817</profile>
+    <tmdbid>2919817</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 14:19:54</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>仙剑奇侠传三.S01E02.mp4</original_filename>
+  <user_note/>
+</episodedetails>

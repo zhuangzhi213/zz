@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:50:14 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>蓝衫记08</title>
+  <originaltitle>蓝衫记08</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1222315</id>
+  <uniqueid default="false" type="tmdb">1222315</uniqueid>
+  <uniqueid default="true" type="tvdb">1222315</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>　　  逃亡中的李元芳和莹玉从相互防备到相互理解，都感到对方是个好人。莹玉最终告诉李元芳，她是太子派来的人，叫小红。于是，李元芳从她的口中，了解到很多重要的情况。两人都感到情况紧急，却又一时脱身不得，急得团团转。狄公为进一步放线钓鱼，故意释放了刘大，不想刘大却在后院小楼中了机关，一命归西了。但他的死，却为狄公提供了重要的破案线索。他不但发现了可能的凶手，而且发现了小楼的秘密，发现了李元芳的踪迹和刘查礼的基地。曾泰不解道：对手虽杀死刘大，却暴露了小楼中的机关消息，也暴露了老营基地的所在，这有点太不值得了吧？狄公道：如果刘大的嘴被我们悄开，暴露的就可能是整个计划，这难道还不值得么？他感到面临的对手非常厉害，自己破案的每一步，他们似乎都事先知道并提前做出了部署。这个对手到底是谁呢？&#13;
+&#13;
+　　  李元芳和小红虽巧施妙计，但还是被对方发现并遭到追杀。然而就在他们险落敌手的时候，对方突然放弃了追杀，莫名其妙地遁迹消失了。狄公传来曾泰，开门见山地点破他投靠梅花内卫的历史，曾泰惊呆了。在狄公坚如铁石的分析推理之下，曾泰无词抵赖，彻底崩溃，交代了他所掌握的有限情况。在狄公的教诲和挽救下，曾泰决定反戈一击，按照狄公的交代，前去摸清梅花内卫在城中的部署。　</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2004-08-25</premiered>
+  <aired>2004-08-25</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhu Yanping</name>
+    <role>虎敬晖/蝮蛇/蝮敬辉/剑灵</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zNpZiZLESr4M805Alii2bMPX1e6.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1612190</profile>
+    <tmdbid>1612190</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xin</name>
+    <role>Yingyu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mw1jQzfF8QgGOJFyfMZCQJxmh4f.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1241445</profile>
+    <tmdbid>1241445</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Pang</name>
+    <role>Li Qingxia</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bQ42z63uG3Y9G5VPdipo7iL3sSC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1081095</profile>
+    <tmdbid>1081095</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 14:55:41</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S01E21.mp4</original_filename>
+  <user_note/>
+</episodedetails>

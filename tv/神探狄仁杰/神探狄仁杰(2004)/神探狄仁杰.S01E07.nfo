@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:50:01 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>使团惊魂07</title>
+  <originaltitle>使团惊魂07</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>892632</id>
+  <uniqueid default="false" type="tmdb">892632</uniqueid>
+  <uniqueid default="true" type="tvdb">892632</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>　　狄公巧设离间瓦解之计，令方谦一伙相信赵传臣已经招供。方谦上当后派人刺杀赵传臣，目的是防止赵传臣出庭作证，以为仅有口供而没有人证，狄公就不好奈何于他。结果，赵传臣被李元芳及时解救。看着同伙给自己下的毒药，赵传臣终于清醒。觉悟了的赵传臣主动前来投案，可口供说到关键处，他却突然莫名其妙地死了，这使狄公的心情十分懊悔。恰在这时，李二的毒症又陡地复发。怎么会是这样的呢？难道……狄公想到了身边的人，可是，怎么会呢？　　  狄公又抓来做假证的王小二，从他的嘴里，查出了假冒村民劫法场的几个领兵头目。同时，毒害赵传臣的刺客也被押解到府。综合他们的口供和搜出的方谦逆党名单，狄公发现方谦的势力之大，竟连军队也被他控制了。现在可能的麻烦是，万一对方下手，全城就会大乱，狄公的人就会完全处于被动挨打的困难局面。关键是要抢住先机。　　  敌人果然动手了，可就在他们集结队伍准备打上门来的时候，李元芳和虎敬晖率领部队冲杀过去。叛军措手不及土崩瓦解，狄公的队伍很快攻占接管了五城兵马司，控制了幽州四门。狄公胜券在握，微笑着交代虎敬晖和李元芳，照名单批捕方谦逆党，务求一网打尽。　　  狄公运畴帷幄指挥若定，外面杀得天昏地暗，他却从容地勘查着自己的案子。他不相信赵传臣是临庭猝死，他要仵作开膛验尸。幽州的大局稳住了，对事件的撤查工作立即开始。狄公首先从贼首方谦查起，抬来尸体一验，发现方谦是个假的。那么这人是谁？真方谦又哪里去了呢？狄公凭直觉感到，这个刺使府里一定有什么蹊跷。一个官秩四品的刺使，怎么会随随便便被人假冒替掉呢？是什么人有能力做这样的惊天大案？再有，这个假方谦的势力竟发展得如此之大，幽州军政官吏三分之二都附逆于他，这是个什么样的人？怎么会有如此巨大的能量呢？他开始仔细地勘查起刺使府来，并且暗中设下了圈套。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2004-08-11</premiered>
+  <aired>2004-08-11</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhu Yanping</name>
+    <role>虎敬晖/蝮蛇/蝮敬辉/剑灵</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zNpZiZLESr4M805Alii2bMPX1e6.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1612190</profile>
+    <tmdbid>1612190</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xin</name>
+    <role>Yingyu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mw1jQzfF8QgGOJFyfMZCQJxmh4f.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1241445</profile>
+    <tmdbid>1241445</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Pang</name>
+    <role>Li Qingxia</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bQ42z63uG3Y9G5VPdipo7iL3sSC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1081095</profile>
+    <tmdbid>1081095</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 14:55:41</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S01E07.mp4</original_filename>
+  <user_note/>
+</episodedetails>

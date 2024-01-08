@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:50:40 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>蛇灵案</title>
+  <originaltitle>蛇灵案</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>2</season>
+  <episode>18</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1482681</id>
+  <uniqueid default="false" type="tmdb">1482681</uniqueid>
+  <uniqueid default="true" type="tvdb">1482681</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>　　经现场勘查，死者为千牛卫的一队士兵，首领则是内卫府大阁领黄胜彦，凶手为蛇灵组织确凿无疑。狄公顺藤摸瓜，终于发现此案竟与皇帝有关。可当他斗胆问及此事时，武则天讳莫如深似有难言之隐。狄公将此案与刺驾案联系到一起，决定再访白马寺。狄公来到白马寺，从假法能的住屋中发现了内卫专用的腰牌。他还从值日僧的口中侦知，被杀的黄胜彦来过白马寺，而且是奉旨而来，从寺中带走了一个神秘的人物。当时全寺戒严，谁也没看见他带走了什么人。狄公怀疑假法能当时潜入寺中，定与这个神秘的人物有关。进一步的勘查证明了狄公的判断。狄公找到了关押神秘人物的秘密牢房，意外地发现了三具僧人尸体，他开始怀疑三人是被黄胜彦所杀，但接下来的迹象表明事情并非如此。最后，他推断出杀人者就是僧长静空，但静空突施巧计将狄公等关进地牢自己脱逃了。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2006-11-20</premiered>
+  <aired>2006-11-20</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Shu Yan</name>
+    <thumb>https://image.tmdb.org/t/p/h632/zcuFqu5sU03VNWfesBMrGbLIS2E.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3236208</profile>
+    <tmdbid>3236208</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xinyan</name>
+    <role>狄如燕(苏显儿)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/vDZFLsBEWJopjtYbaIf3VJRPold.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286866</profile>
+    <tmdbid>2286866</tmdbid>
+  </actor>
+  <actor>
+    <name>Er Cha Huo</name>
+    <role>权善才</role>
+    <profile>https://www.themoviedb.org/person/553498</profile>
+    <tmdbid>553498</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 15:00:59</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S02E18.mp4</original_filename>
+  <user_note/>
+</episodedetails>

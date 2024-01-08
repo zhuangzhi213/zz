@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:50:47 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>蛇灵案</title>
+  <originaltitle>蛇灵案</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>2</season>
+  <episode>25</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1482688</id>
+  <uniqueid default="false" type="tmdb">1482688</uniqueid>
+  <uniqueid default="true" type="tvdb">1482688</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>　　狄公率大队进攻陀螺地山穴，发现蛇灵正集结人马有所行动。狄公判断他们并不是出逃，而是有目的的转移。狄公打了蛇灵队伍一个措手不及，歼敌四百多人，可谓出战告捷了。但余匪却退入了机关暗道之中，官军不慎误中机关有所损失。幸好狄仁杰发现了元芳做的指示标记，队伍这才安全进入。地穴之中，李元芳、小梅已接近总坛中心。肖清芳挟如燕、虺文忠为人质企图逃跑，元芳、小梅下手不得焦急万状，狄公及时赶到，射伤了肖清芳，化解了凶险。鏖战在地穴中展开，狄公终于攻入了控制全部机关的总消息室。机关被破，大军在地穴中畅行无阻，搜捕缉拿肖清芳的战斗随即展开。很快，他们就发现了袁天罡的尸体。李元芳判断肖清芳肯定从袁天罡的身上拿走了什么东西。那么，她究竟拿走了什么呢？很快，他们又发现肖清芳被人杀死在山穴中，经勘查，她的身上也被人动过，仿佛取走了什么。同时，虺文忠和照顾他的人也遭到袭击，死伤有各。狄公忽然感到，此案另有蹊跷了。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2006-11-20</premiered>
+  <aired>2006-11-20</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Shu Yan</name>
+    <thumb>https://image.tmdb.org/t/p/h632/zcuFqu5sU03VNWfesBMrGbLIS2E.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3236208</profile>
+    <tmdbid>3236208</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xinyan</name>
+    <role>狄如燕(苏显儿)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/vDZFLsBEWJopjtYbaIf3VJRPold.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286866</profile>
+    <tmdbid>2286866</tmdbid>
+  </actor>
+  <actor>
+    <name>Er Cha Huo</name>
+    <role>权善才</role>
+    <profile>https://www.themoviedb.org/person/553498</profile>
+    <tmdbid>553498</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 15:00:59</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S02E25.mp4</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:50:00 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>使团惊魂06</title>
+  <originaltitle>使团惊魂06</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>892635</id>
+  <uniqueid default="false" type="tmdb">892635</uniqueid>
+  <uniqueid default="true" type="tvdb">892635</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>　　李二落到狄公手里，令匪首金木兰如坐针毡。因为李二的身份一旦暴露，他们内外勾结的巨大阴谋就会面临失败，这是她无论如何不能接受的。唯一的办法是不顾一切杀死李二。金木兰下了命令。　　  经过与方谦的一番较量，狄公感到当务之急，是要撤查大柳树村民造反和小连子村封山的原因，抓出贪官，替幽州百姓除害。虎敬晖还是劝他将重点放在使团被杀案上。狄公道：先断民案才是为官之本，我们也只有先将这里的混乱局面整顿好，才有可能捋清使团被杀一案的乱线头。　　  狄公刚准备撤查大柳树村民造反一案，方谦便制造事端从中捣乱，令一群官兵假冒村民，将刑台上的老弱妇幼劫持走了。随后他们又制造假现场，命人提供伪证，企图干扰狄公的视线。狄公来到现场既有所查，心里暗暗好笑。　　  在审断村民劫法场的公堂上，方谦巧舌如簧百般抵赖，欲将罪责嫁祸于村民，谁知李元芳早已带领村民来到衙外，要求认证事实。狄公胸有成竹，从容审断。方谦一伙眼看阴谋败露，尴尬惶恐。但不料证人张老四竟当堂反水，致使堂审陷入困境，方谦一伙好不得意。针对这种情况，狄公当即宣布退堂，并就势宣布，将行辕扎在与方谦沆瀣一气的五城兵马司司马吴益之的家府，以进一步搅乱对方的方寸。百姓闹事是由官府贪污抚慰款而起，狄公遂传来此案的唯一知情人，三合县令赵传臣，希望从他的身上打开局面。不想赵传竟将所有贪污款项一肩担当下来，这倒出乎狄公的意料之外。看来，他必须在赵传臣身上下一番工夫了。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2004-08-10</premiered>
+  <aired>2004-08-10</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhu Yanping</name>
+    <role>虎敬晖/蝮蛇/蝮敬辉/剑灵</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zNpZiZLESr4M805Alii2bMPX1e6.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1612190</profile>
+    <tmdbid>1612190</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xin</name>
+    <role>Yingyu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mw1jQzfF8QgGOJFyfMZCQJxmh4f.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1241445</profile>
+    <tmdbid>1241445</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Pang</name>
+    <role>Li Qingxia</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bQ42z63uG3Y9G5VPdipo7iL3sSC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1081095</profile>
+    <tmdbid>1081095</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 14:55:41</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S01E06.mp4</original_filename>
+  <user_note/>
+</episodedetails>

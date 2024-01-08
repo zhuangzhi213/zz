@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:50:32 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>关河疑影（崇州案）</title>
+  <originaltitle>关河疑影（崇州案）</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>2</season>
+  <episode>10</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1482672</id>
+  <uniqueid default="false" type="tmdb">1482672</uniqueid>
+  <uniqueid default="true" type="tvdb">1482672</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>　　狄公详细地述说了发现假狄春以及诱捕他的整个过程，令他交代背后主使和行刺吴大憨的目的。假狄春妄图顽抗被李元芳下手制住，狄公撕去他的假面，李元芳脱去他的衣袖，众人发现他竟是直属武则天的朝廷内卫。结果，狄公什么也没问出来，只好押送钦差卫队严加看守。　　狄公又审问吴大憨，指出他就是被指控的契丹奸细陈有龙。吴大憨果然也不再装傻，但对自己的身份却是讳莫如深缄口不讲。狄公觉察到他绝不简单是个什么契丹奸细，而是肩负着一个非同寻常的使命。狄公再次来到东柳林镇，终于就吴大憨的身份问题有所发现。但是他没回崇州，而是直奔了突厥王廷所在地——石国。侄女如燕对他的举动十分不解，觉得有些故弄玄虚，狄公却微笑不答。而此时在突厥石国，默啜太子正在会见神秘力量的头目肖清芳。二人计划着如何牵制狄仁杰以进一步加剧边境冲突，并趁乱联手除掉吉利，篡位夺权号令突厥。他们得意地认为等狄公赶到时，这里已经物是人非。狄公再想破案惩凶避免战祸，也只怕是空梦一场了。果然，武则天部署战争的消息令吉利可汗紧张万分。默啜一伙趁机进谗主张宣战，但吉利可汗想到当年在幽州与狄公的约定，想到战争的危害与和平的来之不易，没有采纳默啜的主张。可是对赵文翙部何以神秘被歼，到底是什么力量所谓，他仍然未得要领。他心急如焚，很想见到狄公，却不知狄公已悄然来到了石国。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2006-11-20</premiered>
+  <aired>2006-11-20</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Shu Yan</name>
+    <thumb>https://image.tmdb.org/t/p/h632/zcuFqu5sU03VNWfesBMrGbLIS2E.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3236208</profile>
+    <tmdbid>3236208</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xinyan</name>
+    <role>狄如燕(苏显儿)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/vDZFLsBEWJopjtYbaIf3VJRPold.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286866</profile>
+    <tmdbid>2286866</tmdbid>
+  </actor>
+  <actor>
+    <name>Er Cha Huo</name>
+    <role>权善才</role>
+    <profile>https://www.themoviedb.org/person/553498</profile>
+    <tmdbid>553498</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 15:00:59</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S02E10.mp4</original_filename>
+  <user_note/>
+</episodedetails>

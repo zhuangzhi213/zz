@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-13 14:46:40 - tinyMediaManager 4.3.14-->
+<tvshow>
+  <title>伪装者</title>
+  <originaltitle>伪装者</originaltitle>
+  <showtitle>伪装者</showtitle>
+  <sorttitle/>
+  <year>2015</year>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.1</value>
+      <votes>9</votes>
+    </rating>
+  </ratings>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>故事发生在抗日战争如火如荼的关键阶段，汪伪政府投敌叛国，华夏大地民不聊生，炎黄子孙的命运危在旦夕。上海明氏企业的董事长明镜胸怀赤诚，暗中资助中国共产党。她的弟弟明楼则在军统担任特工，行踪诡秘。姐弟俩的弟弟明台饱读诗书，本无心政治，谁 知却在飞赴香港途中被军统高官王天风绑架招揽。万般无奈之下，明台只能隐姓埋名接受培训，并最终成为军统驻上海站的一名特工。在接下来的行动中，他与中共锄奸小组的程锦云多有配合，两人在行动中也培养出非凡的信任与感情。国内局势风云变化，这两个年轻人则将面临着命运的严苛考验。</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://www.themoviedb.org/t/p/original/uCWLUg5Jd3W96mtMgKUvtak6xS7.jpg</thumb>
+  <thumb aspect="banner">https://img9.doubanio.com/view/photo/l/public/p2224592175.webp</thumb>
+  <thumb aspect="clearart">https://img1.doubanio.com/view/photo/l/public/p2514906248.webp</thumb>
+  <thumb aspect="clearlogo">https://image.tmdb.org/t/p/original/1N9BNIFEaYnXfFLPQjwqzBSndVd.png</thumb>
+  <thumb aspect="landscape">https://img9.doubanio.com/view/photo/l/public/p2514906224.webp</thumb>
+  <thumb aspect="keyart">https://img1.doubanio.com/view/photo/l/public/p2224592108.webp</thumb>
+  <thumb aspect="logo">https://image.tmdb.org/t/p/original/1N9BNIFEaYnXfFLPQjwqzBSndVd.png</thumb>
+  <thumb aspect="characterart">https://img2.doubanio.com/view/photo/l/public/p2224592201.webp</thumb>
+  <namedseason number="1">伪装者</namedseason>
+  <thumb aspect="poster" season="1" type="season">https://image.tmdb.org/t/p/original/oN7SUsMT32HkhalyUP6TmjF5AQx.jpg</thumb>
+  <fanart>
+    <thumb>https://image.tmdb.org/t/p/original/gffJjryXbn3JCJ7Rw4nUyQGzB8l.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"65176","imdb":"tt5154296","tvdb":"302155"}</episodeguide>
+  <id>302155</id>
+  <imdbid>tt5154296</imdbid>
+  <tmdbid>65176</tmdbid>
+  <uniqueid default="false" type="tmdb">65176</uniqueid>
+  <uniqueid default="false" type="imdb">tt5154296</uniqueid>
+  <uniqueid default="true" type="tvdb">302155</uniqueid>
+  <premiered>2015-08-31</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Mystery</genre>
+  <genre>Drama</genre>
+  <studio>Hunan Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Mango TV</studio>
+  <studio>Youku</studio>
+  <studio>东阳正午阳光影视有限公司</studio>
+  <country>中国</country>
+  <tag>china</tag>
+  <tag>spy</tag>
+  <tag>japanese occupation</tag>
+  <tag>communism</tag>
+  <tag>kuomintang</tag>
+  <tag>民国、谍战、抗战</tag>
+  <actor>
+    <name>Hu Ge</name>
+    <role>Ming Tai / 明台</role>
+    <thumb>https://image.tmdb.org/t/p/h632/yMDKxcljmEFhxSGk3oeW3sl2YKu.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1106514</profile>
+    <tmdbid>1106514</tmdbid>
+  </actor>
+  <actor>
+    <name>Jin Dong</name>
+    <role>Ming Lou / 明楼</role>
+    <thumb>https://image.tmdb.org/t/p/h632/qqzMgkBbIEHpmqDgc8WyI9AKmN.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1727498</profile>
+    <tmdbid>1727498</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Wang</name>
+    <role>Ming Cheng / 明诚</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zOdsIgzZWDLKKnysMJFsisyMgyc.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1559226</profile>
+    <tmdbid>1559226</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Mintao</name>
+    <role>Ming Jing / 明镜</role>
+    <thumb>https://image.tmdb.org/t/p/h632/wWL0NqTUsCxa14Uuywsv55ZsykB.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1079119</profile>
+    <tmdbid>1079119</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Ou</name>
+    <role>Wang ManChun / 汪曼春</role>
+    <thumb>https://image.tmdb.org/t/p/h632/y19WCddjMTZPh4SIkFULZpeMG9w.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1739264</profile>
+    <tmdbid>1739264</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Yijun</name>
+    <role>Wang TianFeng / 王天风</role>
+    <thumb>https://image.tmdb.org/t/p/h632/jlNoIru7Dwyq7UAICY3yYw8U5z4.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1971602</profile>
+    <tmdbid>1971602</tmdbid>
+  </actor>
+  <actor>
+    <name>Song Yi</name>
+    <role>Yu ManLi / 于曼丽</role>
+    <thumb>https://image.tmdb.org/t/p/h632/p1qicMHXRqzkhVGTj99ehLYrk5s.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1877119</profile>
+    <tmdbid>1877119</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Lejun</name>
+    <role>Cheng JinYun / 程锦云</role>
+    <thumb>https://image.tmdb.org/t/p/h632/jel2TgKTmOw66YzD9p87jkivRRX.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2357658</profile>
+    <tmdbid>2357658</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Hong</name>
+    <role>Lin canmou</role>
+    <thumb>https://image.tmdb.org/t/p/h632/6UnLZU3ftHQt6GbN2j4JqTlZ0LU.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3163264</profile>
+    <tmdbid>3163264</tmdbid>
+  </actor>
+  <actor>
+    <name>Yue Yang</name>
+    <role>ZhongChuan Lian / 梁仲春</role>
+    <thumb>https://image.tmdb.org/t/p/h632/4m7lQYXhAKjZVHoFdyvM0KIAQVr.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2965311</profile>
+    <tmdbid>2965311</tmdbid>
+  </actor>
+  <actor>
+    <name>Guo Xiaofeng</name>
+    <role>Li Uncle / 黎叔</role>
+    <thumb>https://image.tmdb.org/t/p/h632/d58UuRg36p4ZfW1Rro6Us3gEo6t.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2790104</profile>
+    <tmdbid>2790104</tmdbid>
+  </actor>
+  <actor>
+    <name>Guo Hong</name>
+    <role>Gui Aunt / 桂姨</role>
+    <thumb>https://image.tmdb.org/t/p/h632/avCiisWIj0oeRr8mJPDUvxzXELG.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3230130</profile>
+    <tmdbid>3230130</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Zheng</name>
+    <role>QiYun Guo / 郭骑云</role>
+    <thumb>https://image.tmdb.org/t/p/h632/coyUeI9vqvTVgERbXP2A579vH7g.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1562570</profile>
+    <tmdbid>1562570</tmdbid>
+  </actor>
+  <actor>
+    <name>Lilie Matsumine</name>
+    <role>YangZi NanTian / 南田洋子</role>
+    <thumb>https://image.tmdb.org/t/p/h632/dgci9RSBOH2dwm1FeHBiA0AuaHE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3057927</profile>
+    <tmdbid>3057927</tmdbid>
+  </actor>
+  <actor>
+    <name>Yasuyuki Hirata</name>
+    <role>FangZheng TengTian / 藤田芳政</role>
+    <thumb>https://image.tmdb.org/t/p/h632/2gAZHCyjYJMk47kS1OhCDLb37FC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1252774</profile>
+    <tmdbid>1252774</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Yanyan</name>
+    <role>Mrs Su / 苏太太</role>
+    <thumb>https://image.tmdb.org/t/p/h632/kjz9dl25oi1stWmb7TVnBSBP51y.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2920461</profile>
+    <tmdbid>2920461</tmdbid>
+  </actor>
+  <actor>
+    <name>Mengyao Zhu</name>
+    <role>Xiang / 阿香</role>
+    <profile>https://www.themoviedb.org/person/3858836</profile>
+    <tmdbid>3858836</tmdbid>
+  </actor>
+  <actor>
+    <name>Mengjia Sun</name>
+    <role>WeiYin Zhu / 朱徽茵</role>
+    <thumb>https://image.tmdb.org/t/p/h632/gUyWr5hDNqN0CaV21klO2vRSmmO.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3858842</profile>
+    <tmdbid>3858842</tmdbid>
+  </actor>
+  <actor>
+    <name>Hui Feng</name>
+    <role>Ming Tang / 明堂</role>
+    <thumb>https://image.tmdb.org/t/p/h632/qWAqXiz8XmLK7Z2EJWfaeCljvBx.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2965312</profile>
+    <tmdbid>2965312</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Lu</name>
+    <role>Liu Secretary / 刘秘书</role>
+    <thumb>https://image.tmdb.org/t/p/h632/aE0G5KBwTaEIYZ0uDyzJX44sTXL.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3646359</profile>
+    <tmdbid>3646359</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 14:40:47</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

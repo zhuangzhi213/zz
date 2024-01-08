@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-13 14:03:37 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>第 48 集</title>
+  <originaltitle>第 48 集</originaltitle>
+  <showtitle>神话</showtitle>
+  <season>1</season>
+  <episode>48</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1482300</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>小川来到天宫门口，默默呼唤思念不已的玉漱。在独自下棋期间，恰逢一位老者，引起了这位老者的好奇心，两人随即谈论起象棋以及楚汉战争。小川得知项羽和虞姬将遭到不测，立即前往乌江，赶着营救深陷困境的项羽和虞姬。不料为时已晚，小川只能眼睁睁看着虞姬被乱箭刺死，倒在血泊之中。项羽因无法接受失败的命运及虞姬的离去而自刎，项羽悲壮倒下，他的鲜血染红了乌江。易教授，易妈妈，大川，高岚等人来到古图所指水域，去寻求想要的答案。碰巧在河边遇见一位画家，上前与之攀谈。在高岚与他的交谈中，获得了意外的收获。此画家居然是水行者的后人，由于机缘巧遇，易教授一席人找到了第四枚戒指，等待完成各家族坚守了两千多年的任务。黑袍人此时设下陷阱，假借绑架罗拉为名，企图罗拉能博得易教授一席人的同情，获取他们的信任，假冒是火行者的后人，好潜入易教授一行人中，以此来窥探宝盒中的秘密。高岚对此有所怀疑，因此质问罗拉，但罗拉说出事先准备好的口诀，坚持自己就是“火行者”的后人。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2010-01-02</premiered>
+  <aired>2010-01-02</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV</studio>
+  <actor>
+    <name>Hu Ge</name>
+    <role>Yi Xiaochuan</role>
+    <thumb>https://image.tmdb.org/t/p/h632/yMDKxcljmEFhxSGk3oeW3sl2YKu.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1106514</profile>
+    <tmdbid>1106514</tmdbid>
+  </actor>
+  <actor>
+    <name>Bai Bing</name>
+    <role>Princess Yushu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zOQQiaxjfJDyMTKsriTwtsVO4nb.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1018707</profile>
+    <tmdbid>1018707</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Shi</name>
+    <role>Gao Yao</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pb5zDbkuUSPJvwCYOrqcQoezx7A.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/228914</profile>
+    <tmdbid>228914</tmdbid>
+  </actor>
+  <actor>
+    <name>Ren Quan</name>
+    <role>Yi Dachuan</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mebbI3SWZrieFpgOfHh7F5i5acA.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1061379</profile>
+    <tmdbid>1061379</tmdbid>
+  </actor>
+  <actor>
+    <name>Chen Zihan</name>
+    <role>Lv Zhi</role>
+    <thumb>https://image.tmdb.org/t/p/h632/rEk01y6ClOOt5UnV922ABCulFoW.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/593166</profile>
+    <tmdbid>593166</tmdbid>
+  </actor>
+  <actor>
+    <name>Jin Sha</name>
+    <role>Lv Su</role>
+    <thumb>https://image.tmdb.org/t/p/h632/7i0OprvfmHiqrNDF9LTxVwXZqrv.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2035952</profile>
+    <tmdbid>2035952</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Yixiang</name>
+    <role>Liu Bang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zBf1OqKC4e7PjP3xCKzBgfsDQsV.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/71050</profile>
+    <tmdbid>71050</tmdbid>
+  </actor>
+  <actor>
+    <name>Tan Kai</name>
+    <role>Xiang Yu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hVwVrNZmaEgdzsnrNqvJKqpxmdg.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1183237</profile>
+    <tmdbid>1183237</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Meng</name>
+    <role>Gao Lan</role>
+    <thumb>https://image.tmdb.org/t/p/h632/1YVFLHCxI6QpGDlxx4OH4pWmbFH.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1612556</profile>
+    <tmdbid>1612556</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Xiaoxi</name>
+    <role>Li Si</role>
+    <profile>https://www.themoviedb.org/person/2035953</profile>
+    <tmdbid>2035953</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Kefei</name>
+    <role>San Bao</role>
+    <thumb>https://image.tmdb.org/t/p/h632/3nmNPuY3c86yXYkdIzuoVEF8nUv.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2035955</profile>
+    <tmdbid>2035955</tmdbid>
+  </actor>
+  <actor>
+    <name>Gao Longke</name>
+    <role>Qingqing</role>
+    <profile>https://www.themoviedb.org/person/2035958</profile>
+    <tmdbid>2035958</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Chunzhong</name>
+    <role>Zhong Limei</role>
+    <thumb>https://image.tmdb.org/t/p/h632/cc3EgEn4v7z7dPYui2zSECTezsm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1611492</profile>
+    <tmdbid>1611492</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhou Yemang</name>
+    <role>Fan Zeng</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pMh1RR9tQnOQk3ffrH8iKEzG1sZ.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/554855</profile>
+    <tmdbid>554855</tmdbid>
+  </actor>
+  <actor>
+    <name>Allen Ting Chi-Chun</name>
+    <role>Meng Tian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/cVaRPD0DM7XTDYBPtHHHC7ZOGhc.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1341003</profile>
+    <tmdbid>1341003</tmdbid>
+  </actor>
+  <actor>
+    <name>Terry Shi</name>
+    <role>Li You</role>
+    <profile>https://www.themoviedb.org/person/2035961</profile>
+    <tmdbid>2035961</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Ziwu</name>
+    <role>项梁</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hBJZdqrVyk5ffnobYy9ajN0B0h3.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2919817</profile>
+    <tmdbid>2919817</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Min</name>
+    <role>易所长</role>
+    <thumb>https://image.tmdb.org/t/p/h632/7JcU3jdYQpj2f6XcP37TQKLN1pN.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2793301</profile>
+    <tmdbid>2793301</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 13:56:16</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神话.S01E48.mkv</original_filename>
+  <user_note/>
+</episodedetails>

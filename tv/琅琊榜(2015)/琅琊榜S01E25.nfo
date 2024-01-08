@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-15 16:51:26 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>靖王获利 般若求救</title>
+  <originaltitle>靖王获利 般若求救</originaltitle>
+  <showtitle>琅琊榜</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>5373449</id>
+  <uniqueid default="false" type="tmdb">1131309</uniqueid>
+  <uniqueid default="true" type="tvdb">5373449</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>这对母子的恬淡令梁帝心情复杂，进而决定将巡防营交给靖王，并特许靖王可随意进宫向母妃请安、不必另行请旨。十三先生回报秦般弱安插的眼线已被拔除过半，梅长苏怀疑，当年滑族璇玑公主还有其他人手并未交予秦般弱，追查继续进行，切不可大意。苏宅，蒙挚、梅长苏闲聊之际，誉王突然造访，梅长苏只得将蒙挚推进秘道，并塞给他一本《翔地记》打发时间。誉王气闷地告诉梅长苏，梁帝将巡防营的节制权交给了靖王，还给了靖王随意入宫省母这种亲王才有的特权，而秦般弱最近又情报不力，查不出靖王有结党迹象。就连梁帝，对自己也恩宠渐弛。梅长苏却表示，谢玉案后他已提醒誉王稍稍收手，是誉王自己不肯听劝。梁帝有意施恩靖王，就是为了提醒誉王，太子只能由自己在失望憎恶的情况下被废，而不能由他屡加攻击、强取威望而代之。 此时几乎被拔除所有眼线的秦般弱，得知这股反击之力来自江左盟。因此她前去求师出同门、本已隐居的四姐救援。送走誉王之后，梅长苏来到秘道，却发现靖王也在。梅长苏让靖王不必推卸巡房营的掌权之职，誉王若不甘，梅长苏自会借力打力。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2015-10-01</premiered>
+  <aired>2015-10-01</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon TV</studio>
+  <studio>Beijing Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Shandong Film &amp; TV Group</studio>
+  <studio>东阳正午阳光影视有限公司</studio>
+  <credits tmdbid="1885413">Yan Hai</credits>
+  <director tmdbid="1494556">Kong Sheng</director>
+  <director tmdbid="1805546">Xue Li</director>
+  <actor>
+    <name>Hu Ge</name>
+    <role>Mei Changsu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/yMDKxcljmEFhxSGk3oeW3sl2YKu.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1106514</profile>
+    <tmdbid>1106514</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Tao</name>
+    <role>Mu Nihuang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/8OlTZvZoXqT96Powhph4sML805V.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1236264</profile>
+    <tmdbid>1236264</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Wang</name>
+    <role>Xiao Jingyan</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zOdsIgzZWDLKKnysMJFsisyMgyc.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1559226</profile>
+    <tmdbid>1559226</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Huang</name>
+    <role>Xiao Jinghuan</role>
+    <thumb>https://image.tmdb.org/t/p/h632/skKPcPk0v9lqdpwZqpcwxUfY2CD.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1252181</profile>
+    <tmdbid>1252181</tmdbid>
+  </actor>
+  <actor>
+    <name>Jin Dong</name>
+    <role>Lin Chen</role>
+    <thumb>https://image.tmdb.org/t/p/h632/qqzMgkBbIEHpmqDgc8WyI9AKmN.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1727498</profile>
+    <tmdbid>1727498</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Mintao</name>
+    <role>Consort Jing</role>
+    <thumb>https://image.tmdb.org/t/p/h632/wWL0NqTUsCxa14Uuywsv55ZsykB.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1079119</profile>
+    <tmdbid>1079119</tmdbid>
+  </actor>
+  <actor>
+    <name>Leo Wu</name>
+    <role>Fei Liu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCTRZdbRHr3MoSTuhPLw9tcBfI8.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1438264</profile>
+    <tmdbid>1438264</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Ou</name>
+    <role>Qin Banruo</role>
+    <thumb>https://image.tmdb.org/t/p/h632/y19WCddjMTZPh4SIkFULZpeMG9w.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1739264</profile>
+    <tmdbid>1739264</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Xiaoqian</name>
+    <role>Mu Qing</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bMq73JXvGIQKLXGW1VxOHcAcJBa.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1940720</profile>
+    <tmdbid>1940720</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Jinsong</name>
+    <role>Yan Que</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mYJPE6Xqo3dyRzBL4jkQuCSOHdo.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1675909</profile>
+    <tmdbid>1675909</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Yujian</name>
+    <role>Lie Zhanying</role>
+    <thumb>https://image.tmdb.org/t/p/h632/re6BJn3XymD6U8d8LaZPTRs30Mr.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2153506</profile>
+    <tmdbid>2153506</tmdbid>
+  </actor>
+  <actor>
+    <name>Chen Long</name>
+    <role>Meng Zhi</role>
+    <thumb>https://image.tmdb.org/t/p/h632/lnmazP9SwYK5EB5giV9BYuu4XLx.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2311832</profile>
+    <tmdbid>2311832</tmdbid>
+  </actor>
+  <actor>
+    <name>Ding Yongdai</name>
+    <role>King Liang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/sNvG0MudatyhLiktcYPiDZykEde.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1194773</profile>
+    <tmdbid>1194773</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Lingxin</name>
+    <role>Xia Dong</role>
+    <thumb>https://image.tmdb.org/t/p/h632/c7W6C2GLcvsAFqcjIEg1SPm51hm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2314448</profile>
+    <tmdbid>2314448</tmdbid>
+  </actor>
+  <actor>
+    <name>Gao Xin</name>
+    <role>Xiao Jingxuan</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mhVZKsGESu7XHRzRNDGIKDzqLqk.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1177285</profile>
+    <tmdbid>1177285</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Yijun</name>
+    <role>Xie Yu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/jlNoIru7Dwyq7UAICY3yYw8U5z4.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1971602</profile>
+    <tmdbid>1971602</tmdbid>
+  </actor>
+  <actor>
+    <name>Ning Wentong</name>
+    <role>Prince Ji</role>
+    <thumb>https://image.tmdb.org/t/p/h632/89XuigyGdBonXs0Tvbq3H1UeMX.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2728229</profile>
+    <tmdbid>2728229</tmdbid>
+  </actor>
+  <actor>
+    <name>Guo Xiaoran</name>
+    <role>Yan Yujin</role>
+    <thumb>https://image.tmdb.org/t/p/h632/j6NmOojwyaoqMPL87mlpsmeUw1c.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2571558</profile>
+    <tmdbid>2571558</tmdbid>
+  </actor>
+  <actor>
+    <name>Jin Feng</name>
+    <role>Juan Niang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/6EAYVC9zGCiqguoL6JoIbPpSipS.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3120059</profile>
+    <tmdbid>3120059</tmdbid>
+  </actor>
+  <actor>
+    <name>Wei Wei</name>
+    <role>Tong Lu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/aDzlUN4vODHA8LmJCXy9p4sKTnM.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/4040086</profile>
+    <tmdbid>4040086</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhou Qiqi</name>
+    <role>Gong Yu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/2Sob9mjw8LJCDrfTES9tGu1GZM5.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/543160</profile>
+    <tmdbid>543160</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Yong</name>
+    <role>Qi Min</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mb1UcKsKn0OhHa7QbQT2BQpOCpk.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/4166531</profile>
+    <tmdbid>4166531</tmdbid>
+  </actor>
+  <actor>
+    <name>Cheng Haofeng</name>
+    <role>Xiao Jingrui</role>
+    <thumb>https://image.tmdb.org/t/p/h632/tR5WctQuDIihitv6aV2AEM8nwdI.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3252809</profile>
+    <tmdbid>3252809</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-15 16:50:14</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>琅琊榜S01E25.mp4</original_filename>
+  <user_note/>
+</episodedetails>

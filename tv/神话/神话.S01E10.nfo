@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-13 14:03:06 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>第 10 集</title>
+  <originaltitle>第 10 集</originaltitle>
+  <showtitle>神话</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1482262</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>医官替高要净了身，高要就这样不明不白当上了太监。刚入御膳房的他饱受御厨太监们的欺负，太监踩断了他从现代带来的那两把大勺，只能做烧火砍柴的粗活。高要默默忍耐。时胡亥公子宫中单总管来御膳房要一个厨子，厨子们赶忙贿赂单总管，却是为了不入选这倒霉的差使。一位御厨突然想到高要，高要听小川说过胡亥是秦二世皇帝，二话不说就答应了。来到胡亥宫中高要的第一顿御膳就让胡亥赞不绝口，被叫入前殿介绍菜名，并得到赏赐。高要一边讨好单总管以求关照，一边心中暗暗埋下报仇的决心。小川处处帮着范喜良，庞副将认为小川存心与自己作对，小川扬言要与其比武。落败的庞副将反而大呼痛快，十分赏识小川的武艺，要其到自己帐下当兵，小川拒绝打仗杀人，庞副将下令小川从此可以不再上铐。相谈间小川得知范喜良的妻子竟然就是孟姜女。突然戎狄来犯边境，秦兵寡不敌众，都被俘虏做了图安国的奴隶。大川经由千年老妖指点在古医书夹缝中找到一幅地图，上面还有一首《汤巫决》，表面上讲的是药材，实际却与地图坐标相对应。易妈妈看到口诀不由惊叹一声，原来这其中的一句口诀是他们家族的秘诀。易妈妈又拿出他们金家的祖传戒指，戒指正是扣龙锁的钥匙。易妈妈告诉他们只要通过口诀和地图找全金木水火土五行者的后人和他们家族的戒指，就可以打开宝盒。于是他们再次动身去图安寻找木行者家族。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2010-01-02</premiered>
+  <aired>2010-01-02</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV</studio>
+  <actor>
+    <name>Hu Ge</name>
+    <role>Yi Xiaochuan</role>
+    <thumb>https://image.tmdb.org/t/p/h632/yMDKxcljmEFhxSGk3oeW3sl2YKu.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1106514</profile>
+    <tmdbid>1106514</tmdbid>
+  </actor>
+  <actor>
+    <name>Bai Bing</name>
+    <role>Princess Yushu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zOQQiaxjfJDyMTKsriTwtsVO4nb.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1018707</profile>
+    <tmdbid>1018707</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Shi</name>
+    <role>Gao Yao</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pb5zDbkuUSPJvwCYOrqcQoezx7A.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/228914</profile>
+    <tmdbid>228914</tmdbid>
+  </actor>
+  <actor>
+    <name>Ren Quan</name>
+    <role>Yi Dachuan</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mebbI3SWZrieFpgOfHh7F5i5acA.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1061379</profile>
+    <tmdbid>1061379</tmdbid>
+  </actor>
+  <actor>
+    <name>Chen Zihan</name>
+    <role>Lv Zhi</role>
+    <thumb>https://image.tmdb.org/t/p/h632/rEk01y6ClOOt5UnV922ABCulFoW.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/593166</profile>
+    <tmdbid>593166</tmdbid>
+  </actor>
+  <actor>
+    <name>Jin Sha</name>
+    <role>Lv Su</role>
+    <thumb>https://image.tmdb.org/t/p/h632/7i0OprvfmHiqrNDF9LTxVwXZqrv.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2035952</profile>
+    <tmdbid>2035952</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Yixiang</name>
+    <role>Liu Bang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zBf1OqKC4e7PjP3xCKzBgfsDQsV.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/71050</profile>
+    <tmdbid>71050</tmdbid>
+  </actor>
+  <actor>
+    <name>Tan Kai</name>
+    <role>Xiang Yu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hVwVrNZmaEgdzsnrNqvJKqpxmdg.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1183237</profile>
+    <tmdbid>1183237</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Meng</name>
+    <role>Gao Lan</role>
+    <thumb>https://image.tmdb.org/t/p/h632/1YVFLHCxI6QpGDlxx4OH4pWmbFH.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1612556</profile>
+    <tmdbid>1612556</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Xiaoxi</name>
+    <role>Li Si</role>
+    <profile>https://www.themoviedb.org/person/2035953</profile>
+    <tmdbid>2035953</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Kefei</name>
+    <role>San Bao</role>
+    <thumb>https://image.tmdb.org/t/p/h632/3nmNPuY3c86yXYkdIzuoVEF8nUv.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2035955</profile>
+    <tmdbid>2035955</tmdbid>
+  </actor>
+  <actor>
+    <name>Gao Longke</name>
+    <role>Qingqing</role>
+    <profile>https://www.themoviedb.org/person/2035958</profile>
+    <tmdbid>2035958</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Chunzhong</name>
+    <role>Zhong Limei</role>
+    <thumb>https://image.tmdb.org/t/p/h632/cc3EgEn4v7z7dPYui2zSECTezsm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1611492</profile>
+    <tmdbid>1611492</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhou Yemang</name>
+    <role>Fan Zeng</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pMh1RR9tQnOQk3ffrH8iKEzG1sZ.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/554855</profile>
+    <tmdbid>554855</tmdbid>
+  </actor>
+  <actor>
+    <name>Allen Ting Chi-Chun</name>
+    <role>Meng Tian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/cVaRPD0DM7XTDYBPtHHHC7ZOGhc.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1341003</profile>
+    <tmdbid>1341003</tmdbid>
+  </actor>
+  <actor>
+    <name>Terry Shi</name>
+    <role>Li You</role>
+    <profile>https://www.themoviedb.org/person/2035961</profile>
+    <tmdbid>2035961</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Ziwu</name>
+    <role>项梁</role>
+    <thumb>https://image.tmdb.org/t/p/h632/hBJZdqrVyk5ffnobYy9ajN0B0h3.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2919817</profile>
+    <tmdbid>2919817</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Min</name>
+    <role>易所长</role>
+    <thumb>https://image.tmdb.org/t/p/h632/7JcU3jdYQpj2f6XcP37TQKLN1pN.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2793301</profile>
+    <tmdbid>2793301</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 13:56:16</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神话.S01E10.mkv</original_filename>
+  <user_note/>
+</episodedetails>

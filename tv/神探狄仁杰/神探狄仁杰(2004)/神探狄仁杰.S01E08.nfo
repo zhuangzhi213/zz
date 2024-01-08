@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:50:02 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>使团惊魂08</title>
+  <originaltitle>使团惊魂08</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>892636</id>
+  <uniqueid default="false" type="tmdb">892636</uniqueid>
+  <uniqueid default="true" type="tvdb">892636</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>　　果然不出所料，第二天，狄公拿到了草木灰上拓下的一双鞋印，他的招术还真灵。大柳树村全体村民赶到行辕向狄公致谢，感谢他昭雪冤狱，除暴安良。狄公感叹地说：老百姓的要求并不高，只要有地种、有饭吃。我们这些当官的如果连这都做不到，那就趁早摘下乌纱回家得了。正说着，有人来报说官府库存的官银都不见了。狄公听罢陈禀倍感奇怪，要说方、吴两人盗取官银也倒在预料之中。可他们竟将银库都搬空了，这的确是一件匪夷所思之事。狄公下令一面继续细勘刺使府，一面撤查与府库有关人员。同时，清查辖区内所有银号、钱庄，一定要找到官银的下落。撤查工作一时聊无进展，几个人闷了喝茶，不慎将茶杯掉在地上，通过茶水的急渗，这才发现了地下的暗道机关。在暗道密室里，他们找到了输银的痕迹，而且竟奇迹似地发现了真正的幽州刺史方谦，并由此了解了一段鲜为人知的委曲。　　  虎敬晖总是觉得真方谦的声音非常耳熟，但就是想不起来在哪儿听到过。狄公告诉他去暗道中将一个假发套拣回来，他就什么都明白了。虎敬晖如其所说，果然捡了个假发套回来。狄公叫来方谦，当面揭破他就是虎敬晖审了一年多的在逃犯刘金。刘金身份的暴露，使得使团被杀一案的破案有了重大进展，案情基本上浮出水面，明朗化了。　　  虎敬晖急着结案，狄公却并不着急，他提了三个问题：一，刘金身上那份名单在哪？他为什么不逃走？如果刘金真是元凶，他还需要将头皮揭下来交给别人吗？第二，自我们到幽州后，那个在甘南和京城时时出没的“蝮蛇”就不见了踪影，那块带有标识意义的白手帕再也没有出现过，这正常吗？“蝮蛇”是涉案的第一号凶犯，杀使团刺郡主都是由他一手策划和执行的。可偏偏是到了幽州，他就不见了。我们查处方谦，清扫逆党，如果说我们真的触及到了此案的核心，他会不跳出来吗？第三，府库中的大笔官银到了哪里？干什么用了？城中数十家银号、钱庄没有一家走过数额如此巨大的款项。那么，几百万两银子不翼而飞，你们不感到奇怪吗？他交代李元芳一定要眼不错珠地盯住刘金，不能有任何差错。“蝮蛇”找到金木兰大发雷霆。金木兰解释说这是个意外，刘金回到幽州后她即命假方谦还位给他，不料假方案谦阳奉阴违，私自将刘金关了起来。“蝮蛇”一声冷笑道：为了区区几十万两抚慰银，竟让我们断送了经营几十年的幽州。现在刘金突然暴露，会断送我们的整个计划。二人决定杀掉刘金灭口。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2004-08-12</premiered>
+  <aired>2004-08-12</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhu Yanping</name>
+    <role>虎敬晖/蝮蛇/蝮敬辉/剑灵</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zNpZiZLESr4M805Alii2bMPX1e6.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1612190</profile>
+    <tmdbid>1612190</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xin</name>
+    <role>Yingyu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mw1jQzfF8QgGOJFyfMZCQJxmh4f.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1241445</profile>
+    <tmdbid>1241445</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Pang</name>
+    <role>Li Qingxia</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bQ42z63uG3Y9G5VPdipo7iL3sSC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1081095</profile>
+    <tmdbid>1081095</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 14:55:41</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S01E08.mp4</original_filename>
+  <user_note/>
+</episodedetails>

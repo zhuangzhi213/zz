@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:51:34 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>漕渠魅影（邗沟覆船案）</title>
+  <originaltitle>漕渠魅影（邗沟覆船案）</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>3</season>
+  <episode>30</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1482733</id>
+  <uniqueid default="false" type="tmdb">1482733</uniqueid>
+  <uniqueid default="true" type="tvdb">1482733</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>狄公、曾泰从山阳赶回扬州，封可言接着。狄公忙问起李元芳的消息。他没有到扬州，连半点儿消息都没有。狄公神色凝重，不无忧虑。曾泰劝道：说不定元芳在途中发现了什么，追查去了。以前元芳不也经常如此吗？狄公勉强点了点头：“也许吧……。”通过几日的调查，案情的几个要点已经明确。次日清晨，狄公到码头面见扬州及漕衙众官，宣旨完毕后，他公开表示了对邗沟覆船案的怀疑，并透露他已经知道有人在邗沟覆船后盗捞官盐。这番巧诈立刻起到了敲山震虎的作用。狄公认为只有查出官盐的藏匿地点和林阳的真实身份，案情才能取得重大突破，这两点，待狄春回来后便会有些眉目。他决定先将李翰的死因查明。这时，封可言来报，说已经查到鸿通柜坊的所在。狄公打扮成商贾来到鸿通柜坊。他带着在李翰死亡现场发现的白银凭信，柜坊的周掌柜一见凭信大吃一惊，急忙派出管事前去密报主人，军头肖豹随后跟上。柜坊中，狄公对掌柜再三磨问，周掌柜只咬死了是李翰亲自前来存银，还说李翰留下了亲笔签名。不一会，掌柜按照狄公的要求兑付了十万两白银。终于将狄公打发了出去，他长长地出了一口气。狄公回到行辕，肖豹报说自己跟踪管事，发现管事进了城南的颖王府，过了约摸一刻才出来，回到了柜坊。狄公点头道：管事肯定是带回了主人的口信，掌柜这才将现银兑给了我。看来，鸿通柜坊之主竟是颖王。曾泰问颖王是什么来历，狄公说：颖王名叫元齐，在平定徐敬业叛乱时出力颇多，很得皇帝喜爱。真想不到，他竟然经营起如此庞大的柜坊。狄公思索着与周掌柜交谈之时发现的几个疑点。他由此断定，鸿通柜坊必然与扬州官场有着千丝万缕的联系，且掌握着一些关于李翰之死的内情。曾泰问是什么，狄公道：“现在还不好说呀。”</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2008-03-15</premiered>
+  <aired>2008-03-15</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Xuan</name>
+    <role>云姑/葛亚清</role>
+    <thumb>https://image.tmdb.org/t/p/h632/xDa2OwVawvoO4Fphi6dkoAeISyg.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/565343</profile>
+    <tmdbid>565343</tmdbid>
+  </actor>
+  <actor>
+    <name>Qu Shanshan</name>
+    <role>宁氏</role>
+    <thumb>https://image.tmdb.org/t/p/h632/q9SYzyqWl35bSDsL2DJ02l9GfHz.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2795038</profile>
+    <tmdbid>2795038</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuan Ran</name>
+    <role>小桃</role>
+    <thumb>https://image.tmdb.org/t/p/h632/u6LlaVmrXP3xusFP10RiJYyox2k.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2275188</profile>
+    <tmdbid>2275188</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 15:00:59</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S03E30.mp4</original_filename>
+  <user_note/>
+</episodedetails>

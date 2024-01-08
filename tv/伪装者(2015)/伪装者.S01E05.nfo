@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-13 14:41:17 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>汪梁联手设局试控明楼 明镜误会明楼附逆</title>
+  <originaltitle>汪梁联手设局试控明楼 明镜误会明楼附逆</originaltitle>
+  <showtitle>伪装者</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1252820</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>新政府近日在筹备一个所谓的和平大会，与会人员都与日方有着密切的关系。中共地下党的上海行动小组在秘密组织破坏行动，而76号情报处与特高课则负责着各个人员的人身安全，一切看似平静，却暗藏汹涌。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2015-09-02</premiered>
+  <aired>2015-09-02</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Mango TV</studio>
+  <studio>Youku</studio>
+  <studio>东阳正午阳光影视有限公司</studio>
+  <credits tmdbid="2964276">Zhang Yong</credits>
+  <director tmdbid="1805546">Xue Li</director>
+  <actor>
+    <name>Hu Ge</name>
+    <role>Ming Tai / 明台</role>
+    <thumb>https://image.tmdb.org/t/p/h632/yMDKxcljmEFhxSGk3oeW3sl2YKu.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1106514</profile>
+    <tmdbid>1106514</tmdbid>
+  </actor>
+  <actor>
+    <name>Jin Dong</name>
+    <role>Ming Lou / 明楼</role>
+    <thumb>https://image.tmdb.org/t/p/h632/qqzMgkBbIEHpmqDgc8WyI9AKmN.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1727498</profile>
+    <tmdbid>1727498</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Wang</name>
+    <role>Ming Cheng / 明诚</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zOdsIgzZWDLKKnysMJFsisyMgyc.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1559226</profile>
+    <tmdbid>1559226</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Mintao</name>
+    <role>Ming Jing / 明镜</role>
+    <thumb>https://image.tmdb.org/t/p/h632/wWL0NqTUsCxa14Uuywsv55ZsykB.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1079119</profile>
+    <tmdbid>1079119</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Ou</name>
+    <role>Wang ManChun / 汪曼春</role>
+    <thumb>https://image.tmdb.org/t/p/h632/y19WCddjMTZPh4SIkFULZpeMG9w.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1739264</profile>
+    <tmdbid>1739264</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Yijun</name>
+    <role>Wang TianFeng / 王天风</role>
+    <thumb>https://image.tmdb.org/t/p/h632/jlNoIru7Dwyq7UAICY3yYw8U5z4.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1971602</profile>
+    <tmdbid>1971602</tmdbid>
+  </actor>
+  <actor>
+    <name>Song Yi</name>
+    <role>Yu ManLi / 于曼丽</role>
+    <thumb>https://image.tmdb.org/t/p/h632/p1qicMHXRqzkhVGTj99ehLYrk5s.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1877119</profile>
+    <tmdbid>1877119</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Lejun</name>
+    <role>Cheng JinYun / 程锦云</role>
+    <thumb>https://image.tmdb.org/t/p/h632/jel2TgKTmOw66YzD9p87jkivRRX.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2357658</profile>
+    <tmdbid>2357658</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Hong</name>
+    <role>Lin canmou</role>
+    <thumb>https://image.tmdb.org/t/p/h632/6UnLZU3ftHQt6GbN2j4JqTlZ0LU.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3163264</profile>
+    <tmdbid>3163264</tmdbid>
+  </actor>
+  <actor>
+    <name>Yue Yang</name>
+    <role>ZhongChuan Lian / 梁仲春</role>
+    <thumb>https://image.tmdb.org/t/p/h632/4m7lQYXhAKjZVHoFdyvM0KIAQVr.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2965311</profile>
+    <tmdbid>2965311</tmdbid>
+  </actor>
+  <actor>
+    <name>Guo Xiaofeng</name>
+    <role>Li Uncle / 黎叔</role>
+    <thumb>https://image.tmdb.org/t/p/h632/d58UuRg36p4ZfW1Rro6Us3gEo6t.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2790104</profile>
+    <tmdbid>2790104</tmdbid>
+  </actor>
+  <actor>
+    <name>Guo Hong</name>
+    <role>Gui Aunt / 桂姨</role>
+    <thumb>https://image.tmdb.org/t/p/h632/avCiisWIj0oeRr8mJPDUvxzXELG.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3230130</profile>
+    <tmdbid>3230130</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Zheng</name>
+    <role>QiYun Guo / 郭骑云</role>
+    <thumb>https://image.tmdb.org/t/p/h632/coyUeI9vqvTVgERbXP2A579vH7g.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1562570</profile>
+    <tmdbid>1562570</tmdbid>
+  </actor>
+  <actor>
+    <name>Lilie Matsumine</name>
+    <role>YangZi NanTian / 南田洋子</role>
+    <thumb>https://image.tmdb.org/t/p/h632/dgci9RSBOH2dwm1FeHBiA0AuaHE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3057927</profile>
+    <tmdbid>3057927</tmdbid>
+  </actor>
+  <actor>
+    <name>Yasuyuki Hirata</name>
+    <role>FangZheng TengTian / 藤田芳政</role>
+    <thumb>https://image.tmdb.org/t/p/h632/2gAZHCyjYJMk47kS1OhCDLb37FC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1252774</profile>
+    <tmdbid>1252774</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Yanyan</name>
+    <role>Mrs Su / 苏太太</role>
+    <thumb>https://image.tmdb.org/t/p/h632/kjz9dl25oi1stWmb7TVnBSBP51y.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2920461</profile>
+    <tmdbid>2920461</tmdbid>
+  </actor>
+  <actor>
+    <name>Mengyao Zhu</name>
+    <role>Xiang / 阿香</role>
+    <profile>https://www.themoviedb.org/person/3858836</profile>
+    <tmdbid>3858836</tmdbid>
+  </actor>
+  <actor>
+    <name>Mengjia Sun</name>
+    <role>WeiYin Zhu / 朱徽茵</role>
+    <thumb>https://image.tmdb.org/t/p/h632/gUyWr5hDNqN0CaV21klO2vRSmmO.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3858842</profile>
+    <tmdbid>3858842</tmdbid>
+  </actor>
+  <actor>
+    <name>Hui Feng</name>
+    <role>Ming Tang / 明堂</role>
+    <thumb>https://image.tmdb.org/t/p/h632/qWAqXiz8XmLK7Z2EJWfaeCljvBx.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2965312</profile>
+    <tmdbid>2965312</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Lu</name>
+    <role>Liu Secretary / 刘秘书</role>
+    <thumb>https://image.tmdb.org/t/p/h632/aE0G5KBwTaEIYZ0uDyzJX44sTXL.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3646359</profile>
+    <tmdbid>3646359</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 14:40:47</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>伪装者.S01E05.mp4</original_filename>
+  <user_note/>
+</episodedetails>

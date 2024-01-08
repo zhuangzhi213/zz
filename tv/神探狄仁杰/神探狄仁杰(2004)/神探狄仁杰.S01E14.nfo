@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:50:07 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>蓝衫记01</title>
+  <originaltitle>蓝衫记01</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1222292</id>
+  <uniqueid default="false" type="tmdb">1222292</uniqueid>
+  <uniqueid default="true" type="tvdb">1222292</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>湖州郊外，狄公时任江南道黜置使、与李元芳下来暗察民情，正在与一蜂农聊天，见有大群蜜蜂向西飞去，引起好奇，便循蜂来到十几里外的刘家庄。适值刘家娶亲，狄公与庄主之子刘传林一番寒暄，以自己的眼力判断刘家这桩婚事乃是家父再娶，而且娶得是一位青楼女子。从排场来看，此家也不是一般的财主，而是归田的官宦。刘公子惊叹狄公的眼力，称他是奇人，高兴之余请他二人进后花园参观，由刘府管家刘大陪同。狄公借便问起蜜蜂之事，发现了世间奇葩那兰提花。问起花的来历，刘大说是新夫人带来的。二人正观得兴至，不料逢着刘员外与夫人吵嘴，刘员外十分恼怒，责怪刘大随便领人进园，闹得二人十分尴尬。  二人走在县城街上，县衙的堂鼓将他们吸引过去。原来，是曾泰在升堂问案。案情是近两天此地接连发现两具尸体，曾泰经查证，断定两人分别为本地人张春和王五所杀。狄公仔细验看了证据，批评曾泰身为一方父母，遇人命大案，不加详查便轻率定罪，滥施刑罚，岂不是草菅人命？经狄公再审，案情逐步露出了端倪。原来，此二人并非张、王所杀，而是有人嫁祸给他们。两个被害人有个共同点，他们都是北方人，都姓吴，都在湖州被害，都是被职业杀手一刀致命，却都没有身份文牒。看来张春、王五肯定是当了替罪羊了。曾泰对狄公的分析十分服气。那么真正的凶手是什么人？这样做的目的何在呢？狄公道：看来我们遇到真正的无头案了。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2004-08-18</premiered>
+  <aired>2004-08-18</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhu Yanping</name>
+    <role>虎敬晖/蝮蛇/蝮敬辉/剑灵</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zNpZiZLESr4M805Alii2bMPX1e6.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1612190</profile>
+    <tmdbid>1612190</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xin</name>
+    <role>Yingyu</role>
+    <thumb>https://image.tmdb.org/t/p/h632/mw1jQzfF8QgGOJFyfMZCQJxmh4f.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1241445</profile>
+    <tmdbid>1241445</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Pang</name>
+    <role>Li Qingxia</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bQ42z63uG3Y9G5VPdipo7iL3sSC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1081095</profile>
+    <tmdbid>1081095</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 14:55:41</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S01E14.mp4</original_filename>
+  <user_note/>
+</episodedetails>

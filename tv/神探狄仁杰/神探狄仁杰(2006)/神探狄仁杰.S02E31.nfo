@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:50:54 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>血色江州</title>
+  <originaltitle>血色江州</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>2</season>
+  <episode>31</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1482694</id>
+  <uniqueid default="false" type="tmdb">1482694</uniqueid>
+  <uniqueid default="true" type="tvdb">1482694</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>　　五平县丞因惧怕杜二威胁，竟将吴四的尸体暴露衙外以诱捕被狄公等放归的锦娘，锦娘果然上当，来衙击鼓鸣冤，被衙役们当场抓获。然而，狄公和新县令林永忠也恰在此时押着恶奴杜二赶到了衙中。只是，杜二来了县衙反倒更为嚣张起来，口出狂言不断威胁县丞和县令，结果被如燕痛打一顿送进了大牢。狄公分析，侯爷薛青麟决不会善罢甘休，而只有杀掉了薛青麟的锐气，才会使大家真正地从恐惧中解脱出来。而薛青麟乃称霸一方的诸侯，前任县令黄文越又对他俯首贴耳卑躬屈膝，致使他更加不可一世万分嚣张。于是，狄公故意放纵回去报信，将县衙杜二的消息传给薛青麟。薛青麟果然上当，怒发冲冠，亲率打手前来要人。薛青麟带人前来，但见衙堂大门紧闭，阒无人迹，怎么喝叫也无人理会。盛怒之下命人砸了大门闯进公堂。薛青麟手掣钢刀，在一众打手的簇拥下走向公堂。公堂里静悄悄的，只有一人坐在公案之后静静地看书，正是狄公。一番雷霆闪电般的文武较量之后，六大军头所率千牛卫和林永忠所率一众衙役将侯府人众围得像铁桶一般。薛青麟此时方知中了对手的圈套，直吓得面如土色浑身颤抖。林永忠本拟就事参治薛青麟私率家甲杀进县衙造反作乱的大逆之罪，却被狄公有意劝止了。在狄公的授意操纵下，林永忠命薛青麟为锦娘写了赦书还她自由，以后不准再行欺辱，挟恨报复。当堂判斩了恶奴杜二，悬首城门发放告示以泄民愤。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2006-11-20</premiered>
+  <aired>2006-11-20</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Shu Yan</name>
+    <thumb>https://image.tmdb.org/t/p/h632/zcuFqu5sU03VNWfesBMrGbLIS2E.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3236208</profile>
+    <tmdbid>3236208</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xinyan</name>
+    <role>狄如燕(苏显儿)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/vDZFLsBEWJopjtYbaIf3VJRPold.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286866</profile>
+    <tmdbid>2286866</tmdbid>
+  </actor>
+  <actor>
+    <name>Er Cha Huo</name>
+    <role>权善才</role>
+    <profile>https://www.themoviedb.org/person/553498</profile>
+    <tmdbid>553498</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 15:00:59</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S02E31.mp4</original_filename>
+  <user_note/>
+</episodedetails>

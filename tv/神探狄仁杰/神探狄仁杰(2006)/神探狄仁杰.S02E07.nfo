@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2023-12-14 10:50:29 - tinyMediaManager 4.3.14-->
+<episodedetails>
+  <title>关河疑影（崇州案）</title>
+  <originaltitle>关河疑影（崇州案）</originaltitle>
+  <showtitle>神探狄仁杰</showtitle>
+  <season>2</season>
+  <episode>7</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id>1482669</id>
+  <uniqueid default="false" type="tmdb">1482669</uniqueid>
+  <uniqueid default="true" type="tvdb">1482669</uniqueid>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>　　四人一起潜入崇州，不料消息走漏，王孝杰带大军包围驿馆。李元芳挺身而出，与王孝杰谈判。李元芳觉得丘静、李楷固是崇州案的重要知情者，不能落到王孝杰手中，但他不愿意为了一些不必要的斗争而伤及无辜，不得时已他出手制住了王孝杰。王孝杰被李元芳利剑加颈，服软诈降，同意请狄公来一辩是非。如燕趁乱跑回去报信。待李元芳等拱手受缚后，他却突然变卦，命军卒乱箭射死三人。李元芳挣断绳索，蹦起要与王孝杰拼命，王孝杰惊讶之余命令放箭射李楷固和丘静。为掩护丘静、李楷固，李元芳不惜用身体挡住数箭，身中乱箭的他生命垂危，却巍然不倒，拼死保护这二人。幸好狄公率权善才等及时赶到，这才制止了事态的进一步恶化。狄公强压怒火，将王孝杰大骂一通，之后王孝杰被就地免职，威风扫地。李元芳重伤昏迷不醒，狄公等人担心不已，守着他的如燕详细地汇报了他们沿着贺兰驿追踪调查的经过。还拿出了在东柳林缴获的十几份丘静所发塘报。狄公分析此前的种种迹象得出一个结论，王孝杰在塘报一事上说了谎。狄公请来丘静、李楷固。根据二人提供的情况，王孝杰通敌的嫌疑大了起来，其中还引出了重要的当事人孙副将和契丹奸细陈有龙。可惜孙副将被李楷固失手杀死，陈有龙也趁乱逃走了。一切线索都断了，看来兵败一案还真有点玄了。狄公和曾泰分析，觉得在整个案件的背后，一定有一股庞大的势力在暗中支持。甚至赵文翙部的失踪，也定与这股神秘的势力有关。看来唯有从王孝杰身上下手突破，才会使案情获得转机。然而，正当狄公选择时机准备对王孝杰进行突破时，却得知王孝杰意外地出逃了。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2006-11-20</premiered>
+  <aired>2006-11-20</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CCTV-8</studio>
+  <studio>CCTV</studio>
+  <director tmdbid="1256179">Qian Yanqiu</director>
+  <actor>
+    <name>Liang Guanhua</name>
+    <role>Di Renjie</role>
+    <thumb>https://image.tmdb.org/t/p/h632/x4bdMsT6nYA0B3jXw0MPOJqPMKE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zijian</name>
+    <role>Li Yuanfang</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pJhd9aAuPBASANbexUFGkqKrvvj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qian</name>
+    <role>Zeng Tai</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nCoe6mH3pgnWGEFus78ALqzHcc7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhigang Zhao</name>
+    <role>Di Chun</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bpSf3D8YbymdoVeuSkfpFVZRiCm.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lü Zhong</name>
+    <role>Wu Zetian</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eoGlUGWEl5olaz9hA9l2VKKbcuC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>Shu Yan</name>
+    <thumb>https://image.tmdb.org/t/p/h632/zcuFqu5sU03VNWfesBMrGbLIS2E.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3236208</profile>
+    <tmdbid>3236208</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xinyan</name>
+    <role>狄如燕(苏显儿)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/vDZFLsBEWJopjtYbaIf3VJRPold.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2286866</profile>
+    <tmdbid>2286866</tmdbid>
+  </actor>
+  <actor>
+    <name>Er Cha Huo</name>
+    <role>权善才</role>
+    <profile>https://www.themoviedb.org/person/553498</profile>
+    <tmdbid>553498</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2023-12-13 15:00:59</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.9</aspect>
+        <width>1152</width>
+        <height>614</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>神探狄仁杰.S02E07.mp4</original_filename>
+  <user_note/>
+</episodedetails>
