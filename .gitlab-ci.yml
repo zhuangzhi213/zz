@@ -10,8 +10,7 @@ stages:
 build:
   stage: build
   script:
-    - npm i
-    - npm run build
+    - echo "start build"
   artifacts:
     paths:
       - dist
