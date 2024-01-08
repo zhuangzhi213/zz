@@ -1,36 +1,14 @@
-image: node:latest # 针对前端，选择合适的node镜像
-
-# 定义各阶段的执行顺序
-stages:
-  - build
-  - deploy
-
-# 定义各阶段的具体执行命令
-# artifacts缓存在gitlab上的工件，用于将指定目录下的文件下载下来
-build:
+pages:
+  image: node:latest # 针对前端，选择合适的node镜像
   stage: build
   script:
-    - echo "start build"
+    - echo "start build..."
+    - echo $(pwd)
+  cache:
+    paths:
+    - node_modules/
   artifacts:
     paths:
-      - dist
+    - public
   tags:
-  - gitlab-org
-
-pages: # 该任务命名必须是pages，是gitlab内部任务
-  stage: deploy
-  script:
-    - rm -rf public/*
-    - mv dist/* public
-  artifacts:
-    paths:
-      - public
-  only:
-   - bundler-rollup
-  tags:
-  - gitlab-org
-
-cache:   # 定义缓存文件
-  paths: # 定义缓存文件的路径
-    - node_modules # 在下一次触发 gitlab-ci 时，缓存会被还原，就不用重复安装依赖。
-    - dist # 同时把 build 阶段生成的 dist 文件夹也缓存起来，在 deploy 阶段会用到。
+    - gitlab-org
