@@ -3,8 +3,9 @@ pages:
   stage: build
   script:
     - echo "start build..."
-    - rm -rf public
-    - cp -r ~/* /public
+    - rm -rf public/
+    - ls
+    - cp -r ~/* public/
   cache:
     paths:
     - node_modules/
