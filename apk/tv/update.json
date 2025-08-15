@@ -2,7 +2,7 @@
     "tag_name": "v1.0.0",
     "assets": [
         {
-            "browser_download_url": "http://code.chn.us.kg/zhuangzhi213/TV-APP/releases/download/latest/mytv-android-tv-latest-all-sdk21.apk"
+            "browser_download_url": "http://code.chn.us.kg/zhuangzhi213/TV-APP/releases/download/latest/tv-latest-all-sdk21.apk"
         }
     ],
     "body": "1.更新app的Icon;\n2.添加默认节目源和节目单;\n3.修改更新通道地址。"
