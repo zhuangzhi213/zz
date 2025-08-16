@@ -2,7 +2,7 @@
     "tag_name": "v1.0.2",
     "assets": [
         {
-            "browser_download_url": "https://code.chn.us.kg/zhuangzhi213/TV-APP/releases/download/latest/tv-latest-all-sdk21.apk"
+            "browser_download_url": "https://ghproxy.net/https://raw.githubusercontent.com/zhuangzhi213/zz/refs/heads/main/apk/tv/tv-latest-all-sdk21.apk"
         }
     ],
     "body": "1. 修复了banner显示图标问题；\n2. 优化了软件包资源，减小了体积；\n3. 修改默认内置源。"
