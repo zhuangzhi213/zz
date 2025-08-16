@@ -2,12 +2,13 @@
     "tag_name": "v1.0.3",
     "assets": [
         {
-            "browser_download_url": "https://ghproxy.net/https://github.com/zhuangzhi213/zz/releases/download/latest/tv-1.0.2-all-sdk21.apk"
+            "browser_download_url": "https://github.com/zhuangzhi213/zz/releases/download/latest/tv-1.0.2-all-sdk21.apk"
         }
     ],
     "body": "1. 修复了banner显示图标问题；\n2. 优化了软件包资源，减小了体积；\n3. 修改默认内置源; \n4. 更新了软件更新逻辑。"
 
 }
+
 
 
 
